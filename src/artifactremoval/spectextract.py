@@ -88,7 +88,7 @@ def perform_spectral_extraction(study, unique_ids, output_folder, overwrite=Fals
         si_sample = study.si_sampling()
         siref_sample = study.siref_sampling()
         siref = study.siref()
-        default_shape = (64, 64, 32, 512)
+        default_shape = (32, 64, 64, 512)
         try:
             spec = study.si()
             #spec = np.transpose(spec, (2, 1, 0, 3))
