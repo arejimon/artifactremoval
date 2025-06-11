@@ -1,8 +1,7 @@
 # artifactremovl
 /tests
-/ensemble_models
+/models
 /data
-/model_discovery
 
 # Byte-compiled / optimized / DLL files
 */__pycache__/
