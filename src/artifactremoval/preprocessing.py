@@ -74,8 +74,21 @@ def convert_midas2nifti(study, output_path):
             logging.warning(f"Brain Mask Warning: {e}. Problem with Brain Mask.")
         else:
             raise
+        
+        # Convert Brain Mask
+    try:
+        qmap_itk = study.qmap()[1]
+        qmap_sitk = itk_to_sitk(qmap_itk)
+        save_qmap_path = output_path / "unprocessed_qmap.nii.gz"
+        sitk.WriteImage(qmap_sitk, str(save_qmap_path))
+        logging.info(f"Saved QMAP at {save_qmap_path}")
+    except Exception as e:
+        if "does not exist" in str(e):
+            logging.warning(f"QMAP Warning: {e}. Problem with QMAP.")
+        else:
+            raise
 
-    return t1_sitk, flair_sitk, siref_sitk, brainmask_sitk
+    return t1_sitk, flair_sitk, siref_sitk, brainmask_sitk, qmap_sitk
 
 # ---------------------------------------------------------------------
 # Process a Single Study Conversion
@@ -100,7 +113,7 @@ def process_study_conversion(subject, study, interim_directory):
     
     try:
         # Convert MIDAS study data to NIfTI using the conversion function
-        t1_sitk, flair_sitk, siref_sitk, brainmask_sitk = convert_midas2nifti(study, output_path)
+        t1_sitk, flair_sitk, siref_sitk, brainmask_sitk, qmap_sitk = convert_midas2nifti(study, output_path)
         logging.info(f"Conversion completed for study {study.date} in subject {subject.subject_path}")
     except Exception as e:
         logging.error(f"Error processing subject {subject.subject_path} study {study.date}: {e}")
@@ -179,7 +192,8 @@ def check_and_copy_missing_subject(subject, interim_directory):
         "t1": "unprocessed_t1.nii.gz",
         "siref": "unprocessed_siref.nii.gz",
         "flair": "unprocessed_flair.nii.gz",
-        "brainmask": "unprocessed_brainmask.nii.gz"
+        "brainmask": "unprocessed_brainmask.nii.gz",
+        "qmap": "unprocess_qmap.nii.gz"
     }
     
     # Build a dictionary mapping study date to the unprocessed folder path
