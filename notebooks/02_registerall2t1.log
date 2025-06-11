@@ -1,0 +1,1499 @@
+2025-02-13 14:50:36,970 - INFO - Found 59 subjects to process.
+2025-02-13 14:50:36,971 - INFO - 
+=== Processing Subject: DOSEESC_EM01 ===
+2025-02-13 14:50:37,016 - INFO - Processing Subject DOSEESC_EM01 - Study 09/20/2017
+2025-02-13 14:50:37,187 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:50:37,260 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:50:37,299 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:50:37,312 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:50:37,313 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:50:39,017 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:50:39,036 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:50:40,104 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:50:41,083 - INFO - 	Saved T1
+2025-02-13 14:50:42,786 - INFO - 	Saved SIREF
+2025-02-13 14:50:42,860 - INFO - 	Saved Brain Mask
+2025-02-13 14:50:43,539 - INFO - 	Saved FLAIR
+2025-02-13 14:50:43,543 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\02_registration\transform_siref.tfm
+2025-02-13 14:50:43,548 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\02_registration\transform_flair.tfm
+2025-02-13 14:50:43,557 - INFO - Processing Subject DOSEESC_EM01 - Study 10/16/2017
+2025-02-13 14:50:43,697 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:50:43,769 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:50:43,806 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:50:43,818 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:50:43,819 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:50:46,154 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:50:46,173 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:50:47,197 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:50:47,889 - INFO - 	Saved T1
+2025-02-13 14:50:49,535 - INFO - 	Saved SIREF
+2025-02-13 14:50:49,611 - INFO - 	Saved Brain Mask
+2025-02-13 14:50:50,289 - INFO - 	Saved FLAIR
+2025-02-13 14:50:50,294 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\02_registration\transform_siref.tfm
+2025-02-13 14:50:50,298 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\02_registration\transform_flair.tfm
+2025-02-13 14:50:50,306 - INFO - 
+=== Processing Subject: DOSEESC_EM02 ===
+2025-02-13 14:50:50,350 - INFO - Processing Subject DOSEESC_EM02 - Study 10/19/2017
+2025-02-13 14:50:50,524 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:50:50,598 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:50:50,637 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:50:50,649 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:50:50,650 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:50:51,896 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:50:51,916 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:50:52,828 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:50:54,007 - INFO - 	Saved T1
+2025-02-13 14:50:55,694 - INFO - 	Saved SIREF
+2025-02-13 14:50:55,793 - INFO - 	Saved Brain Mask
+2025-02-13 14:50:56,442 - INFO - 	Saved FLAIR
+2025-02-13 14:50:56,446 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\02_registration\transform_siref.tfm
+2025-02-13 14:50:56,450 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\02_registration\transform_flair.tfm
+2025-02-13 14:50:56,460 - INFO - Processing Subject DOSEESC_EM02 - Study 11/14/2017
+2025-02-13 14:50:56,628 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:50:56,713 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:50:56,751 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:50:56,763 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:50:56,764 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:50:59,709 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:50:59,728 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:00,574 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:51:01,428 - INFO - 	Saved T1
+2025-02-13 14:51:03,002 - INFO - 	Saved SIREF
+2025-02-13 14:51:03,100 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:03,774 - INFO - 	Saved FLAIR
+2025-02-13 14:51:03,782 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\02_registration\transform_siref.tfm
+2025-02-13 14:51:03,787 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\02_registration\transform_flair.tfm
+2025-02-13 14:51:03,797 - INFO - 
+=== Processing Subject: DOSEESC_EM03 ===
+2025-02-13 14:51:03,809 - INFO - Processing Subject DOSEESC_EM03 - Study 12/12/2017
+2025-02-13 14:51:03,988 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:04,076 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:04,116 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:04,129 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:04,130 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:51:05,897 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:51:05,919 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:06,846 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:51:08,062 - INFO - 	Saved T1
+2025-02-13 14:51:09,749 - INFO - 	Saved SIREF
+2025-02-13 14:51:09,840 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:10,715 - INFO - 	Saved FLAIR
+2025-02-13 14:51:10,719 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\02_registration\transform_siref.tfm
+2025-02-13 14:51:10,723 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\02_registration\transform_flair.tfm
+2025-02-13 14:51:10,731 - INFO - 
+=== Processing Subject: DOSEESC_EM04 ===
+2025-02-13 14:51:10,770 - INFO - Processing Subject DOSEESC_EM04 - Study 01/10/2018
+2025-02-13 14:51:10,934 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:11,014 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:11,052 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:11,065 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:11,065 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:51:13,263 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:51:13,282 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:14,609 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:51:15,602 - INFO - 	Saved T1
+2025-02-13 14:51:17,173 - INFO - 	Saved SIREF
+2025-02-13 14:51:17,254 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:17,894 - INFO - 	Saved FLAIR
+2025-02-13 14:51:17,899 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\02_registration\transform_siref.tfm
+2025-02-13 14:51:17,903 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\02_registration\transform_flair.tfm
+2025-02-13 14:51:17,913 - INFO - Processing Subject DOSEESC_EM04 - Study 02/07/2018
+2025-02-13 14:51:18,046 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:18,120 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:18,157 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:18,169 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:18,170 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:51:26,976 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:51:26,995 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:28,094 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:51:28,773 - INFO - 	Saved T1
+2025-02-13 14:51:30,235 - INFO - 	Saved SIREF
+2025-02-13 14:51:30,316 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:30,955 - INFO - 	Saved FLAIR
+2025-02-13 14:51:30,961 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\02_registration\transform_siref.tfm
+2025-02-13 14:51:30,966 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\02_registration\transform_flair.tfm
+2025-02-13 14:51:30,974 - INFO - 
+=== Processing Subject: DOSEESC_UM02 ===
+2025-02-13 14:51:30,989 - INFO - Processing Subject DOSEESC_UM02 - Study 01/22/2018
+2025-02-13 14:51:31,271 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:31,531 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:31,572 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:31,598 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:31,599 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:51:35,636 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:51:35,664 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:51:36,929 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:51:38,757 - INFO - 	Saved T1
+2025-02-13 14:51:41,222 - INFO - 	Saved SIREF
+2025-02-13 14:51:41,398 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:43,591 - INFO - 	Saved FLAIR
+2025-02-13 14:51:43,597 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\02_registration\transform_siref.tfm
+2025-02-13 14:51:43,603 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\02_registration\transform_flair.tfm
+2025-02-13 14:51:43,614 - INFO - 
+=== Processing Subject: DOSEESC_EM05 ===
+2025-02-13 14:51:43,660 - INFO - Processing Subject DOSEESC_EM05 - Study 01/31/2018
+2025-02-13 14:51:43,836 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:43,917 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:43,960 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:43,973 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:43,974 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:51:45,645 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:51:45,665 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:46,400 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:51:47,529 - INFO - 	Saved T1
+2025-02-13 14:51:49,107 - INFO - 	Saved SIREF
+2025-02-13 14:51:49,195 - INFO - 	Saved Brain Mask
+2025-02-13 14:51:49,901 - INFO - 	Saved FLAIR
+2025-02-13 14:51:49,907 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\02_registration\transform_siref.tfm
+2025-02-13 14:51:49,911 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\02_registration\transform_flair.tfm
+2025-02-13 14:51:49,922 - INFO - Processing Subject DOSEESC_EM05 - Study 02/23/2018
+2025-02-13 14:51:50,072 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:51:50,151 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:51:50,189 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:51:50,201 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:51:50,202 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:51:58,643 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:51:58,662 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:51:59,550 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:52:00,311 - INFO - 	Saved T1
+2025-02-13 14:52:01,817 - INFO - 	Saved SIREF
+2025-02-13 14:52:01,903 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:02,585 - INFO - 	Saved FLAIR
+2025-02-13 14:52:02,590 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:02,595 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:02,603 - INFO - 
+=== Processing Subject: DOSEESC_UM03 ===
+2025-02-13 14:52:02,664 - INFO - Processing Subject DOSEESC_UM03 - Study 02/05/2018
+2025-02-13 14:52:02,952 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:03,184 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:03,222 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:03,234 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:03,235 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:52:04,822 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:52:04,851 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:52:05,753 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:52:07,579 - INFO - 	Saved T1
+2025-02-13 14:52:10,024 - INFO - 	Saved SIREF
+2025-02-13 14:52:10,195 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:12,303 - INFO - 	Saved FLAIR
+2025-02-13 14:52:12,309 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:12,313 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:12,327 - INFO - Processing Subject DOSEESC_UM03 - Study 02/28/2018
+2025-02-13 14:52:12,581 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:12,809 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:12,848 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:12,870 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:12,872 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:52:14,601 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:52:14,634 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:52:15,514 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:52:17,075 - INFO - 	Saved T1
+2025-02-13 14:52:19,485 - INFO - 	Saved SIREF
+2025-02-13 14:52:19,655 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:21,630 - INFO - 	Saved FLAIR
+2025-02-13 14:52:21,636 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:21,641 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:21,653 - INFO - 
+=== Processing Subject: DOSEESC_EM06 ===
+2025-02-13 14:52:21,700 - INFO - Processing Subject DOSEESC_EM06 - Study 03/19/2018
+2025-02-13 14:52:21,875 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:21,954 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:21,992 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:22,005 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:22,006 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:52:30,675 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:52:30,696 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:52:31,452 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:52:32,508 - INFO - 	Saved T1
+2025-02-13 14:52:34,061 - INFO - 	Saved SIREF
+2025-02-13 14:52:34,141 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:34,702 - INFO - 	Saved FLAIR
+2025-02-13 14:52:34,709 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:34,713 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:34,725 - INFO - Processing Subject DOSEESC_EM06 - Study 04/13/2018
+2025-02-13 14:52:34,867 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:34,949 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:34,987 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:34,999 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:35,000 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:52:36,945 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:52:36,964 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:52:37,682 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:52:38,415 - INFO - 	Saved T1
+2025-02-13 14:52:39,956 - INFO - 	Saved SIREF
+2025-02-13 14:52:40,037 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:40,600 - INFO - 	Saved FLAIR
+2025-02-13 14:52:40,605 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:40,610 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:40,619 - INFO - 
+=== Processing Subject: DOSEESC_UM04 ===
+2025-02-13 14:52:40,674 - INFO - Processing Subject DOSEESC_UM04 - Study 03/28/2018
+2025-02-13 14:52:41,007 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:41,308 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:41,348 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:41,370 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:41,371 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:52:43,567 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:52:43,595 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:52:45,003 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:52:46,878 - INFO - 	Saved T1
+2025-02-13 14:52:49,264 - INFO - 	Saved SIREF
+2025-02-13 14:52:49,447 - INFO - 	Saved Brain Mask
+2025-02-13 14:52:51,690 - INFO - 	Saved FLAIR
+2025-02-13 14:52:51,695 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\02_registration\transform_siref.tfm
+2025-02-13 14:52:51,700 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\02_registration\transform_flair.tfm
+2025-02-13 14:52:51,719 - INFO - Processing Subject DOSEESC_UM04 - Study 04/18/2018
+2025-02-13 14:52:52,016 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:52:52,309 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:52:52,346 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:52:52,359 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:52:52,360 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:52:55,489 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:52:55,515 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:52:56,512 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:52:58,156 - INFO - 	Saved T1
+2025-02-13 14:53:00,632 - INFO - 	Saved SIREF
+2025-02-13 14:53:00,808 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:03,214 - INFO - 	Saved FLAIR
+2025-02-13 14:53:03,219 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:03,224 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:03,236 - INFO - 
+=== Processing Subject: DOSEESC_UM05 ===
+2025-02-13 14:53:03,295 - INFO - Processing Subject DOSEESC_UM05 - Study 05/02/2018
+2025-02-13 14:53:03,578 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:03,838 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:03,876 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:03,892 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:03,893 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:53:05,041 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:53:05,070 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:53:06,690 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:53:08,326 - INFO - 	Saved T1
+2025-02-13 14:53:10,798 - INFO - 	Saved SIREF
+2025-02-13 14:53:11,023 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:13,208 - INFO - 	Saved FLAIR
+2025-02-13 14:53:13,214 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:13,218 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:13,232 - INFO - Processing Subject DOSEESC_UM05 - Study 05/30/2018
+2025-02-13 14:53:13,503 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:13,782 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:13,819 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:13,832 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:13,833 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:53:16,885 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:53:16,913 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:53:19,141 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:53:20,752 - INFO - 	Saved T1
+2025-02-13 14:53:23,190 - INFO - 	Saved SIREF
+2025-02-13 14:53:23,367 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:25,615 - INFO - 	Saved FLAIR
+2025-02-13 14:53:25,621 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:25,626 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:25,638 - INFO - 
+=== Processing Subject: DOSEESC_JH01 ===
+2025-02-13 14:53:25,655 - INFO - Processing Subject DOSEESC_JH01 - Study 05/18/2018
+2025-02-13 14:53:25,864 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:25,936 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:25,974 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:25,987 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:25,988 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:26,603 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:26,624 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:27,112 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:28,402 - INFO - 	Saved T1
+2025-02-13 14:53:30,037 - INFO - 	Saved SIREF
+2025-02-13 14:53:30,135 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:31,311 - INFO - 	Saved FLAIR
+2025-02-13 14:53:31,316 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:31,321 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:31,331 - INFO - 
+=== Processing Subject: DOSEESC_JH02 ===
+2025-02-13 14:53:31,374 - INFO - Processing Subject DOSEESC_JH02 - Study 05/22/2018
+2025-02-13 14:53:31,565 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:31,630 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:31,669 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:31,681 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:31,682 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:32,458 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:32,480 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:32,925 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:34,080 - INFO - 	Saved T1
+2025-02-13 14:53:35,611 - INFO - 	Saved SIREF
+2025-02-13 14:53:35,706 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:36,888 - INFO - 	Saved FLAIR
+2025-02-13 14:53:36,894 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:36,899 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:36,911 - INFO - Processing Subject DOSEESC_JH02 - Study 06/18/2018
+2025-02-13 14:53:37,103 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:37,156 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:37,196 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:37,207 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:37,208 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:37,770 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:37,794 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:38,417 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:39,611 - INFO - 	Saved T1
+2025-02-13 14:53:41,179 - INFO - 	Saved SIREF
+2025-02-13 14:53:41,277 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:42,424 - INFO - 	Saved FLAIR
+2025-02-13 14:53:42,430 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:42,434 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:42,444 - INFO - 
+=== Processing Subject: DOSEESC_JH03 ===
+2025-02-13 14:53:42,495 - INFO - Processing Subject DOSEESC_JH03 - Study 07/06/2018
+2025-02-13 14:53:42,690 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:42,754 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:42,800 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:42,814 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:42,815 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:43,994 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:44,017 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:44,497 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:45,707 - INFO - 	Saved T1
+2025-02-13 14:53:47,259 - INFO - 	Saved SIREF
+2025-02-13 14:53:47,346 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:48,536 - INFO - 	Saved FLAIR
+2025-02-13 14:53:48,542 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:48,546 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:48,559 - INFO - Processing Subject DOSEESC_JH03 - Study 08/03/2018
+2025-02-13 14:53:48,726 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:48,789 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:48,833 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:48,846 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:48,847 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:49,631 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:49,653 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:50,099 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:50,984 - INFO - 	Saved T1
+2025-02-13 14:53:52,479 - INFO - 	Saved SIREF
+2025-02-13 14:53:52,570 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:53,688 - INFO - 	Saved FLAIR
+2025-02-13 14:53:53,693 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:53,698 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:53,709 - INFO - 
+=== Processing Subject: DOSEESC_JH04 ===
+2025-02-13 14:53:53,724 - INFO - Processing Subject DOSEESC_JH04 - Study 07/06/2018
+2025-02-13 14:53:53,916 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:53,983 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:53:54,020 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:53:54,033 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:53:54,034 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:53:55,001 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:53:55,024 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:53:55,465 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:53:56,675 - INFO - 	Saved T1
+2025-02-13 14:53:58,207 - INFO - 	Saved SIREF
+2025-02-13 14:53:58,307 - INFO - 	Saved Brain Mask
+2025-02-13 14:53:59,392 - INFO - 	Saved FLAIR
+2025-02-13 14:53:59,397 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\02_registration\transform_siref.tfm
+2025-02-13 14:53:59,402 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\02_registration\transform_flair.tfm
+2025-02-13 14:53:59,411 - INFO - 
+=== Processing Subject: DOSEESC_UM06 ===
+2025-02-13 14:53:59,455 - INFO - Processing Subject DOSEESC_UM06 - Study 05/23/2018
+2025-02-13 14:53:59,724 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:53:59,960 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:54:00,005 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:54:00,016 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:54:00,017 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:54:01,939 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:54:01,967 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:54:03,301 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:54:05,159 - INFO - 	Saved T1
+2025-02-13 14:54:07,643 - INFO - 	Saved SIREF
+2025-02-13 14:54:07,811 - INFO - 	Saved Brain Mask
+2025-02-13 14:54:09,922 - INFO - 	Saved FLAIR
+2025-02-13 14:54:09,927 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\02_registration\transform_siref.tfm
+2025-02-13 14:54:09,932 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\02_registration\transform_flair.tfm
+2025-02-13 14:54:09,946 - INFO - Processing Subject DOSEESC_UM06 - Study 06/18/2018
+2025-02-13 14:54:10,198 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:54:10,436 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:54:10,476 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:54:10,488 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:54:10,489 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:54:13,288 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:54:13,315 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:54:14,762 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:54:16,329 - INFO - 	Saved T1
+2025-02-13 14:54:18,763 - INFO - 	Saved SIREF
+2025-02-13 14:54:18,938 - INFO - 	Saved Brain Mask
+2025-02-13 14:54:20,999 - INFO - 	Saved FLAIR
+2025-02-13 14:54:21,005 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\02_registration\transform_siref.tfm
+2025-02-13 14:54:21,010 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\02_registration\transform_flair.tfm
+2025-02-13 14:54:21,022 - INFO - 
+=== Processing Subject: DOSEESC_UM07 ===
+2025-02-13 14:54:21,074 - INFO - Processing Subject DOSEESC_UM07 - Study 06/11/2018
+2025-02-13 14:54:21,364 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:54:21,623 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:54:21,659 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:54:21,672 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:54:21,673 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:54:26,715 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:54:26,744 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:54:27,416 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:54:29,221 - INFO - 	Saved T1
+2025-02-13 14:54:31,676 - INFO - 	Saved SIREF
+2025-02-13 14:54:31,843 - INFO - 	Saved Brain Mask
+2025-02-13 14:54:34,062 - INFO - 	Saved FLAIR
+2025-02-13 14:54:34,067 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\02_registration\transform_siref.tfm
+2025-02-13 14:54:34,073 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\02_registration\transform_flair.tfm
+2025-02-13 14:54:34,089 - INFO - Processing Subject DOSEESC_UM07 - Study 07/09/2018
+2025-02-13 14:54:34,357 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:54:34,610 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:54:34,648 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:54:34,661 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:54:34,662 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:54:41,872 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:54:41,903 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:54:43,085 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:54:44,605 - INFO - 	Saved T1
+2025-02-13 14:54:47,104 - INFO - 	Saved SIREF
+2025-02-13 14:54:47,270 - INFO - 	Saved Brain Mask
+2025-02-13 14:54:49,396 - INFO - 	Saved FLAIR
+2025-02-13 14:54:49,402 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\02_registration\transform_siref.tfm
+2025-02-13 14:54:49,407 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\02_registration\transform_flair.tfm
+2025-02-13 14:54:49,419 - INFO - 
+=== Processing Subject: DOSEESC_UM08 ===
+2025-02-13 14:54:49,474 - INFO - Processing Subject DOSEESC_UM08 - Study 06/13/2018
+2025-02-13 14:54:49,773 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:54:50,031 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:54:50,076 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:54:50,089 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:54:50,090 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:54:54,025 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:54:54,054 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:54:55,181 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:54:57,086 - INFO - 	Saved T1
+2025-02-13 14:54:59,496 - INFO - 	Saved SIREF
+2025-02-13 14:54:59,685 - INFO - 	Saved Brain Mask
+2025-02-13 14:55:01,774 - INFO - 	Saved FLAIR
+2025-02-13 14:55:01,780 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\02_registration\transform_siref.tfm
+2025-02-13 14:55:01,785 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\02_registration\transform_flair.tfm
+2025-02-13 14:55:01,799 - INFO - Processing Subject DOSEESC_UM08 - Study 07/11/2018
+2025-02-13 14:55:02,075 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:55:02,336 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:55:02,377 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:55:02,390 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:55:02,391 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:55:13,647 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:55:13,676 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:55:14,891 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:55:16,634 - INFO - 	Saved T1
+2025-02-13 14:55:19,059 - INFO - 	Saved SIREF
+2025-02-13 14:55:19,242 - INFO - 	Saved Brain Mask
+2025-02-13 14:55:21,290 - INFO - 	Saved FLAIR
+2025-02-13 14:55:21,295 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\02_registration\transform_siref.tfm
+2025-02-13 14:55:21,300 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\02_registration\transform_flair.tfm
+2025-02-13 14:55:21,312 - INFO - 
+=== Processing Subject: DOSEESC_EM07 ===
+2025-02-13 14:55:21,400 - INFO - Processing Subject DOSEESC_EM07 - Study 06/20/2018
+2025-02-13 14:55:21,581 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:55:21,665 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:55:21,703 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:55:21,715 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:55:21,716 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:55:25,759 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:55:25,778 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:55:26,450 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:55:27,549 - INFO - 	Saved T1
+2025-02-13 14:55:29,126 - INFO - 	Saved SIREF
+2025-02-13 14:55:29,218 - INFO - 	Saved Brain Mask
+2025-02-13 14:55:29,881 - INFO - 	Saved FLAIR
+2025-02-13 14:55:29,887 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:55:29,892 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:55:29,902 - INFO - Processing Subject DOSEESC_EM07 - Study 07/16/2018
+2025-02-13 14:55:30,072 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:55:30,152 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:55:30,191 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:55:30,213 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:55:30,214 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:55:39,301 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:55:39,320 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:55:41,011 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:55:41,770 - INFO - 	Saved T1
+2025-02-13 14:55:43,249 - INFO - 	Saved SIREF
+2025-02-13 14:55:43,336 - INFO - 	Saved Brain Mask
+2025-02-13 14:55:43,957 - INFO - 	Saved FLAIR
+2025-02-13 14:55:43,962 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\02_registration\transform_siref.tfm
+2025-02-13 14:55:43,967 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\02_registration\transform_flair.tfm
+2025-02-13 14:55:43,977 - INFO - Processing Subject DOSEESC_EM07 - Study 06/26/2018
+2025-02-13 14:55:44,132 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:55:44,209 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:55:44,248 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:55:44,259 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:55:44,260 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:55:53,607 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:55:53,626 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:55:55,007 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:55:55,784 - INFO - 	Saved T1
+2025-02-13 14:55:57,371 - INFO - 	Saved SIREF
+2025-02-13 14:55:57,461 - INFO - 	Saved Brain Mask
+2025-02-13 14:55:58,072 - INFO - 	Saved FLAIR
+2025-02-13 14:55:58,078 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\02_registration\transform_siref.tfm
+2025-02-13 14:55:58,082 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\02_registration\transform_flair.tfm
+2025-02-13 14:55:58,091 - INFO - 
+=== Processing Subject: DOSEESC_UM09 ===
+2025-02-13 14:55:58,137 - INFO - Processing Subject DOSEESC_UM09 - Study 06/20/2018
+2025-02-13 14:55:58,430 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:55:58,683 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:55:58,723 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:55:58,746 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:55:58,747 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:00,146 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:00,186 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:01,482 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:03,387 - INFO - 	Saved T1
+2025-02-13 14:56:05,813 - INFO - 	Saved SIREF
+2025-02-13 14:56:05,994 - INFO - 	Saved Brain Mask
+2025-02-13 14:56:08,118 - INFO - 	Saved FLAIR
+2025-02-13 14:56:08,123 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:56:08,129 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:56:08,142 - INFO - Processing Subject DOSEESC_UM09 - Study 07/16/2018
+2025-02-13 14:56:08,442 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:56:08,700 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:56:08,738 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:56:08,750 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:56:08,752 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:10,603 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:10,630 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:11,741 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:13,391 - INFO - 	Saved T1
+2025-02-13 14:56:15,912 - INFO - 	Saved SIREF
+2025-02-13 14:56:16,103 - INFO - 	Saved Brain Mask
+2025-02-13 14:56:18,215 - INFO - 	Saved FLAIR
+2025-02-13 14:56:18,220 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\02_registration\transform_siref.tfm
+2025-02-13 14:56:18,227 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\02_registration\transform_flair.tfm
+2025-02-13 14:56:18,240 - INFO - 
+=== Processing Subject: DOSEESC_UM09_70 ===
+2025-02-13 14:56:18,260 - INFO - Processing Subject DOSEESC_UM09_70 - Study 06/20/2018
+2025-02-13 14:56:18,568 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:56:18,828 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:56:18,867 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:56:18,888 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:56:18,889 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:20,050 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:20,078 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:21,672 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:23,552 - INFO - 	Saved T1
+2025-02-13 14:56:26,038 - INFO - 	Saved SIREF
+2025-02-13 14:56:26,234 - INFO - 	Saved Brain Mask
+2025-02-13 14:56:28,418 - INFO - 	Saved FLAIR
+2025-02-13 14:56:28,429 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:56:28,442 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:56:28,455 - INFO - 
+=== Processing Subject: DOSEESC_UM10 ===
+2025-02-13 14:56:28,601 - INFO - Processing Subject DOSEESC_UM10 - Study 07/11/2018
+2025-02-13 14:56:28,907 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:56:29,185 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:56:29,225 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:56:29,238 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:56:29,239 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:30,704 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:30,732 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:31,599 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:33,586 - INFO - 	Saved T1
+2025-02-13 14:56:36,000 - INFO - 	Saved SIREF
+2025-02-13 14:56:36,179 - INFO - 	Saved Brain Mask
+2025-02-13 14:56:38,353 - INFO - 	Saved FLAIR
+2025-02-13 14:56:38,359 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\02_registration\transform_siref.tfm
+2025-02-13 14:56:38,363 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\02_registration\transform_flair.tfm
+2025-02-13 14:56:38,377 - INFO - Processing Subject DOSEESC_UM10 - Study 08/20/2018
+2025-02-13 14:56:38,655 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:56:38,906 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:56:38,950 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:56:38,963 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:56:38,964 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:39,942 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:39,982 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:41,273 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:43,000 - INFO - 	Saved T1
+2025-02-13 14:56:45,430 - INFO - 	Saved SIREF
+2025-02-13 14:56:45,611 - INFO - 	Saved Brain Mask
+2025-02-13 14:56:47,700 - INFO - 	Saved FLAIR
+2025-02-13 14:56:47,707 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:56:47,712 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:56:47,723 - INFO - 
+=== Processing Subject: DOSEESC_UM13 ===
+2025-02-13 14:56:47,791 - INFO - Processing Subject DOSEESC_UM13 - Study 08/22/2018
+2025-02-13 14:56:48,095 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:56:48,358 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:56:48,397 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:56:48,410 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:56:48,410 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:56:53,114 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:56:53,154 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:56:55,570 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:56:57,424 - INFO - 	Saved T1
+2025-02-13 14:56:59,828 - INFO - 	Saved SIREF
+2025-02-13 14:57:00,018 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:02,174 - INFO - 	Saved FLAIR
+2025-02-13 14:57:02,180 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:02,185 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:02,198 - INFO - Processing Subject DOSEESC_UM13 - Study 09/17/2018
+2025-02-13 14:57:02,476 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:02,746 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:02,785 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:02,797 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:02,798 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:57:05,249 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:57:05,277 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:57:06,209 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:57:07,841 - INFO - 	Saved T1
+2025-02-13 14:57:10,350 - INFO - 	Saved SIREF
+2025-02-13 14:57:10,567 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:12,847 - INFO - 	Saved FLAIR
+2025-02-13 14:57:12,854 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:12,860 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:12,872 - INFO - 
+=== Processing Subject: DOSEESC_JH07 ===
+2025-02-13 14:57:12,930 - INFO - Processing Subject DOSEESC_JH07 - Study 08/27/2018
+2025-02-13 14:57:13,151 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:13,218 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:13,254 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:13,267 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:13,268 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:57:13,843 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:57:13,864 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:57:14,398 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:57:15,662 - INFO - 	Saved T1
+2025-02-13 14:57:17,113 - INFO - 	Saved SIREF
+2025-02-13 14:57:17,322 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:18,529 - INFO - 	Saved FLAIR
+2025-02-13 14:57:18,534 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:18,539 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:18,553 - INFO - Processing Subject DOSEESC_JH07 - Study 09/20/2018
+2025-02-13 14:57:18,751 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:18,816 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:18,852 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:18,865 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:18,866 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:57:19,643 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:57:19,666 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:57:20,220 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:57:21,227 - INFO - 	Saved T1
+2025-02-13 14:57:22,622 - INFO - 	Saved SIREF
+2025-02-13 14:57:22,730 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:23,876 - INFO - 	Saved FLAIR
+2025-02-13 14:57:23,882 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:23,887 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:23,897 - INFO - 
+=== Processing Subject: DOSEESC_UM14 ===
+2025-02-13 14:57:23,965 - INFO - Processing Subject DOSEESC_UM14 - Study 10/01/2018
+2025-02-13 14:57:24,260 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:24,535 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:24,572 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:24,585 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:24,585 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:57:25,493 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:57:25,521 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:57:29,434 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:57:31,411 - INFO - 	Saved T1
+2025-02-13 14:57:33,944 - INFO - 	Saved SIREF
+2025-02-13 14:57:34,110 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:36,394 - INFO - 	Saved FLAIR
+2025-02-13 14:57:36,400 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:36,405 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:36,419 - INFO - Processing Subject DOSEESC_UM14 - Study 10/22/2018
+2025-02-13 14:57:36,697 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:36,969 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:37,012 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:37,025 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:37,026 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:57:38,003 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:57:38,032 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:57:39,405 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:57:41,053 - INFO - 	Saved T1
+2025-02-13 14:57:43,435 - INFO - 	Saved SIREF
+2025-02-13 14:57:43,596 - INFO - 	Saved Brain Mask
+2025-02-13 14:57:45,840 - INFO - 	Saved FLAIR
+2025-02-13 14:57:45,845 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\02_registration\transform_siref.tfm
+2025-02-13 14:57:45,850 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\02_registration\transform_flair.tfm
+2025-02-13 14:57:45,864 - INFO - 
+=== Processing Subject: DOSEESC_UM15 ===
+2025-02-13 14:57:45,934 - INFO - Processing Subject DOSEESC_UM15 - Study 10/31/2018
+2025-02-13 14:57:46,217 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:57:46,482 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:57:46,522 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:57:46,534 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:57:46,535 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:57:53,953 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:57:53,980 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:57:54,834 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:57:56,671 - INFO - 	Saved T1
+2025-02-13 14:57:59,152 - INFO - 	Saved SIREF
+2025-02-13 14:57:59,323 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:01,603 - INFO - 	Saved FLAIR
+2025-02-13 14:58:01,609 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:01,614 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:01,628 - INFO - Processing Subject DOSEESC_UM15 - Study 11/28/2018
+2025-02-13 14:58:01,879 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:02,124 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:02,162 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:02,185 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:02,186 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:58:04,690 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:58:04,722 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:58:05,508 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:58:06,999 - INFO - 	Saved T1
+2025-02-13 14:58:09,542 - INFO - 	Saved SIREF
+2025-02-13 14:58:09,700 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:11,766 - INFO - 	Saved FLAIR
+2025-02-13 14:58:11,772 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:11,777 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:11,788 - INFO - 
+=== Processing Subject: DOSEESC_EM08 ===
+2025-02-13 14:58:11,806 - INFO - Processing Subject DOSEESC_EM08 - Study 11/02/2018
+2025-02-13 14:58:11,992 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:12,079 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:12,119 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:12,132 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:12,133 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:58:13,431 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:58:13,450 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:58:14,877 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:58:15,936 - INFO - 	Saved T1
+2025-02-13 14:58:17,535 - INFO - 	Saved SIREF
+2025-02-13 14:58:17,631 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:18,175 - INFO - 	Saved FLAIR
+2025-02-13 14:58:18,180 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:18,185 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:18,194 - INFO - 
+=== Processing Subject: DOSEESC_UM16 ===
+2025-02-13 14:58:18,264 - INFO - Processing Subject DOSEESC_UM16 - Study 11/14/2018
+2025-02-13 14:58:18,581 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:18,867 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:18,911 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:18,923 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:18,924 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:58:19,849 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:58:19,876 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:58:20,933 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:58:22,856 - INFO - 	Saved T1
+2025-02-13 14:58:25,261 - INFO - 	Saved SIREF
+2025-02-13 14:58:25,436 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:27,712 - INFO - 	Saved FLAIR
+2025-02-13 14:58:27,717 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:27,722 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:27,737 - INFO - Processing Subject DOSEESC_UM16 - Study 12/05/2018
+2025-02-13 14:58:28,019 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:28,268 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:28,305 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:28,318 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:28,319 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:58:29,442 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:58:29,473 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:58:31,282 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:58:32,874 - INFO - 	Saved T1
+2025-02-13 14:58:35,217 - INFO - 	Saved SIREF
+2025-02-13 14:58:35,386 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:37,390 - INFO - 	Saved FLAIR
+2025-02-13 14:58:37,396 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:37,402 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:37,413 - INFO - 
+=== Processing Subject: DOSEESC_EM09 ===
+2025-02-13 14:58:37,468 - INFO - Processing Subject DOSEESC_EM09 - Study 11/20/2018
+2025-02-13 14:58:37,644 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:37,722 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:37,760 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:37,775 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:37,776 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:58:38,628 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:58:38,648 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:58:39,897 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:58:40,998 - INFO - 	Saved T1
+2025-02-13 14:58:42,585 - INFO - 	Saved SIREF
+2025-02-13 14:58:42,674 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:43,263 - INFO - 	Saved FLAIR
+2025-02-13 14:58:43,269 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:43,273 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:43,283 - INFO - Processing Subject DOSEESC_EM09 - Study 12/17/2018
+2025-02-13 14:58:43,435 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:43,518 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:43,556 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:43,569 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:43,570 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:58:44,879 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:58:44,898 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:58:46,007 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:58:46,864 - INFO - 	Saved T1
+2025-02-13 14:58:48,419 - INFO - 	Saved SIREF
+2025-02-13 14:58:48,506 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:49,218 - INFO - 	Saved FLAIR
+2025-02-13 14:58:49,224 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:49,229 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:49,237 - INFO - 
+=== Processing Subject: DOSEESC_JH10 ===
+2025-02-13 14:58:49,293 - INFO - Processing Subject DOSEESC_JH10 - Study 12/05/2018
+2025-02-13 14:58:49,487 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:49,551 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:49,588 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:49,600 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:49,601 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:58:51,518 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:58:51,540 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:58:52,054 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:58:53,252 - INFO - 	Saved T1
+2025-02-13 14:58:54,845 - INFO - 	Saved SIREF
+2025-02-13 14:58:54,942 - INFO - 	Saved Brain Mask
+2025-02-13 14:58:56,102 - INFO - 	Saved FLAIR
+2025-02-13 14:58:56,108 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\02_registration\transform_siref.tfm
+2025-02-13 14:58:56,113 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\02_registration\transform_flair.tfm
+2025-02-13 14:58:56,125 - INFO - Processing Subject DOSEESC_JH10 - Study 12/28/2018
+2025-02-13 14:58:56,312 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:58:56,376 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:58:56,420 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:58:56,445 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:58:56,446 - INFO - 	Size of T1: (240, 256, 208)
+2025-02-13 14:58:57,172 - INFO - 	New SIREF Size: (240, 256, 208)
+2025-02-13 14:58:57,194 - INFO - 	New Brain Mask Size: (240, 256, 208)
+2025-02-13 14:58:57,716 - INFO - 	New FLAIR Size: (240, 256, 208)
+2025-02-13 14:58:58,658 - INFO - 	Saved T1
+2025-02-13 14:59:00,279 - INFO - 	Saved SIREF
+2025-02-13 14:59:00,372 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:01,508 - INFO - 	Saved FLAIR
+2025-02-13 14:59:01,513 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\02_registration\transform_siref.tfm
+2025-02-13 14:59:01,518 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\02_registration\transform_flair.tfm
+2025-02-13 14:59:01,528 - INFO - 
+=== Processing Subject: DOSEESC_EM10 ===
+2025-02-13 14:59:01,576 - INFO - Processing Subject DOSEESC_EM10 - Study 12/20/2018
+2025-02-13 14:59:01,748 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:01,823 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:01,860 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:01,877 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:01,878 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:59:06,332 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:59:06,351 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:59:07,631 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:59:08,663 - INFO - 	Saved T1
+2025-02-13 14:59:10,220 - INFO - 	Saved SIREF
+2025-02-13 14:59:10,307 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:10,876 - INFO - 	Saved FLAIR
+2025-02-13 14:59:10,881 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\02_registration\transform_siref.tfm
+2025-02-13 14:59:10,886 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\02_registration\transform_flair.tfm
+2025-02-13 14:59:10,896 - INFO - Processing Subject DOSEESC_EM10 - Study 01/16/2019
+2025-02-13 14:59:11,041 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:11,116 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:11,155 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:11,167 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:11,168 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:59:19,677 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:59:19,702 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:59:20,989 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:59:21,744 - INFO - 	Saved T1
+2025-02-13 14:59:23,324 - INFO - 	Saved SIREF
+2025-02-13 14:59:23,411 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:24,079 - INFO - 	Saved FLAIR
+2025-02-13 14:59:24,085 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\02_registration\transform_siref.tfm
+2025-02-13 14:59:24,091 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\02_registration\transform_flair.tfm
+2025-02-13 14:59:24,099 - INFO - 
+=== Processing Subject: DOSEESC_EM11 ===
+2025-02-13 14:59:24,136 - INFO - Processing Subject DOSEESC_EM11 - Study 01/03/2019
+2025-02-13 14:59:24,309 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:24,382 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:24,420 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:24,442 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:24,443 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:59:25,176 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:59:25,196 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:59:25,978 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:59:27,000 - INFO - 	Saved T1
+2025-02-13 14:59:28,576 - INFO - 	Saved SIREF
+2025-02-13 14:59:28,661 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:29,184 - INFO - 	Saved FLAIR
+2025-02-13 14:59:29,190 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\02_registration\transform_siref.tfm
+2025-02-13 14:59:29,195 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\02_registration\transform_flair.tfm
+2025-02-13 14:59:29,206 - INFO - Processing Subject DOSEESC_EM11 - Study 01/24/2019
+2025-02-13 14:59:29,346 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:29,418 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:29,456 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:29,468 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:29,469 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 14:59:30,164 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 14:59:30,183 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 14:59:30,922 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 14:59:31,660 - INFO - 	Saved T1
+2025-02-13 14:59:33,227 - INFO - 	Saved SIREF
+2025-02-13 14:59:33,308 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:33,818 - INFO - 	Saved FLAIR
+2025-02-13 14:59:33,824 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\02_registration\transform_siref.tfm
+2025-02-13 14:59:33,828 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\02_registration\transform_flair.tfm
+2025-02-13 14:59:33,838 - INFO - 
+=== Processing Subject: DOSEESC_UM17 ===
+2025-02-13 14:59:33,858 - INFO - Processing Subject DOSEESC_UM17 - Study 01/07/2019
+2025-02-13 14:59:34,147 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:34,404 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:34,442 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:34,455 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:34,456 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:59:36,445 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:59:36,472 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:59:37,234 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:59:39,191 - INFO - 	Saved T1
+2025-02-13 14:59:41,663 - INFO - 	Saved SIREF
+2025-02-13 14:59:41,835 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:44,035 - INFO - 	Saved FLAIR
+2025-02-13 14:59:44,040 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\02_registration\transform_siref.tfm
+2025-02-13 14:59:44,045 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\02_registration\transform_flair.tfm
+2025-02-13 14:59:44,057 - INFO - 
+=== Processing Subject: DOSEESC_UM18 ===
+2025-02-13 14:59:44,168 - INFO - Processing Subject DOSEESC_UM18 - Study 01/23/2019
+2025-02-13 14:59:44,445 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:44,703 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:44,742 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:44,754 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:44,755 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:59:48,170 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:59:48,197 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 14:59:49,394 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 14:59:51,226 - INFO - 	Saved T1
+2025-02-13 14:59:53,636 - INFO - 	Saved SIREF
+2025-02-13 14:59:53,810 - INFO - 	Saved Brain Mask
+2025-02-13 14:59:56,010 - INFO - 	Saved FLAIR
+2025-02-13 14:59:56,016 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\02_registration\transform_siref.tfm
+2025-02-13 14:59:56,021 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\02_registration\transform_flair.tfm
+2025-02-13 14:59:56,035 - INFO - Processing Subject DOSEESC_UM18 - Study 02/18/2019
+2025-02-13 14:59:56,291 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 14:59:56,532 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 14:59:56,570 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 14:59:56,582 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 14:59:56,582 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 14:59:59,069 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 14:59:59,097 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 15:00:00,682 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 15:00:02,215 - INFO - 	Saved T1
+2025-02-13 15:00:04,597 - INFO - 	Saved SIREF
+2025-02-13 15:00:04,771 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:06,690 - INFO - 	Saved FLAIR
+2025-02-13 15:00:06,695 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:06,699 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:06,711 - INFO - 
+=== Processing Subject: DOSEESC_EM12 ===
+2025-02-13 15:00:06,815 - INFO - Processing Subject DOSEESC_EM12 - Study 01/25/2019
+2025-02-13 15:00:06,987 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:07,072 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:07,108 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:07,122 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:07,123 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:00:08,828 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:00:08,847 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:00:09,941 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:00:10,983 - INFO - 	Saved T1
+2025-02-13 15:00:12,521 - INFO - 	Saved SIREF
+2025-02-13 15:00:12,607 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:13,330 - INFO - 	Saved FLAIR
+2025-02-13 15:00:13,335 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:13,342 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:13,352 - INFO - Processing Subject DOSEESC_EM12 - Study 03/07/2019
+2025-02-13 15:00:13,503 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:13,582 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:13,621 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:13,633 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:13,634 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:00:22,066 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:00:22,085 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:00:23,312 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:00:24,106 - INFO - 	Saved T1
+2025-02-13 15:00:25,672 - INFO - 	Saved SIREF
+2025-02-13 15:00:25,757 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:26,492 - INFO - 	Saved FLAIR
+2025-02-13 15:00:26,498 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:26,503 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:26,514 - INFO - Processing Subject DOSEESC_EM12 - Study 02/12/2019
+2025-02-13 15:00:26,672 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:26,752 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:26,790 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:26,803 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:26,803 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:00:29,253 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:00:29,271 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:00:30,480 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:00:31,309 - INFO - 	Saved T1
+2025-02-13 15:00:32,883 - INFO - 	Saved SIREF
+2025-02-13 15:00:32,972 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:33,611 - INFO - 	Saved FLAIR
+2025-02-13 15:00:33,617 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:33,622 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:33,630 - INFO - 
+=== Processing Subject: DOSEESC_EM13 ===
+2025-02-13 15:00:33,683 - INFO - Processing Subject DOSEESC_EM13 - Study 03/01/2019
+2025-02-13 15:00:33,855 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:33,939 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:33,977 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:33,990 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:33,991 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:00:35,040 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:00:35,059 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:00:35,885 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:00:37,000 - INFO - 	Saved T1
+2025-02-13 15:00:38,584 - INFO - 	Saved SIREF
+2025-02-13 15:00:38,678 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:39,321 - INFO - 	Saved FLAIR
+2025-02-13 15:00:39,326 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:39,331 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:39,341 - INFO - Processing Subject DOSEESC_EM13 - Study 03/20/2019
+2025-02-13 15:00:39,490 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:39,566 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:39,605 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:39,617 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:39,618 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:00:40,861 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:00:40,880 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:00:41,650 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:00:42,483 - INFO - 	Saved T1
+2025-02-13 15:00:44,047 - INFO - 	Saved SIREF
+2025-02-13 15:00:44,138 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:44,749 - INFO - 	Saved FLAIR
+2025-02-13 15:00:44,754 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:44,760 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:44,769 - INFO - 
+=== Processing Subject: DOSEESC_UM20 ===
+2025-02-13 15:00:44,873 - INFO - Processing Subject DOSEESC_UM20 - Study 04/24/2019
+2025-02-13 15:00:45,156 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:45,400 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:45,438 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:45,451 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:45,452 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 15:00:46,538 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 15:00:46,568 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 15:00:47,373 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 15:00:49,177 - INFO - 	Saved T1
+2025-02-13 15:00:51,613 - INFO - 	Saved SIREF
+2025-02-13 15:00:51,776 - INFO - 	Saved Brain Mask
+2025-02-13 15:00:53,886 - INFO - 	Saved FLAIR
+2025-02-13 15:00:53,891 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\02_registration\transform_siref.tfm
+2025-02-13 15:00:53,896 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\02_registration\transform_flair.tfm
+2025-02-13 15:00:53,911 - INFO - Processing Subject DOSEESC_UM20 - Study 05/20/2019
+2025-02-13 15:00:54,193 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:00:54,447 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:00:54,485 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:00:54,497 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:00:54,498 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 15:00:55,863 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 15:00:55,890 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 15:00:56,613 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 15:00:58,219 - INFO - 	Saved T1
+2025-02-13 15:01:00,653 - INFO - 	Saved SIREF
+2025-02-13 15:01:00,816 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:02,920 - INFO - 	Saved FLAIR
+2025-02-13 15:01:02,926 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:02,931 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:02,945 - INFO - 
+=== Processing Subject: DOSEESC_UM21 ===
+2025-02-13 15:01:02,978 - INFO - Processing Subject DOSEESC_UM21 - Study 05/01/2019
+2025-02-13 15:01:03,268 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:03,503 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:03,539 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:03,644 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:03,644 - INFO - 	Size of T1: (270, 320, 192)
+2025-02-13 15:01:04,551 - INFO - 	New SIREF Size: (270, 320, 192)
+2025-02-13 15:01:04,579 - INFO - 	New Brain Mask Size: (270, 320, 192)
+2025-02-13 15:01:06,601 - INFO - 	New FLAIR Size: (270, 320, 192)
+2025-02-13 15:01:08,431 - INFO - 	Saved T1
+2025-02-13 15:01:10,836 - INFO - 	Saved SIREF
+2025-02-13 15:01:11,007 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:13,103 - INFO - 	Saved FLAIR
+2025-02-13 15:01:13,108 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:13,113 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:13,125 - INFO - 
+=== Processing Subject: DOSEESC_EM14 ===
+2025-02-13 15:01:13,169 - INFO - Processing Subject DOSEESC_EM14 - Study 05/22/2019
+2025-02-13 15:01:13,364 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:13,444 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:13,482 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:13,494 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:13,495 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:01:14,720 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:01:14,739 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:01:15,397 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:01:16,416 - INFO - 	Saved T1
+2025-02-13 15:01:17,974 - INFO - 	Saved SIREF
+2025-02-13 15:01:18,067 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:18,694 - INFO - 	Saved FLAIR
+2025-02-13 15:01:18,700 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:18,705 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:18,718 - INFO - Processing Subject DOSEESC_EM14 - Study 06/10/2019
+2025-02-13 15:01:18,875 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:18,956 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:18,995 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:19,007 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:19,008 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:01:27,668 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:01:27,687 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:01:28,346 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:01:29,105 - INFO - 	Saved T1
+2025-02-13 15:01:30,677 - INFO - 	Saved SIREF
+2025-02-13 15:01:30,763 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:31,368 - INFO - 	Saved FLAIR
+2025-02-13 15:01:31,374 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:31,379 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:31,387 - INFO - 
+=== Processing Subject: DOSEESC_EM15 ===
+2025-02-13 15:01:31,439 - INFO - Processing Subject DOSEESC_EM15 - Study 06/11/2019
+2025-02-13 15:01:31,625 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:31,704 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:31,745 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:31,767 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:31,768 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:01:33,039 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:01:33,058 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:01:33,761 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:01:34,812 - INFO - 	Saved T1
+2025-02-13 15:01:36,388 - INFO - 	Saved SIREF
+2025-02-13 15:01:36,478 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:37,197 - INFO - 	Saved FLAIR
+2025-02-13 15:01:37,203 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:37,207 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:37,218 - INFO - Processing Subject DOSEESC_EM15 - Study 07/02/2019
+2025-02-13 15:01:37,358 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:37,434 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:37,472 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:37,484 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:37,485 - INFO - 	Size of T1: (256, 256, 160)
+2025-02-13 15:01:38,603 - INFO - 	New SIREF Size: (256, 256, 160)
+2025-02-13 15:01:38,622 - INFO - 	New Brain Mask Size: (256, 256, 160)
+2025-02-13 15:01:39,389 - INFO - 	New FLAIR Size: (256, 256, 160)
+2025-02-13 15:01:40,047 - INFO - 	Saved T1
+2025-02-13 15:01:41,609 - INFO - 	Saved SIREF
+2025-02-13 15:01:41,696 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:42,266 - INFO - 	Saved FLAIR
+2025-02-13 15:01:42,272 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\02_registration\transform_siref.tfm
+2025-02-13 15:01:42,277 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\02_registration\transform_flair.tfm
+2025-02-13 15:01:42,285 - INFO - 
+=== Processing Subject: rGBM_001_02_27_2023 ===
+2025-02-13 15:01:42,300 - INFO - Processing Subject rGBM_001_02_27_2023 - Study 02/27/2023
+2025-02-13 15:01:42,489 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:42,644 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:42,680 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:42,703 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:42,704 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:01:43,482 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:01:43,503 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:01:44,527 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:01:45,841 - INFO - 	Saved T1
+2025-02-13 15:01:47,317 - INFO - 	Saved SIREF
+2025-02-13 15:01:47,403 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:48,494 - INFO - 	Saved FLAIR
+2025-02-13 15:01:48,500 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\02_registration\transform_siref.tfm
+2025-02-13 15:01:48,505 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\02_registration\transform_flair.tfm
+2025-02-13 15:01:48,515 - INFO - 
+=== Processing Subject: rGBM_001_04_21_2023 ===
+2025-02-13 15:01:48,533 - INFO - Processing Subject rGBM_001_04_21_2023 - Study 04/21/2023
+2025-02-13 15:01:48,718 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:48,864 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:48,906 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:48,919 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:48,920 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:01:50,679 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:01:50,700 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:01:52,682 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:01:53,807 - INFO - 	Saved T1
+2025-02-13 15:01:55,379 - INFO - 	Saved SIREF
+2025-02-13 15:01:55,475 - INFO - 	Saved Brain Mask
+2025-02-13 15:01:56,481 - INFO - 	Saved FLAIR
+2025-02-13 15:01:56,486 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\02_registration\transform_siref.tfm
+2025-02-13 15:01:56,491 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\02_registration\transform_flair.tfm
+2025-02-13 15:01:56,504 - INFO - 
+=== Processing Subject: rGBM_001_06_30_2023 ===
+2025-02-13 15:01:56,526 - INFO - Processing Subject rGBM_001_06_30_2023 - Study 06/30/2023
+2025-02-13 15:01:56,714 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:01:56,863 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:01:56,909 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:01:56,930 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:01:56,931 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:01:57,590 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:01:57,611 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:01:58,501 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:01:59,768 - INFO - 	Saved T1
+2025-02-13 15:02:01,270 - INFO - 	Saved SIREF
+2025-02-13 15:02:01,358 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:02,366 - INFO - 	Saved FLAIR
+2025-02-13 15:02:02,372 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:02,377 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:02,387 - INFO - 
+=== Processing Subject: rGBM_001_08_30_2023 ===
+2025-02-13 15:02:02,407 - INFO - Processing Subject rGBM_001_08_30_2023 - Study 08/30/2023
+2025-02-13 15:02:02,595 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:02,742 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:02,778 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:02,801 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:02,802 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:03,675 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:03,697 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:04,732 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:05,997 - INFO - 	Saved T1
+2025-02-13 15:02:07,538 - INFO - 	Saved SIREF
+2025-02-13 15:02:07,627 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:08,566 - INFO - 	Saved FLAIR
+2025-02-13 15:02:08,571 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:08,576 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:08,585 - INFO - 
+=== Processing Subject: rGBM_002_04_28_2023 ===
+2025-02-13 15:02:08,605 - INFO - Processing Subject rGBM_002_04_28_2023 - Study 04/28/2023
+2025-02-13 15:02:08,786 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:08,932 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:08,974 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:08,995 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:08,996 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:15,096 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:15,118 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:16,754 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:17,993 - INFO - 	Saved T1
+2025-02-13 15:02:20,073 - INFO - 	Saved SIREF
+2025-02-13 15:02:20,169 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:21,179 - INFO - 	Saved FLAIR
+2025-02-13 15:02:21,184 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:21,194 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:21,203 - INFO - 
+=== Processing Subject: rGBM_003_04_24_2023 ===
+2025-02-13 15:02:21,220 - INFO - Processing Subject rGBM_003_04_24_2023 - Study 04/24/2023
+2025-02-13 15:02:21,410 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:21,555 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:21,591 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:21,616 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:21,617 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:22,960 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:22,981 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:23,692 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:25,015 - INFO - 	Saved T1
+2025-02-13 15:02:26,369 - INFO - 	Saved SIREF
+2025-02-13 15:02:26,453 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:27,497 - INFO - 	Saved FLAIR
+2025-02-13 15:02:27,502 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:27,507 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:27,517 - INFO - 
+=== Processing Subject: rGBM_004_09_22_2023 ===
+2025-02-13 15:02:27,535 - INFO - Processing Subject rGBM_004_09_22_2023 - Study 09/22/2023
+2025-02-13 15:02:27,720 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:27,871 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:27,918 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:27,944 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:27,945 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:29,447 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:29,469 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:30,246 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:31,482 - INFO - 	Saved T1
+2025-02-13 15:02:33,054 - INFO - 	Saved SIREF
+2025-02-13 15:02:33,151 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:34,203 - INFO - 	Saved FLAIR
+2025-02-13 15:02:34,208 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:34,213 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:34,222 - INFO - 
+=== Processing Subject: rGBM_005_08_18_2023 ===
+2025-02-13 15:02:34,243 - INFO - Processing Subject rGBM_005_08_18_2023 - Study 08/18/2023
+2025-02-13 15:02:34,462 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:34,608 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:34,646 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:34,668 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:34,669 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:38,804 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:38,825 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:43,048 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:44,372 - INFO - 	Saved T1
+2025-02-13 15:02:46,080 - INFO - 	Saved SIREF
+2025-02-13 15:02:46,194 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:47,242 - INFO - 	Saved FLAIR
+2025-02-13 15:02:47,252 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:47,257 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:47,274 - INFO - 
+=== Processing Subject: rGBM_006_04_03_2023 ===
+2025-02-13 15:02:47,292 - INFO - Processing Subject rGBM_006_04_03_2023 - Study 04/03/2023
+2025-02-13 15:02:47,476 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:47,620 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:47,661 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:47,683 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:47,684 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:48,992 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:49,012 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:49,880 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:51,139 - INFO - 	Saved T1
+2025-02-13 15:02:52,876 - INFO - 	Saved SIREF
+2025-02-13 15:02:52,970 - INFO - 	Saved Brain Mask
+2025-02-13 15:02:53,991 - INFO - 	Saved FLAIR
+2025-02-13 15:02:53,998 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\02_registration\transform_siref.tfm
+2025-02-13 15:02:54,003 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\02_registration\transform_flair.tfm
+2025-02-13 15:02:54,012 - INFO - 
+=== Processing Subject: rGBM_006_05_24_2023 ===
+2025-02-13 15:02:54,036 - INFO - Processing Subject rGBM_006_05_24_2023 - Study 05/24/2023
+2025-02-13 15:02:54,216 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:02:54,362 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:02:54,398 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:02:54,413 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:02:54,415 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:02:55,840 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:02:55,861 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:02:56,736 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:02:57,935 - INFO - 	Saved T1
+2025-02-13 15:02:59,477 - INFO - 	Saved SIREF
+2025-02-13 15:02:59,578 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:00,601 - INFO - 	Saved FLAIR
+2025-02-13 15:03:00,608 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:00,613 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:00,622 - INFO - 
+=== Processing Subject: rGBM_006_08_01_2023 ===
+2025-02-13 15:03:00,642 - INFO - Processing Subject rGBM_006_08_01_2023 - Study 08/01/2023
+2025-02-13 15:03:00,825 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:00,976 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:01,019 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:01,044 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:01,045 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:02,793 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:02,814 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:03,640 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:04,830 - INFO - 	Saved T1
+2025-02-13 15:03:06,456 - INFO - 	Saved SIREF
+2025-02-13 15:03:06,550 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:07,556 - INFO - 	Saved FLAIR
+2025-02-13 15:03:07,561 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:07,567 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:07,576 - INFO - 
+=== Processing Subject: rGBM_007_05_30_2023 ===
+2025-02-13 15:03:07,593 - INFO - Processing Subject rGBM_007_05_30_2023 - Study 05/30/2023
+2025-02-13 15:03:07,786 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:07,937 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:07,979 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:07,991 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:07,992 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:08,813 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:08,834 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:09,931 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:11,257 - INFO - 	Saved T1
+2025-02-13 15:03:12,841 - INFO - 	Saved SIREF
+2025-02-13 15:03:12,932 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:13,921 - INFO - 	Saved FLAIR
+2025-02-13 15:03:13,927 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:13,932 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:13,941 - INFO - 
+=== Processing Subject: wholeGBM_001_05_26_2023 ===
+2025-02-13 15:03:13,959 - INFO - Processing Subject wholeGBM_001_05_26_2023 - Study 05/26/2023
+2025-02-13 15:03:14,171 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:14,320 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:14,359 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:14,382 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:14,383 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:16,514 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:16,534 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:17,372 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:18,604 - INFO - 	Saved T1
+2025-02-13 15:03:20,216 - INFO - 	Saved SIREF
+2025-02-13 15:03:20,330 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:21,377 - INFO - 	Saved FLAIR
+2025-02-13 15:03:21,382 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:21,387 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:21,397 - INFO - 
+=== Processing Subject: wholeGBM_001_07_26_2023 ===
+2025-02-13 15:03:21,417 - INFO - Processing Subject wholeGBM_001_07_26_2023 - Study 07/26/2023
+2025-02-13 15:03:21,611 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:21,768 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:21,805 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:21,831 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:21,832 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:24,195 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:24,215 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:24,995 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:26,213 - INFO - 	Saved T1
+2025-02-13 15:03:27,809 - INFO - 	Saved SIREF
+2025-02-13 15:03:27,909 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:29,000 - INFO - 	Saved FLAIR
+2025-02-13 15:03:29,005 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:29,010 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:29,019 - INFO - 
+=== Processing Subject: wholeGBM_002_03_10_2023 ===
+2025-02-13 15:03:29,035 - INFO - Processing Subject wholeGBM_002_03_10_2023 - Study 03/10/2023
+2025-02-13 15:03:29,231 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:29,385 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:29,423 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:29,435 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:29,436 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:30,847 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:30,870 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:33,109 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:34,403 - INFO - 	Saved T1
+2025-02-13 15:03:36,104 - INFO - 	Saved SIREF
+2025-02-13 15:03:36,202 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:37,208 - INFO - 	Saved FLAIR
+2025-02-13 15:03:37,213 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:37,218 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:37,227 - INFO - 
+=== Processing Subject: wholeGBM_002_04_13_2023 ===
+2025-02-13 15:03:37,244 - INFO - Processing Subject wholeGBM_002_04_13_2023 - Study 04/13/2023
+2025-02-13 15:03:37,432 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:37,590 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:37,628 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:37,650 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:37,651 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:38,932 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:38,953 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:39,823 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:41,121 - INFO - 	Saved T1
+2025-02-13 15:03:42,711 - INFO - 	Saved SIREF
+2025-02-13 15:03:42,815 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:43,894 - INFO - 	Saved FLAIR
+2025-02-13 15:03:43,899 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:43,904 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:43,912 - INFO - 
+=== Processing Subject: wholeGBM_003_06_14_2023 ===
+2025-02-13 15:03:43,930 - INFO - Processing Subject wholeGBM_003_06_14_2023 - Study 06/14/2023
+2025-02-13 15:03:44,128 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:44,280 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:44,317 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:44,330 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:44,331 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:45,856 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:45,878 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:46,673 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:48,096 - INFO - 	Saved T1
+2025-02-13 15:03:49,723 - INFO - 	Saved SIREF
+2025-02-13 15:03:49,822 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:50,843 - INFO - 	Saved FLAIR
+2025-02-13 15:03:50,849 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:50,858 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:50,874 - INFO - 
+=== Processing Subject: wholeGBM_004_03_10_2023 ===
+2025-02-13 15:03:50,896 - INFO - Processing Subject wholeGBM_004_03_10_2023 - Study 03/10/2023
+2025-02-13 15:03:51,092 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:51,245 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:51,285 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:51,297 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:51,297 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:03:52,964 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:03:52,985 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:03:54,081 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:03:55,413 - INFO - 	Saved T1
+2025-02-13 15:03:57,115 - INFO - 	Saved SIREF
+2025-02-13 15:03:57,219 - INFO - 	Saved Brain Mask
+2025-02-13 15:03:58,217 - INFO - 	Saved FLAIR
+2025-02-13 15:03:58,222 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\02_registration\transform_siref.tfm
+2025-02-13 15:03:58,227 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\02_registration\transform_flair.tfm
+2025-02-13 15:03:58,236 - INFO - 
+=== Processing Subject: wholeGBM_004_04_19_2023 ===
+2025-02-13 15:03:58,254 - INFO - Processing Subject wholeGBM_004_04_19_2023 - Study 04/19/2023
+2025-02-13 15:03:58,442 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:03:58,601 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:03:58,639 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:03:58,653 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:03:58,653 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:04:04,072 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:04:04,093 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:04:05,559 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:04:06,787 - INFO - 	Saved T1
+2025-02-13 15:04:08,548 - INFO - 	Saved SIREF
+2025-02-13 15:04:08,647 - INFO - 	Saved Brain Mask
+2025-02-13 15:04:09,718 - INFO - 	Saved FLAIR
+2025-02-13 15:04:09,724 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\02_registration\transform_siref.tfm
+2025-02-13 15:04:09,729 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\02_registration\transform_flair.tfm
+2025-02-13 15:04:09,738 - INFO - 
+=== Processing Subject: wholeGBM_004_07_03_2023 ===
+2025-02-13 15:04:09,757 - INFO - Processing Subject wholeGBM_004_07_03_2023 - Study 07/03/2023
+2025-02-13 15:04:09,946 - INFO - 	Successfully loaded unprocessed_t1.nii.gz
+2025-02-13 15:04:10,135 - INFO - 	Successfully loaded unprocessed_flair.nii.gz
+2025-02-13 15:04:10,176 - INFO - 	Successfully loaded unprocessed_siref.nii.gz
+2025-02-13 15:04:10,188 - INFO - 	Successfully loaded unprocessed_brainmask.nii.gz
+2025-02-13 15:04:10,189 - INFO - 	Size of T1: (256, 256, 176)
+2025-02-13 15:04:11,133 - INFO - 	New SIREF Size: (256, 256, 176)
+2025-02-13 15:04:11,155 - INFO - 	New Brain Mask Size: (256, 256, 176)
+2025-02-13 15:04:12,731 - INFO - 	New FLAIR Size: (256, 256, 176)
+2025-02-13 15:04:13,886 - INFO - 	Saved T1
+2025-02-13 15:04:15,516 - INFO - 	Saved SIREF
+2025-02-13 15:04:15,613 - INFO - 	Saved Brain Mask
+2025-02-13 15:04:16,623 - INFO - 	Saved FLAIR
+2025-02-13 15:04:16,628 - INFO - 	Saved SIREF transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\02_registration\transform_siref.tfm
+2025-02-13 15:04:16,632 - INFO - 	Saved FLAIR transform at: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\02_registration\transform_flair.tfm

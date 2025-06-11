@@ -1,0 +1,1172 @@
+2025-02-25 15:53:52,736 - INFO - Starting segmentation batch process...
+2025-02-25 15:53:58,601 - INFO - Found 59 subjects for segmentation.
+2025-02-25 15:53:58,602 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01
+2025-02-25 15:53:58,643 - INFO - Processing segmentation for subject DOSEESC_EM01, study 09/20/2017
+2025-02-25 15:53:58,675 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation.
+2025-02-25 15:53:58,677 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\04_cerebellumstrip
+2025-02-25 15:54:02,138 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:26,980 - INFO - Segmentation volumes - T1: 17.094 cc, FLAIR: 81.018 cc
+2025-02-25 15:54:26,983 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:27,005 - INFO - Processing segmentation for subject DOSEESC_EM01, study 10/16/2017
+2025-02-25 15:54:27,039 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation.
+2025-02-25 15:54:27,041 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\04_cerebellumstrip
+2025-02-25 15:54:28,035 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:33,237 - INFO - Segmentation volumes - T1: 15.405000000000001 cc, FLAIR: 68.131 cc
+2025-02-25 15:54:33,241 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:33,262 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02
+2025-02-25 15:54:33,307 - INFO - Processing segmentation for subject DOSEESC_EM02, study 10/19/2017
+2025-02-25 15:54:33,341 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation.
+2025-02-25 15:54:33,343 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\04_cerebellumstrip
+2025-02-25 15:54:33,979 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:34,844 - WARNING - 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019F09A699D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-02-25 15:54:36,053 - WARNING - 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019F15C75F70> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-02-25 15:54:39,655 - INFO - Segmentation volumes - T1: 4.6370000000000005 cc, FLAIR: 21.448 cc
+2025-02-25 15:54:39,658 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:39,678 - INFO - Processing segmentation for subject DOSEESC_EM02, study 11/14/2017
+2025-02-25 15:54:39,707 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation.
+2025-02-25 15:54:39,709 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\04_cerebellumstrip
+2025-02-25 15:54:40,331 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:45,955 - INFO - Segmentation volumes - T1: 6.8500000000000005 cc, FLAIR: 62.681000000000004 cc
+2025-02-25 15:54:45,958 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:45,978 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM03
+2025-02-25 15:54:45,990 - INFO - Processing segmentation for subject DOSEESC_EM03, study 12/12/2017
+2025-02-25 15:54:46,024 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation.
+2025-02-25 15:54:46,026 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\04_cerebellumstrip
+2025-02-25 15:54:46,659 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:52,494 - INFO - Segmentation volumes - T1: 15.307 cc, FLAIR: 44.763 cc
+2025-02-25 15:54:52,498 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:52,518 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04
+2025-02-25 15:54:52,563 - INFO - Processing segmentation for subject DOSEESC_EM04, study 01/10/2018
+2025-02-25 15:54:52,596 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation.
+2025-02-25 15:54:52,598 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\04_cerebellumstrip
+2025-02-25 15:54:53,219 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:54:59,370 - INFO - Segmentation volumes - T1: 5.835 cc, FLAIR: 35.27 cc
+2025-02-25 15:54:59,373 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:54:59,395 - INFO - Processing segmentation for subject DOSEESC_EM04, study 02/07/2018
+2025-02-25 15:54:59,428 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation.
+2025-02-25 15:54:59,430 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\04_cerebellumstrip
+2025-02-25 15:55:00,059 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:06,048 - INFO - Segmentation volumes - T1: 4.676 cc, FLAIR: 34.237 cc
+2025-02-25 15:55:06,051 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:06,071 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM02
+2025-02-25 15:55:06,087 - INFO - Processing segmentation for subject DOSEESC_UM02, study 01/22/2018
+2025-02-25 15:55:06,119 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation.
+2025-02-25 15:55:06,121 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\04_cerebellumstrip
+2025-02-25 15:55:07,076 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:15,292 - INFO - Segmentation volumes - T1: 2.694800319237169 cc, FLAIR: 2.7891834222056207 cc
+2025-02-25 15:55:15,295 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:15,321 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05
+2025-02-25 15:55:15,367 - INFO - Processing segmentation for subject DOSEESC_EM05, study 01/31/2018
+2025-02-25 15:55:15,398 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation.
+2025-02-25 15:55:15,400 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\04_cerebellumstrip
+2025-02-25 15:55:16,043 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:23,737 - INFO - Segmentation volumes - T1: 15.694 cc, FLAIR: 24.581 cc
+2025-02-25 15:55:23,740 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:23,762 - INFO - Processing segmentation for subject DOSEESC_EM05, study 02/23/2018
+2025-02-25 15:55:23,794 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation.
+2025-02-25 15:55:23,795 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\04_cerebellumstrip
+2025-02-25 15:55:24,455 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:30,338 - INFO - Segmentation volumes - T1: 15.953000000000001 cc, FLAIR: 35.227000000000004 cc
+2025-02-25 15:55:30,341 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:30,361 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03
+2025-02-25 15:55:30,418 - INFO - Processing segmentation for subject DOSEESC_UM03, study 02/05/2018
+2025-02-25 15:55:30,451 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation.
+2025-02-25 15:55:30,453 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\04_cerebellumstrip
+2025-02-25 15:55:31,119 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:40,976 - INFO - Segmentation volumes - T1: 2.175925723607652 cc, FLAIR: 11.350149308698718 cc
+2025-02-25 15:55:40,979 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:41,006 - INFO - Processing segmentation for subject DOSEESC_UM03, study 02/28/2018
+2025-02-25 15:55:41,040 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation.
+2025-02-25 15:55:41,042 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\04_cerebellumstrip
+2025-02-25 15:55:41,720 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:50,576 - INFO - Segmentation volumes - T1: 1.9685618619134184 cc, FLAIR: 11.654685921725003 cc
+2025-02-25 15:55:50,579 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:50,603 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06
+2025-02-25 15:55:50,643 - INFO - Processing segmentation for subject DOSEESC_EM06, study 03/19/2018
+2025-02-25 15:55:50,676 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation.
+2025-02-25 15:55:50,678 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\04_cerebellumstrip
+2025-02-25 15:55:51,305 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:55:56,967 - INFO - Segmentation volumes - T1: 7.228 cc, FLAIR: 40.203 cc
+2025-02-25 15:55:56,970 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:55:56,990 - INFO - Processing segmentation for subject DOSEESC_EM06, study 04/13/2018
+2025-02-25 15:55:57,022 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation.
+2025-02-25 15:55:57,024 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\04_cerebellumstrip
+2025-02-25 15:55:57,652 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:03,247 - INFO - Segmentation volumes - T1: 6.556 cc, FLAIR: 49.599000000000004 cc
+2025-02-25 15:56:03,251 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:03,270 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04
+2025-02-25 15:56:03,328 - INFO - Processing segmentation for subject DOSEESC_UM04, study 03/28/2018
+2025-02-25 15:56:03,360 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation.
+2025-02-25 15:56:03,362 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\04_cerebellumstrip
+2025-02-25 15:56:04,060 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:13,498 - INFO - Segmentation volumes - T1: 1.8467472167029046 cc, FLAIR: 4.301172835276579 cc
+2025-02-25 15:56:13,501 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:13,530 - INFO - Processing segmentation for subject DOSEESC_UM04, study 04/18/2018
+2025-02-25 15:56:13,564 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation.
+2025-02-25 15:56:13,566 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\04_cerebellumstrip
+2025-02-25 15:56:14,363 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:22,694 - INFO - Segmentation volumes - T1: 0.9889303448960418 cc, FLAIR: 3.736269041647669 cc
+2025-02-25 15:56:22,697 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:22,721 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05
+2025-02-25 15:56:22,781 - INFO - Processing segmentation for subject DOSEESC_UM05, study 05/02/2018
+2025-02-25 15:56:22,812 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation.
+2025-02-25 15:56:22,814 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\04_cerebellumstrip
+2025-02-25 15:56:23,499 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:31,282 - INFO - Segmentation volumes - T1: 0.14180712514964397 cc, FLAIR: 6.140016048282618 cc
+2025-02-25 15:56:31,285 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:31,312 - INFO - Processing segmentation for subject DOSEESC_UM05, study 05/30/2018
+2025-02-25 15:56:31,344 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation.
+2025-02-25 15:56:31,346 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\04_cerebellumstrip
+2025-02-25 15:56:32,373 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:42,600 - INFO - Segmentation volumes - T1: 0.015343065999797546 cc, FLAIR: 12.83284741395188 cc
+2025-02-25 15:56:42,604 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:42,630 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH01
+2025-02-25 15:56:42,648 - INFO - Processing segmentation for subject DOSEESC_JH01, study 05/18/2018
+2025-02-25 15:56:42,682 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation.
+2025-02-25 15:56:42,684 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\04_cerebellumstrip
+2025-02-25 15:56:43,347 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:49,829 - INFO - Segmentation volumes - T1: 1.137 cc, FLAIR: 26.07 cc
+2025-02-25 15:56:49,832 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:49,854 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02
+2025-02-25 15:56:49,900 - INFO - Processing segmentation for subject DOSEESC_JH02, study 05/22/2018
+2025-02-25 15:56:49,930 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation.
+2025-02-25 15:56:49,932 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\04_cerebellumstrip
+2025-02-25 15:56:50,570 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:56:56,864 - INFO - Segmentation volumes - T1: 4.519 cc, FLAIR: 8.007 cc
+2025-02-25 15:56:56,867 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:56:56,886 - INFO - Processing segmentation for subject DOSEESC_JH02, study 06/18/2018
+2025-02-25 15:56:56,920 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation.
+2025-02-25 15:56:56,922 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\04_cerebellumstrip
+2025-02-25 15:56:57,566 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:03,671 - INFO - Segmentation volumes - T1: 0.247 cc, FLAIR: 27.367 cc
+2025-02-25 15:57:03,674 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:03,697 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03
+2025-02-25 15:57:03,748 - INFO - Processing segmentation for subject DOSEESC_JH03, study 07/06/2018
+2025-02-25 15:57:03,780 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation.
+2025-02-25 15:57:03,782 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\04_cerebellumstrip
+2025-02-25 15:57:04,421 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:11,596 - INFO - Segmentation volumes - T1: 7.069 cc, FLAIR: 27.557000000000002 cc
+2025-02-25 15:57:11,599 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:11,623 - INFO - Processing segmentation for subject DOSEESC_JH03, study 08/03/2018
+2025-02-25 15:57:11,655 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation.
+2025-02-25 15:57:11,657 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\04_cerebellumstrip
+2025-02-25 15:57:12,280 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:18,161 - INFO - Segmentation volumes - T1: 2.186 cc, FLAIR: 38.264 cc
+2025-02-25 15:57:18,164 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:18,188 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH04
+2025-02-25 15:57:18,203 - INFO - Processing segmentation for subject DOSEESC_JH04, study 07/06/2018
+2025-02-25 15:57:18,235 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation.
+2025-02-25 15:57:18,237 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\04_cerebellumstrip
+2025-02-25 15:57:18,876 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:25,431 - INFO - Segmentation volumes - T1: 0.779 cc, FLAIR: 13.5 cc
+2025-02-25 15:57:25,435 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:25,457 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06
+2025-02-25 15:57:25,497 - INFO - Processing segmentation for subject DOSEESC_UM06, study 05/23/2018
+2025-02-25 15:57:25,527 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation.
+2025-02-25 15:57:25,529 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\04_cerebellumstrip
+2025-02-25 15:57:26,208 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:34,313 - INFO - Segmentation volumes - T1: 3.781368356859195 cc, FLAIR: 4.575488257697201 cc
+2025-02-25 15:57:34,316 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:34,342 - INFO - Processing segmentation for subject DOSEESC_UM06, study 06/18/2018
+2025-02-25 15:57:34,375 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation.
+2025-02-25 15:57:34,377 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\04_cerebellumstrip
+2025-02-25 15:57:35,047 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:42,909 - INFO - Segmentation volumes - T1: 4.615938158969395 cc, FLAIR: 13.095539301524171 cc
+2025-02-25 15:57:42,912 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:42,939 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07
+2025-02-25 15:57:42,994 - INFO - Processing segmentation for subject DOSEESC_UM07, study 06/11/2018
+2025-02-25 15:57:43,027 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation.
+2025-02-25 15:57:43,029 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\04_cerebellumstrip
+2025-02-25 15:57:43,715 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:57:52,946 - INFO - Segmentation volumes - T1: 0.6537075998701621 cc, FLAIR: 0.35986463890434245 cc
+2025-02-25 15:57:52,950 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:57:52,975 - INFO - Processing segmentation for subject DOSEESC_UM07, study 07/09/2018
+2025-02-25 15:57:53,008 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation.
+2025-02-25 15:57:53,010 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\04_cerebellumstrip
+2025-02-25 15:57:54,060 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:02,511 - INFO - Segmentation volumes - T1: 0.051143553332658485 cc, FLAIR: 0.8006290803530719 cc
+2025-02-25 15:58:02,514 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:02,540 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08
+2025-02-25 15:58:02,597 - INFO - Processing segmentation for subject DOSEESC_UM08, study 06/13/2018
+2025-02-25 15:58:02,628 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation.
+2025-02-25 15:58:02,631 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\04_cerebellumstrip
+2025-02-25 15:58:03,309 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:10,659 - INFO - Segmentation volumes - T1: 1.8137363777336433 cc, FLAIR: 4.62523698684806 cc
+2025-02-25 15:58:10,662 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:10,688 - INFO - Processing segmentation for subject DOSEESC_UM08, study 07/11/2018
+2025-02-25 15:58:10,722 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation.
+2025-02-25 15:58:10,724 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\04_cerebellumstrip
+2025-02-25 15:58:11,402 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:19,465 - INFO - Segmentation volumes - T1: 0.19760009242163507 cc, FLAIR: 6.747229508759454 cc
+2025-02-25 15:58:19,467 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:19,492 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07
+2025-02-25 15:58:19,587 - INFO - Processing segmentation for subject DOSEESC_EM07, study 06/20/2018
+2025-02-25 15:58:19,620 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation.
+2025-02-25 15:58:19,622 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\04_cerebellumstrip
+2025-02-25 15:58:20,249 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:26,088 - INFO - Segmentation volumes - T1: 5.07 cc, FLAIR: 21.397000000000002 cc
+2025-02-25 15:58:26,091 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:26,113 - INFO - Processing segmentation for subject DOSEESC_EM07, study 07/16/2018
+2025-02-25 15:58:26,145 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation.
+2025-02-25 15:58:26,147 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\04_cerebellumstrip
+2025-02-25 15:58:26,767 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:34,403 - INFO - Segmentation volumes - T1: 4.527 cc, FLAIR: 31.158 cc
+2025-02-25 15:58:34,406 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:34,427 - INFO - Processing segmentation for subject DOSEESC_EM07, study 06/26/2018
+2025-02-25 15:58:34,458 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation.
+2025-02-25 15:58:34,461 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\04_cerebellumstrip
+2025-02-25 15:58:35,089 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:41,588 - INFO - Segmentation volumes - T1: 4.191 cc, FLAIR: 21.95 cc
+2025-02-25 15:58:41,591 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:41,611 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09
+2025-02-25 15:58:41,661 - INFO - Processing segmentation for subject DOSEESC_UM09, study 06/20/2018
+2025-02-25 15:58:41,694 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation.
+2025-02-25 15:58:41,696 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\04_cerebellumstrip
+2025-02-25 15:58:42,368 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:50,335 - INFO - Segmentation volumes - T1: 0.31011590975348374 cc, FLAIR: 5.485843507018522 cc
+2025-02-25 15:58:50,339 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:50,367 - INFO - Processing segmentation for subject DOSEESC_UM09, study 07/16/2018
+2025-02-25 15:58:50,398 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation.
+2025-02-25 15:58:50,400 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\04_cerebellumstrip
+2025-02-25 15:58:51,137 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:58:59,393 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 4.894902995329351 cc
+2025-02-25 15:58:59,396 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:58:59,422 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09_70
+2025-02-25 15:58:59,447 - INFO - Processing segmentation for subject DOSEESC_UM09_70, study 06/20/2018
+2025-02-25 15:58:59,479 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation.
+2025-02-25 15:58:59,482 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\04_cerebellumstrip
+2025-02-25 15:59:00,200 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:08,019 - INFO - Segmentation volumes - T1: 0.27106083266309 cc, FLAIR: 5.388205814292538 cc
+2025-02-25 15:59:08,023 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:08,049 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10
+2025-02-25 15:59:08,193 - INFO - Processing segmentation for subject DOSEESC_UM10, study 07/11/2018
+2025-02-25 15:59:08,256 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation.
+2025-02-25 15:59:08,258 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\04_cerebellumstrip
+2025-02-25 15:59:08,984 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:17,768 - INFO - Segmentation volumes - T1: 1.4710745704048314 cc, FLAIR: 0.5774572112651076 cc
+2025-02-25 15:59:17,772 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:17,800 - INFO - Processing segmentation for subject DOSEESC_UM10, study 08/20/2018
+2025-02-25 15:59:17,835 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\05_segmentation.
+2025-02-25 15:59:17,837 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\04_cerebellumstrip
+2025-02-25 15:59:18,528 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:28,324 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 0.0 cc
+2025-02-25 15:59:28,327 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:28,352 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13
+2025-02-25 15:59:28,422 - INFO - Processing segmentation for subject DOSEESC_UM13, study 08/22/2018
+2025-02-25 15:59:28,453 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation.
+2025-02-25 15:59:28,454 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\04_cerebellumstrip
+2025-02-25 15:59:29,495 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:38,492 - INFO - Segmentation volumes - T1: 7.0285190520890755 cc, FLAIR: 10.217552073077298 cc
+2025-02-25 15:59:38,495 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:38,523 - INFO - Processing segmentation for subject DOSEESC_UM13, study 09/17/2018
+2025-02-25 15:59:38,555 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation.
+2025-02-25 15:59:38,557 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\04_cerebellumstrip
+2025-02-25 15:59:39,248 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:47,958 - INFO - Segmentation volumes - T1: 6.385040162885446 cc, FLAIR: 6.306930008704658 cc
+2025-02-25 15:59:47,961 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:47,986 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07
+2025-02-25 15:59:48,044 - INFO - Processing segmentation for subject DOSEESC_JH07, study 08/27/2018
+2025-02-25 15:59:48,075 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation.
+2025-02-25 15:59:48,077 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\04_cerebellumstrip
+2025-02-25 15:59:48,722 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 15:59:54,743 - INFO - Segmentation volumes - T1: 0.637 cc, FLAIR: 0.01 cc
+2025-02-25 15:59:54,746 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 15:59:54,769 - INFO - Processing segmentation for subject DOSEESC_JH07, study 09/20/2018
+2025-02-25 15:59:54,800 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation.
+2025-02-25 15:59:54,802 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\04_cerebellumstrip
+2025-02-25 15:59:55,447 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:01,951 - INFO - Segmentation volumes - T1: 1.622 cc, FLAIR: 6.056 cc
+2025-02-25 16:00:01,954 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:01,976 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14
+2025-02-25 16:00:02,043 - INFO - Processing segmentation for subject DOSEESC_UM14, study 10/01/2018
+2025-02-25 16:00:02,076 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation.
+2025-02-25 16:00:02,078 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\04_cerebellumstrip
+2025-02-25 16:00:02,751 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:11,173 - INFO - Segmentation volumes - T1: 0.22596151745156384 cc, FLAIR: 1.1781614922268782 cc
+2025-02-25 16:00:11,177 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:11,202 - INFO - Processing segmentation for subject DOSEESC_UM14, study 10/22/2018
+2025-02-25 16:00:11,238 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation.
+2025-02-25 16:00:11,240 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\04_cerebellumstrip
+2025-02-25 16:00:11,927 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:20,962 - INFO - Segmentation volumes - T1: 0.1404123009678442 cc, FLAIR: 0.956849388714647 cc
+2025-02-25 16:00:20,965 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:20,990 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15
+2025-02-25 16:00:21,062 - INFO - Processing segmentation for subject DOSEESC_UM15, study 10/31/2018
+2025-02-25 16:00:21,094 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation.
+2025-02-25 16:00:21,096 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\04_cerebellumstrip
+2025-02-25 16:00:21,798 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:28,864 - INFO - Segmentation volumes - T1: 0.1655191362402402 cc, FLAIR: 11.563557408514084 cc
+2025-02-25 16:00:28,867 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:28,894 - INFO - Processing segmentation for subject DOSEESC_UM15, study 11/28/2018
+2025-02-25 16:00:28,926 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation.
+2025-02-25 16:00:28,928 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\04_cerebellumstrip
+2025-02-25 16:00:29,589 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:37,237 - INFO - Segmentation volumes - T1: 0.15482548417977524 cc, FLAIR: 8.3443031969202 cc
+2025-02-25 16:00:37,240 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:37,263 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM08
+2025-02-25 16:00:37,282 - INFO - Processing segmentation for subject DOSEESC_EM08, study 11/02/2018
+2025-02-25 16:00:37,315 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation.
+2025-02-25 16:00:37,318 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\04_cerebellumstrip
+2025-02-25 16:00:37,959 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:43,389 - INFO - Segmentation volumes - T1: 9.807 cc, FLAIR: 18.531 cc
+2025-02-25 16:00:43,392 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:43,411 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16
+2025-02-25 16:00:43,485 - INFO - Processing segmentation for subject DOSEESC_UM16, study 11/14/2018
+2025-02-25 16:00:43,517 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation.
+2025-02-25 16:00:43,519 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\04_cerebellumstrip
+2025-02-25 16:00:44,181 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:00:52,029 - INFO - Segmentation volumes - T1: 1.1786264336208114 cc, FLAIR: 11.848101541601238 cc
+2025-02-25 16:00:52,032 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:00:52,058 - INFO - Processing segmentation for subject DOSEESC_UM16, study 12/05/2018
+2025-02-25 16:00:52,089 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation.
+2025-02-25 16:00:52,091 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\04_cerebellumstrip
+2025-02-25 16:00:53,114 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:02,013 - INFO - Segmentation volumes - T1: 1.027055539198569 cc, FLAIR: 14.061222576723551 cc
+2025-02-25 16:01:02,016 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:02,037 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09
+2025-02-25 16:01:02,094 - INFO - Processing segmentation for subject DOSEESC_EM09, study 11/20/2018
+2025-02-25 16:01:02,125 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation.
+2025-02-25 16:01:02,127 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\04_cerebellumstrip
+2025-02-25 16:01:02,771 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:09,235 - INFO - Segmentation volumes - T1: 8.218 cc, FLAIR: 8.456 cc
+2025-02-25 16:01:09,237 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:09,259 - INFO - Processing segmentation for subject DOSEESC_EM09, study 12/17/2018
+2025-02-25 16:01:09,292 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation.
+2025-02-25 16:01:09,295 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\04_cerebellumstrip
+2025-02-25 16:01:09,930 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:16,080 - INFO - Segmentation volumes - T1: 12.099 cc, FLAIR: 11.985 cc
+2025-02-25 16:01:16,083 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:16,103 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10
+2025-02-25 16:01:16,162 - INFO - Processing segmentation for subject DOSEESC_JH10, study 12/05/2018
+2025-02-25 16:01:16,195 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation.
+2025-02-25 16:01:16,198 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\04_cerebellumstrip
+2025-02-25 16:01:16,833 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:22,615 - INFO - Segmentation volumes - T1: 0.521 cc, FLAIR: 89.724 cc
+2025-02-25 16:01:22,618 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:22,641 - INFO - Processing segmentation for subject DOSEESC_JH10, study 12/28/2018
+2025-02-25 16:01:22,672 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation.
+2025-02-25 16:01:22,675 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\04_cerebellumstrip
+2025-02-25 16:01:23,309 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:29,790 - INFO - Segmentation volumes - T1: 2.437 cc, FLAIR: 103.023 cc
+2025-02-25 16:01:29,794 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:29,822 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10
+2025-02-25 16:01:29,871 - INFO - Processing segmentation for subject DOSEESC_EM10, study 12/20/2018
+2025-02-25 16:01:29,904 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation.
+2025-02-25 16:01:29,906 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\04_cerebellumstrip
+2025-02-25 16:01:30,540 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:36,010 - INFO - Segmentation volumes - T1: 4.999 cc, FLAIR: 4.009 cc
+2025-02-25 16:01:36,013 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:36,035 - INFO - Processing segmentation for subject DOSEESC_EM10, study 01/16/2019
+2025-02-25 16:01:36,068 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation.
+2025-02-25 16:01:36,070 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\04_cerebellumstrip
+2025-02-25 16:01:36,681 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:42,586 - INFO - Segmentation volumes - T1: 9.803 cc, FLAIR: 29.637 cc
+2025-02-25 16:01:42,588 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:42,607 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11
+2025-02-25 16:01:42,650 - INFO - Processing segmentation for subject DOSEESC_EM11, study 01/03/2019
+2025-02-25 16:01:42,681 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation.
+2025-02-25 16:01:42,684 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\04_cerebellumstrip
+2025-02-25 16:01:43,310 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:48,619 - INFO - Segmentation volumes - T1: 19.514 cc, FLAIR: 24.816 cc
+2025-02-25 16:01:48,622 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:48,642 - INFO - Processing segmentation for subject DOSEESC_EM11, study 01/24/2019
+2025-02-25 16:01:48,673 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation.
+2025-02-25 16:01:48,675 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\04_cerebellumstrip
+2025-02-25 16:01:49,297 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:01:55,705 - INFO - Segmentation volumes - T1: 20.711000000000002 cc, FLAIR: 23.04 cc
+2025-02-25 16:01:55,708 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:01:55,727 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM17
+2025-02-25 16:01:55,750 - INFO - Processing segmentation for subject DOSEESC_UM17, study 01/07/2019
+2025-02-25 16:01:55,782 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation.
+2025-02-25 16:01:55,784 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\04_cerebellumstrip
+2025-02-25 16:01:56,454 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:04,412 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 0.5016717640539864 cc
+2025-02-25 16:02:04,415 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:04,438 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18
+2025-02-25 16:02:04,555 - INFO - Processing segmentation for subject DOSEESC_UM18, study 01/23/2019
+2025-02-25 16:02:04,587 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation.
+2025-02-25 16:02:04,589 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\04_cerebellumstrip
+2025-02-25 16:02:05,280 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:13,866 - INFO - Segmentation volumes - T1: 0.47424022181192416 cc, FLAIR: 3.546108011528966 cc
+2025-02-25 16:02:13,869 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:13,896 - INFO - Processing segmentation for subject DOSEESC_UM18, study 02/18/2019
+2025-02-25 16:02:13,928 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation.
+2025-02-25 16:02:13,930 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\04_cerebellumstrip
+2025-02-25 16:02:14,969 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:23,278 - INFO - Segmentation volumes - T1: 6.611001680337009 cc, FLAIR: 17.746813006432493 cc
+2025-02-25 16:02:23,280 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:23,305 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12
+2025-02-25 16:02:23,415 - INFO - Processing segmentation for subject DOSEESC_EM12, study 01/25/2019
+2025-02-25 16:02:23,448 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation.
+2025-02-25 16:02:23,449 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\04_cerebellumstrip
+2025-02-25 16:02:24,107 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:29,774 - INFO - Segmentation volumes - T1: 12.239 cc, FLAIR: 25.092 cc
+2025-02-25 16:02:29,777 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:29,797 - INFO - Processing segmentation for subject DOSEESC_EM12, study 03/07/2019
+2025-02-25 16:02:29,831 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation.
+2025-02-25 16:02:29,833 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\04_cerebellumstrip
+2025-02-25 16:02:30,466 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:35,981 - INFO - Segmentation volumes - T1: 11.561 cc, FLAIR: 21.683 cc
+2025-02-25 16:02:35,983 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:36,009 - INFO - Processing segmentation for subject DOSEESC_EM12, study 02/12/2019
+2025-02-25 16:02:36,044 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation.
+2025-02-25 16:02:36,046 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\04_cerebellumstrip
+2025-02-25 16:02:36,652 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:42,400 - INFO - Segmentation volumes - T1: 10.429 cc, FLAIR: 16.463 cc
+2025-02-25 16:02:42,403 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:42,421 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13
+2025-02-25 16:02:42,480 - INFO - Processing segmentation for subject DOSEESC_EM13, study 03/01/2019
+2025-02-25 16:02:42,511 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation.
+2025-02-25 16:02:42,513 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\04_cerebellumstrip
+2025-02-25 16:02:43,120 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:49,311 - INFO - Segmentation volumes - T1: 19.103 cc, FLAIR: 49.066 cc
+2025-02-25 16:02:49,314 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:49,333 - INFO - Processing segmentation for subject DOSEESC_EM13, study 03/20/2019
+2025-02-25 16:02:49,364 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation.
+2025-02-25 16:02:49,367 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\04_cerebellumstrip
+2025-02-25 16:02:49,984 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:02:55,241 - INFO - Segmentation volumes - T1: 22.619 cc, FLAIR: 66.098 cc
+2025-02-25 16:02:55,243 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:02:55,262 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20
+2025-02-25 16:02:55,368 - INFO - Processing segmentation for subject DOSEESC_UM20, study 04/24/2019
+2025-02-25 16:02:55,400 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation.
+2025-02-25 16:02:55,402 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\04_cerebellumstrip
+2025-02-25 16:02:56,059 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:03,615 - INFO - Segmentation volumes - T1: 0.1980650338155683 cc, FLAIR: 1.06285602653143 cc
+2025-02-25 16:03:03,618 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:03,646 - INFO - Processing segmentation for subject DOSEESC_UM20, study 05/20/2019
+2025-02-25 16:03:03,679 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation.
+2025-02-25 16:03:03,681 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\04_cerebellumstrip
+2025-02-25 16:03:04,369 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:12,622 - INFO - Segmentation volumes - T1: 0.9396465571391164 cc, FLAIR: 2.420484896816546 cc
+2025-02-25 16:03:12,625 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:12,649 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM21
+2025-02-25 16:03:12,685 - INFO - Processing segmentation for subject DOSEESC_UM21, study 05/01/2019
+2025-02-25 16:03:12,718 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation.
+2025-02-25 16:03:12,720 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\04_cerebellumstrip
+2025-02-25 16:03:13,412 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:21,378 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 12.255390202686772 cc
+2025-02-25 16:03:21,382 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:21,409 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14
+2025-02-25 16:03:21,458 - INFO - Processing segmentation for subject DOSEESC_EM14, study 05/22/2019
+2025-02-25 16:03:21,490 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation.
+2025-02-25 16:03:21,492 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\04_cerebellumstrip
+2025-02-25 16:03:22,134 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:27,880 - INFO - Segmentation volumes - T1: 27.619 cc, FLAIR: 87.82600000000001 cc
+2025-02-25 16:03:27,883 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:27,906 - INFO - Processing segmentation for subject DOSEESC_EM14, study 06/10/2019
+2025-02-25 16:03:27,939 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation.
+2025-02-25 16:03:27,942 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\04_cerebellumstrip
+2025-02-25 16:03:28,905 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:34,650 - INFO - Segmentation volumes - T1: 23.972 cc, FLAIR: 89.22500000000001 cc
+2025-02-25 16:03:34,653 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:34,671 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15
+2025-02-25 16:03:34,728 - INFO - Processing segmentation for subject DOSEESC_EM15, study 06/11/2019
+2025-02-25 16:03:34,762 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation.
+2025-02-25 16:03:34,764 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\04_cerebellumstrip
+2025-02-25 16:03:35,342 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:40,920 - INFO - Segmentation volumes - T1: 19.07 cc, FLAIR: 71.947 cc
+2025-02-25 16:03:40,923 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:40,950 - INFO - Processing segmentation for subject DOSEESC_EM15, study 07/02/2019
+2025-02-25 16:03:40,983 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation.
+2025-02-25 16:03:40,985 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\04_cerebellumstrip
+2025-02-25 16:03:41,595 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:47,106 - INFO - Segmentation volumes - T1: 12.653 cc, FLAIR: 63.045 cc
+2025-02-25 16:03:47,109 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:47,127 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_02_27_2023
+2025-02-25 16:03:47,144 - INFO - Processing segmentation for subject rGBM_001_02_27_2023, study 02/27/2023
+2025-02-25 16:03:47,178 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation.
+2025-02-25 16:03:47,180 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\04_cerebellumstrip
+2025-02-25 16:03:47,808 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:03:53,596 - INFO - Segmentation volumes - T1: 0.6 cc, FLAIR: 39.043 cc
+2025-02-25 16:03:53,599 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:03:53,620 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_04_21_2023
+2025-02-25 16:03:53,640 - INFO - Processing segmentation for subject rGBM_001_04_21_2023, study 04/21/2023
+2025-02-25 16:03:53,673 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation.
+2025-02-25 16:03:53,675 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\04_cerebellumstrip
+2025-02-25 16:03:54,314 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:00,627 - INFO - Segmentation volumes - T1: 2.7379944512844085 cc, FLAIR: 24.427950495243074 cc
+2025-02-25 16:04:00,630 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:00,646 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_06_30_2023
+2025-02-25 16:04:00,666 - INFO - Processing segmentation for subject rGBM_001_06_30_2023, study 06/30/2023
+2025-02-25 16:04:00,699 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation.
+2025-02-25 16:04:00,701 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\04_cerebellumstrip
+2025-02-25 16:04:01,341 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:07,820 - INFO - Segmentation volumes - T1: 0.882 cc, FLAIR: 54.341 cc
+2025-02-25 16:04:07,823 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:07,843 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_08_30_2023
+2025-02-25 16:04:07,864 - INFO - Processing segmentation for subject rGBM_001_08_30_2023, study 08/30/2023
+2025-02-25 16:04:07,899 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation.
+2025-02-25 16:04:07,902 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\04_cerebellumstrip
+2025-02-25 16:04:08,488 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:14,829 - INFO - Segmentation volumes - T1: 0.21799955821037292 cc, FLAIR: 61.77787480330468 cc
+2025-02-25 16:04:14,831 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:14,851 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_002_04_28_2023
+2025-02-25 16:04:14,872 - INFO - Processing segmentation for subject rGBM_002_04_28_2023, study 04/28/2023
+2025-02-25 16:04:14,904 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation.
+2025-02-25 16:04:14,906 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\04_cerebellumstrip
+2025-02-25 16:04:15,552 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:21,480 - INFO - Segmentation volumes - T1: 0.6419986989498139 cc, FLAIR: 15.967967639923096 cc
+2025-02-25 16:04:21,483 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:21,503 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_003_04_24_2023
+2025-02-25 16:04:21,522 - INFO - Processing segmentation for subject rGBM_003_04_24_2023, study 04/24/2023
+2025-02-25 16:04:21,553 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation.
+2025-02-25 16:04:21,555 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\04_cerebellumstrip
+2025-02-25 16:04:22,169 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:28,768 - INFO - Segmentation volumes - T1: 2.678 cc, FLAIR: 77.34 cc
+2025-02-25 16:04:28,771 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:28,792 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_004_09_22_2023
+2025-02-25 16:04:28,811 - INFO - Processing segmentation for subject rGBM_004_09_22_2023, study 09/22/2023
+2025-02-25 16:04:28,843 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation.
+2025-02-25 16:04:28,845 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\04_cerebellumstrip
+2025-02-25 16:04:29,473 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:35,166 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 27.311 cc
+2025-02-25 16:04:35,169 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:35,190 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_005_08_18_2023
+2025-02-25 16:04:35,210 - INFO - Processing segmentation for subject rGBM_005_08_18_2023, study 08/18/2023
+2025-02-25 16:04:35,244 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation.
+2025-02-25 16:04:35,246 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\04_cerebellumstrip
+2025-02-25 16:04:36,222 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:42,364 - INFO - Segmentation volumes - T1: 2.5939973715543747 cc, FLAIR: 43.75795566093922 cc
+2025-02-25 16:04:42,367 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:42,388 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_04_03_2023
+2025-02-25 16:04:42,406 - INFO - Processing segmentation for subject rGBM_006_04_03_2023, study 04/03/2023
+2025-02-25 16:04:42,438 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation.
+2025-02-25 16:04:42,440 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\04_cerebellumstrip
+2025-02-25 16:04:43,067 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:49,180 - INFO - Segmentation volumes - T1: 0.10200000000000001 cc, FLAIR: 35.689 cc
+2025-02-25 16:04:49,183 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:49,204 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_05_24_2023
+2025-02-25 16:04:49,223 - INFO - Processing segmentation for subject rGBM_006_05_24_2023, study 05/24/2023
+2025-02-25 16:04:49,256 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation.
+2025-02-25 16:04:49,259 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\04_cerebellumstrip
+2025-02-25 16:04:49,888 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:04:56,807 - INFO - Segmentation volumes - T1: 0.458 cc, FLAIR: 23.189 cc
+2025-02-25 16:04:56,810 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:04:56,826 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_08_01_2023
+2025-02-25 16:04:56,847 - INFO - Processing segmentation for subject rGBM_006_08_01_2023, study 08/01/2023
+2025-02-25 16:04:56,880 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation.
+2025-02-25 16:04:56,882 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\04_cerebellumstrip
+2025-02-25 16:04:57,526 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:03,477 - INFO - Segmentation volumes - T1: 0.28200000000000003 cc, FLAIR: 25.692 cc
+2025-02-25 16:05:03,480 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:03,505 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_007_05_30_2023
+2025-02-25 16:05:03,524 - INFO - Processing segmentation for subject rGBM_007_05_30_2023, study 05/30/2023
+2025-02-25 16:05:03,558 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation.
+2025-02-25 16:05:03,560 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\04_cerebellumstrip
+2025-02-25 16:05:04,184 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:10,528 - INFO - Segmentation volumes - T1: 13.233986590266229 cc, FLAIR: 66.89793221366406 cc
+2025-02-25 16:05:10,531 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:10,557 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_05_26_2023
+2025-02-25 16:05:10,575 - INFO - Processing segmentation for subject wholeGBM_001_05_26_2023, study 05/26/2023
+2025-02-25 16:05:10,609 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation.
+2025-02-25 16:05:10,611 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\04_cerebellumstrip
+2025-02-25 16:05:11,247 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:17,957 - INFO - Segmentation volumes - T1: 0.003 cc, FLAIR: 3.507 cc
+2025-02-25 16:05:17,961 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:17,981 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_07_26_2023
+2025-02-25 16:05:18,001 - INFO - Processing segmentation for subject wholeGBM_001_07_26_2023, study 07/26/2023
+2025-02-25 16:05:18,035 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation.
+2025-02-25 16:05:18,037 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\04_cerebellumstrip
+2025-02-25 16:05:18,653 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:25,276 - INFO - Segmentation volumes - T1: 0.0 cc, FLAIR: 1.8399945163726807 cc
+2025-02-25 16:05:25,279 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:25,299 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_03_10_2023
+2025-02-25 16:05:25,316 - INFO - Processing segmentation for subject wholeGBM_002_03_10_2023, study 03/10/2023
+2025-02-25 16:05:25,349 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation.
+2025-02-25 16:05:25,351 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\04_cerebellumstrip
+2025-02-25 16:05:25,997 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:32,490 - INFO - Segmentation volumes - T1: 4.0040000000000004 cc, FLAIR: 26.003 cc
+2025-02-25 16:05:32,493 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:32,511 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_04_13_2023
+2025-02-25 16:05:32,531 - INFO - Processing segmentation for subject wholeGBM_002_04_13_2023, study 04/13/2023
+2025-02-25 16:05:32,565 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation.
+2025-02-25 16:05:32,567 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\04_cerebellumstrip
+2025-02-25 16:05:33,197 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:39,813 - INFO - Segmentation volumes - T1: 0.03899992096424103 cc, FLAIR: 26.094947116971017 cc
+2025-02-25 16:05:39,817 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:39,837 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_003_06_14_2023
+2025-02-25 16:05:39,858 - INFO - Processing segmentation for subject wholeGBM_003_06_14_2023, study 06/14/2023
+2025-02-25 16:05:39,890 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation.
+2025-02-25 16:05:39,892 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\04_cerebellumstrip
+2025-02-25 16:05:40,532 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:46,604 - INFO - Segmentation volumes - T1: 1.8359981396198273 cc, FLAIR: 17.279982490539552 cc
+2025-02-25 16:05:46,607 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:46,629 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_03_10_2023
+2025-02-25 16:05:46,649 - INFO - Processing segmentation for subject wholeGBM_004_03_10_2023, study 03/10/2023
+2025-02-25 16:05:46,681 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation.
+2025-02-25 16:05:46,683 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\04_cerebellumstrip
+2025-02-25 16:05:47,318 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:05:54,310 - INFO - Segmentation volumes - T1: 5.028989808440208 cc, FLAIR: 13.207973233222962 cc
+2025-02-25 16:05:54,313 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:05:54,335 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_04_19_2023
+2025-02-25 16:05:54,354 - INFO - Processing segmentation for subject wholeGBM_004_04_19_2023, study 04/19/2023
+2025-02-25 16:05:54,387 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation.
+2025-02-25 16:05:54,389 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\04_cerebellumstrip
+2025-02-25 16:05:55,379 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:06:01,078 - INFO - Segmentation volumes - T1: 0.055 cc, FLAIR: 9.876 cc
+2025-02-25 16:06:01,081 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:06:01,102 - INFO - Processing segmentation for subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_07_03_2023
+2025-02-25 16:06:01,122 - INFO - Processing segmentation for subject wholeGBM_004_07_03_2023, study 07/03/2023
+2025-02-25 16:06:01,155 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation.
+2025-02-25 16:06:01,157 - INFO - Starting segmentation for folder: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\04_cerebellumstrip
+2025-02-25 16:06:01,791 - INFO - Resampling images to [128, 128, 128] for segmentation input...
+2025-02-25 16:06:08,385 - INFO - Segmentation volumes - T1: 2.375 cc, FLAIR: 11.021 cc
+2025-02-25 16:06:08,388 - INFO - Segmentation complete. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation\segmentation_complete.txt
+2025-02-25 16:06:09,396 - INFO - Stopped batch segmentation process.
+2025-02-25 16:06:09,416 - INFO - Starting segmentation inspection...
+2025-02-25 16:06:15,442 - INFO - Found 59 subjects for segmentation inspection.
+2025-02-25 16:06:15,542 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM01, study 09/20/2017
+2025-02-25 16:06:15,896 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:15,901 - INFO - Segmentation inspection complete for subject DOSEESC_EM01, study 09/20/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:15,958 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM01, study 10/16/2017
+2025-02-25 16:06:16,257 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:16,260 - INFO - Segmentation inspection complete for subject DOSEESC_EM01, study 10/16/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:16,360 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM02, study 10/19/2017
+2025-02-25 16:06:16,649 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:16,653 - INFO - Segmentation inspection complete for subject DOSEESC_EM02, study 10/19/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:16,710 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM02, study 11/14/2017
+2025-02-25 16:06:17,003 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:17,007 - INFO - Segmentation inspection complete for subject DOSEESC_EM02, study 11/14/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:17,073 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM03, study 12/12/2017
+2025-02-25 16:06:17,360 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:17,364 - INFO - Segmentation inspection complete for subject DOSEESC_EM03, study 12/12/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:17,459 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM04, study 01/10/2018
+2025-02-25 16:06:17,757 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:17,761 - INFO - Segmentation inspection complete for subject DOSEESC_EM04, study 01/10/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:17,819 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM04, study 02/07/2018
+2025-02-25 16:06:18,115 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:18,118 - INFO - Segmentation inspection complete for subject DOSEESC_EM04, study 02/07/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:18,192 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM02, study 01/22/2018
+2025-02-25 16:06:18,499 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:18,502 - INFO - Segmentation inspection complete for subject DOSEESC_UM02, study 01/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:18,601 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM05, study 01/31/2018
+2025-02-25 16:06:18,902 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:18,945 - INFO - Segmentation inspection complete for subject DOSEESC_EM05, study 01/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:19,001 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM05, study 02/23/2018
+2025-02-25 16:06:19,305 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:19,308 - INFO - Segmentation inspection complete for subject DOSEESC_EM05, study 02/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:19,422 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM03, study 02/05/2018
+2025-02-25 16:06:19,969 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:19,973 - INFO - Segmentation inspection complete for subject DOSEESC_UM03, study 02/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:20,031 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM03, study 02/28/2018
+2025-02-25 16:06:20,344 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:20,348 - INFO - Segmentation inspection complete for subject DOSEESC_UM03, study 02/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:20,436 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM06, study 03/19/2018
+2025-02-25 16:06:20,722 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:20,726 - INFO - Segmentation inspection complete for subject DOSEESC_EM06, study 03/19/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:20,790 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM06, study 04/13/2018
+2025-02-25 16:06:21,078 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:21,082 - INFO - Segmentation inspection complete for subject DOSEESC_EM06, study 04/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:21,196 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM04, study 03/28/2018
+2025-02-25 16:06:21,498 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:21,502 - INFO - Segmentation inspection complete for subject DOSEESC_UM04, study 03/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:21,564 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM04, study 04/18/2018
+2025-02-25 16:06:21,871 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:21,874 - INFO - Segmentation inspection complete for subject DOSEESC_UM04, study 04/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:21,988 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM05, study 05/02/2018
+2025-02-25 16:06:22,303 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:22,306 - INFO - Segmentation inspection complete for subject DOSEESC_UM05, study 05/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:22,366 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM05, study 05/30/2018
+2025-02-25 16:06:22,678 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:22,681 - INFO - Segmentation inspection complete for subject DOSEESC_UM05, study 05/30/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:22,755 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH01, study 05/18/2018
+2025-02-25 16:06:23,047 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:23,050 - INFO - Segmentation inspection complete for subject DOSEESC_JH01, study 05/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:23,147 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH02, study 05/22/2018
+2025-02-25 16:06:23,437 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:23,440 - INFO - Segmentation inspection complete for subject DOSEESC_JH02, study 05/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:23,498 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH02, study 06/18/2018
+2025-02-25 16:06:23,788 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:23,791 - INFO - Segmentation inspection complete for subject DOSEESC_JH02, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:23,894 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH03, study 07/06/2018
+2025-02-25 16:06:24,181 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:24,184 - INFO - Segmentation inspection complete for subject DOSEESC_JH03, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:24,240 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH03, study 08/03/2018
+2025-02-25 16:06:24,531 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:24,534 - INFO - Segmentation inspection complete for subject DOSEESC_JH03, study 08/03/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:24,603 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH04, study 07/06/2018
+2025-02-25 16:06:25,190 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:25,194 - INFO - Segmentation inspection complete for subject DOSEESC_JH04, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:25,286 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM06, study 05/23/2018
+2025-02-25 16:06:25,576 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:25,580 - INFO - Segmentation inspection complete for subject DOSEESC_UM06, study 05/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:25,642 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM06, study 06/18/2018
+2025-02-25 16:06:25,946 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:25,950 - INFO - Segmentation inspection complete for subject DOSEESC_UM06, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:26,059 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM07, study 06/11/2018
+2025-02-25 16:06:26,628 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:26,632 - INFO - Segmentation inspection complete for subject DOSEESC_UM07, study 06/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:26,692 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM07, study 07/09/2018
+2025-02-25 16:06:26,999 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:27,002 - INFO - Segmentation inspection complete for subject DOSEESC_UM07, study 07/09/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:27,113 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM08, study 06/13/2018
+2025-02-25 16:06:27,424 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:27,427 - INFO - Segmentation inspection complete for subject DOSEESC_UM08, study 06/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:27,487 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM08, study 07/11/2018
+2025-02-25 16:06:27,806 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:27,809 - INFO - Segmentation inspection complete for subject DOSEESC_UM08, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:27,954 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 06/20/2018
+2025-02-25 16:06:28,245 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:28,248 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:28,307 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 07/16/2018
+2025-02-25 16:06:28,598 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:28,602 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:28,661 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 06/26/2018
+2025-02-25 16:06:28,953 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:28,957 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 06/26/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:29,063 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09, study 06/20/2018
+2025-02-25 16:06:29,375 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:29,378 - INFO - Segmentation inspection complete for subject DOSEESC_UM09, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:29,438 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09, study 07/16/2018
+2025-02-25 16:06:29,751 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:29,755 - INFO - Segmentation inspection complete for subject DOSEESC_UM09, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:29,832 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09_70, study 06/20/2018
+2025-02-25 16:06:30,144 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:30,148 - INFO - Segmentation inspection complete for subject DOSEESC_UM09_70, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:30,341 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM10, study 07/11/2018
+2025-02-25 16:06:30,642 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:30,645 - INFO - Segmentation inspection complete for subject DOSEESC_UM10, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:30,706 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM10, study 08/20/2018
+2025-02-25 16:06:30,713 - WARNING - No segmentation found for subject DOSEESC_UM10, study 08/20/2018.
+2025-02-25 16:06:30,837 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM13, study 08/22/2018
+2025-02-25 16:06:31,152 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:31,155 - INFO - Segmentation inspection complete for subject DOSEESC_UM13, study 08/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:31,217 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM13, study 09/17/2018
+2025-02-25 16:06:31,534 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:31,538 - INFO - Segmentation inspection complete for subject DOSEESC_UM13, study 09/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:31,649 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH07, study 08/27/2018
+2025-02-25 16:06:31,938 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:31,942 - INFO - Segmentation inspection complete for subject DOSEESC_JH07, study 08/27/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:32,004 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH07, study 09/20/2018
+2025-02-25 16:06:32,303 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:32,307 - INFO - Segmentation inspection complete for subject DOSEESC_JH07, study 09/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:32,428 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM14, study 10/01/2018
+2025-02-25 16:06:32,710 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:32,713 - INFO - Segmentation inspection complete for subject DOSEESC_UM14, study 10/01/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:32,773 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM14, study 10/22/2018
+2025-02-25 16:06:33,085 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:33,089 - INFO - Segmentation inspection complete for subject DOSEESC_UM14, study 10/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:33,214 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM15, study 10/31/2018
+2025-02-25 16:06:33,517 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:33,520 - INFO - Segmentation inspection complete for subject DOSEESC_UM15, study 10/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:33,590 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM15, study 11/28/2018
+2025-02-25 16:06:33,896 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:33,900 - INFO - Segmentation inspection complete for subject DOSEESC_UM15, study 11/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:33,973 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM08, study 11/02/2018
+2025-02-25 16:06:34,245 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:34,248 - INFO - Segmentation inspection complete for subject DOSEESC_EM08, study 11/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:34,375 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM16, study 11/14/2018
+2025-02-25 16:06:35,020 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:35,023 - INFO - Segmentation inspection complete for subject DOSEESC_UM16, study 11/14/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:35,086 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM16, study 12/05/2018
+2025-02-25 16:06:35,396 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:35,400 - INFO - Segmentation inspection complete for subject DOSEESC_UM16, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:35,509 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM09, study 11/20/2018
+2025-02-25 16:06:35,794 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:35,797 - INFO - Segmentation inspection complete for subject DOSEESC_EM09, study 11/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:35,859 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM09, study 12/17/2018
+2025-02-25 16:06:36,147 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:36,151 - INFO - Segmentation inspection complete for subject DOSEESC_EM09, study 12/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:36,264 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH10, study 12/05/2018
+2025-02-25 16:06:36,560 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:36,564 - INFO - Segmentation inspection complete for subject DOSEESC_JH10, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:36,622 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH10, study 12/28/2018
+2025-02-25 16:06:36,916 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:36,920 - INFO - Segmentation inspection complete for subject DOSEESC_JH10, study 12/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:37,023 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM10, study 12/20/2018
+2025-02-25 16:06:37,309 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:37,313 - INFO - Segmentation inspection complete for subject DOSEESC_EM10, study 12/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:37,372 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM10, study 01/16/2019
+2025-02-25 16:06:37,651 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:37,654 - INFO - Segmentation inspection complete for subject DOSEESC_EM10, study 01/16/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:37,743 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM11, study 01/03/2019
+2025-02-25 16:06:38,022 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:38,025 - INFO - Segmentation inspection complete for subject DOSEESC_EM11, study 01/03/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:38,082 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM11, study 01/24/2019
+2025-02-25 16:06:38,362 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:38,366 - INFO - Segmentation inspection complete for subject DOSEESC_EM11, study 01/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:38,443 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM17, study 01/07/2019
+2025-02-25 16:06:38,745 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:38,748 - INFO - Segmentation inspection complete for subject DOSEESC_UM17, study 01/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:38,919 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM18, study 01/23/2019
+2025-02-25 16:06:39,232 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:39,235 - INFO - Segmentation inspection complete for subject DOSEESC_UM18, study 01/23/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:39,294 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM18, study 02/18/2019
+2025-02-25 16:06:39,604 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:39,607 - INFO - Segmentation inspection complete for subject DOSEESC_UM18, study 02/18/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:39,769 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 01/25/2019
+2025-02-25 16:06:40,045 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:40,048 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 01/25/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:40,107 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 03/07/2019
+2025-02-25 16:06:40,385 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:40,388 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 03/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:40,446 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 02/12/2019
+2025-02-25 16:06:40,723 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:40,727 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 02/12/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:40,837 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM13, study 03/01/2019
+2025-02-25 16:06:41,117 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:41,120 - INFO - Segmentation inspection complete for subject DOSEESC_EM13, study 03/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:41,179 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM13, study 03/20/2019
+2025-02-25 16:06:41,465 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:41,468 - INFO - Segmentation inspection complete for subject DOSEESC_EM13, study 03/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:41,632 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM20, study 04/24/2019
+2025-02-25 16:06:41,925 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:41,929 - INFO - Segmentation inspection complete for subject DOSEESC_UM20, study 04/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:41,988 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM20, study 05/20/2019
+2025-02-25 16:06:42,288 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:42,291 - INFO - Segmentation inspection complete for subject DOSEESC_UM20, study 05/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:42,380 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM21, study 05/01/2019
+2025-02-25 16:06:42,686 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:42,689 - INFO - Segmentation inspection complete for subject DOSEESC_UM21, study 05/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:42,787 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM14, study 05/22/2019
+2025-02-25 16:06:43,068 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:43,071 - INFO - Segmentation inspection complete for subject DOSEESC_EM14, study 05/22/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:43,128 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM14, study 06/10/2019
+2025-02-25 16:06:43,409 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:43,412 - INFO - Segmentation inspection complete for subject DOSEESC_EM14, study 06/10/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:43,531 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM15, study 06/11/2019
+2025-02-25 16:06:43,806 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:43,809 - INFO - Segmentation inspection complete for subject DOSEESC_EM15, study 06/11/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:43,866 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM15, study 07/02/2019
+2025-02-25 16:06:44,145 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:44,148 - INFO - Segmentation inspection complete for subject DOSEESC_EM15, study 07/02/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:44,218 - INFO - Loaded segmentation and flair image for subject rGBM_001_02_27_2023, study 02/27/2023
+2025-02-25 16:06:44,947 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:44,950 - INFO - Segmentation inspection complete for subject rGBM_001_02_27_2023, study 02/27/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:45,024 - INFO - Loaded segmentation and flair image for subject rGBM_001_04_21_2023, study 04/21/2023
+2025-02-25 16:06:45,316 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:45,319 - INFO - Segmentation inspection complete for subject rGBM_001_04_21_2023, study 04/21/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:45,394 - INFO - Loaded segmentation and flair image for subject rGBM_001_06_30_2023, study 06/30/2023
+2025-02-25 16:06:45,687 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:45,690 - INFO - Segmentation inspection complete for subject rGBM_001_06_30_2023, study 06/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:45,765 - INFO - Loaded segmentation and flair image for subject rGBM_001_08_30_2023, study 08/30/2023
+2025-02-25 16:06:46,056 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:46,060 - INFO - Segmentation inspection complete for subject rGBM_001_08_30_2023, study 08/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:46,137 - INFO - Loaded segmentation and flair image for subject rGBM_002_04_28_2023, study 04/28/2023
+2025-02-25 16:06:46,433 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:46,436 - INFO - Segmentation inspection complete for subject rGBM_002_04_28_2023, study 04/28/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:46,508 - INFO - Loaded segmentation and flair image for subject rGBM_003_04_24_2023, study 04/24/2023
+2025-02-25 16:06:46,798 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:46,801 - INFO - Segmentation inspection complete for subject rGBM_003_04_24_2023, study 04/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:46,876 - INFO - Loaded segmentation and flair image for subject rGBM_004_09_22_2023, study 09/22/2023
+2025-02-25 16:06:47,168 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:47,171 - INFO - Segmentation inspection complete for subject rGBM_004_09_22_2023, study 09/22/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:47,246 - INFO - Loaded segmentation and flair image for subject rGBM_005_08_18_2023, study 08/18/2023
+2025-02-25 16:06:47,544 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:47,548 - INFO - Segmentation inspection complete for subject rGBM_005_08_18_2023, study 08/18/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:47,620 - INFO - Loaded segmentation and flair image for subject rGBM_006_04_03_2023, study 04/03/2023
+2025-02-25 16:06:47,911 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:47,914 - INFO - Segmentation inspection complete for subject rGBM_006_04_03_2023, study 04/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:47,987 - INFO - Loaded segmentation and flair image for subject rGBM_006_05_24_2023, study 05/24/2023
+2025-02-25 16:06:48,280 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:48,284 - INFO - Segmentation inspection complete for subject rGBM_006_05_24_2023, study 05/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:48,358 - INFO - Loaded segmentation and flair image for subject rGBM_006_08_01_2023, study 08/01/2023
+2025-02-25 16:06:48,650 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:48,654 - INFO - Segmentation inspection complete for subject rGBM_006_08_01_2023, study 08/01/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:48,728 - INFO - Loaded segmentation and flair image for subject rGBM_007_05_30_2023, study 05/30/2023
+2025-02-25 16:06:49,027 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:49,030 - INFO - Segmentation inspection complete for subject rGBM_007_05_30_2023, study 05/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:49,105 - INFO - Loaded segmentation and flair image for subject wholeGBM_001_05_26_2023, study 05/26/2023
+2025-02-25 16:06:49,403 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:49,555 - INFO - Segmentation inspection complete for subject wholeGBM_001_05_26_2023, study 05/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:49,627 - INFO - Loaded segmentation and flair image for subject wholeGBM_001_07_26_2023, study 07/26/2023
+2025-02-25 16:06:49,925 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:49,928 - INFO - Segmentation inspection complete for subject wholeGBM_001_07_26_2023, study 07/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:49,999 - INFO - Loaded segmentation and flair image for subject wholeGBM_002_03_10_2023, study 03/10/2023
+2025-02-25 16:06:50,284 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:50,289 - INFO - Segmentation inspection complete for subject wholeGBM_002_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:50,363 - INFO - Loaded segmentation and flair image for subject wholeGBM_002_04_13_2023, study 04/13/2023
+2025-02-25 16:06:50,648 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:50,651 - INFO - Segmentation inspection complete for subject wholeGBM_002_04_13_2023, study 04/13/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:50,725 - INFO - Loaded segmentation and flair image for subject wholeGBM_003_06_14_2023, study 06/14/2023
+2025-02-25 16:06:51,020 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:51,023 - INFO - Segmentation inspection complete for subject wholeGBM_003_06_14_2023, study 06/14/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:51,097 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_03_10_2023, study 03/10/2023
+2025-02-25 16:06:51,384 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:51,388 - INFO - Segmentation inspection complete for subject wholeGBM_004_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:51,462 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_04_19_2023, study 04/19/2023
+2025-02-25 16:06:51,752 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:51,755 - INFO - Segmentation inspection complete for subject wholeGBM_004_04_19_2023, study 04/19/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:51,829 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_07_03_2023, study 07/03/2023
+2025-02-25 16:06:52,114 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation\segmentation_inspection.png
+2025-02-25 16:06:52,118 - INFO - Segmentation inspection complete for subject wholeGBM_004_07_03_2023, study 07/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-25 16:06:53,065 - INFO - Stopped batch segmentation inspection.
+2025-02-26 13:22:49,990 - INFO - Starting segmentation inspection...
+2025-02-26 13:22:55,943 - INFO - Found 59 subjects for segmentation inspection.
+2025-02-26 13:22:56,032 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM01, study 09/20/2017
+2025-02-26 13:22:56,344 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:56,348 - INFO - Segmentation inspection complete for subject DOSEESC_EM01, study 09/20/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:56,403 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM01, study 10/16/2017
+2025-02-26 13:22:56,727 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:56,730 - INFO - Segmentation inspection complete for subject DOSEESC_EM01, study 10/16/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:56,831 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM02, study 10/19/2017
+2025-02-26 13:22:57,142 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:57,146 - INFO - Segmentation inspection complete for subject DOSEESC_EM02, study 10/19/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:57,199 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM02, study 11/14/2017
+2025-02-26 13:22:57,505 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:57,509 - INFO - Segmentation inspection complete for subject DOSEESC_EM02, study 11/14/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:57,573 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM03, study 12/12/2017
+2025-02-26 13:22:57,873 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:57,878 - INFO - Segmentation inspection complete for subject DOSEESC_EM03, study 12/12/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:57,973 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM04, study 01/10/2018
+2025-02-26 13:22:58,284 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:58,288 - INFO - Segmentation inspection complete for subject DOSEESC_EM04, study 01/10/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:58,342 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM04, study 02/07/2018
+2025-02-26 13:22:58,652 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:58,656 - INFO - Segmentation inspection complete for subject DOSEESC_EM04, study 02/07/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:58,724 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM02, study 01/22/2018
+2025-02-26 13:22:59,048 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:59,051 - INFO - Segmentation inspection complete for subject DOSEESC_UM02, study 01/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:59,151 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM05, study 01/31/2018
+2025-02-26 13:22:59,471 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:59,474 - INFO - Segmentation inspection complete for subject DOSEESC_EM05, study 01/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:59,530 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM05, study 02/23/2018
+2025-02-26 13:22:59,847 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:22:59,851 - INFO - Segmentation inspection complete for subject DOSEESC_EM05, study 02/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:22:59,960 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM03, study 02/05/2018
+2025-02-26 13:23:00,293 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:00,297 - INFO - Segmentation inspection complete for subject DOSEESC_UM03, study 02/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:00,352 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM03, study 02/28/2018
+2025-02-26 13:23:01,756 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:01,760 - INFO - Segmentation inspection complete for subject DOSEESC_UM03, study 02/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:01,852 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM06, study 03/19/2018
+2025-02-26 13:23:02,164 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:02,168 - INFO - Segmentation inspection complete for subject DOSEESC_EM06, study 03/19/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:02,223 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM06, study 04/13/2018
+2025-02-26 13:23:02,532 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:02,537 - INFO - Segmentation inspection complete for subject DOSEESC_EM06, study 04/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:02,647 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM04, study 03/28/2018
+2025-02-26 13:23:02,969 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:02,972 - INFO - Segmentation inspection complete for subject DOSEESC_UM04, study 03/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:03,031 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM04, study 04/18/2018
+2025-02-26 13:23:03,352 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:03,356 - INFO - Segmentation inspection complete for subject DOSEESC_UM04, study 04/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:03,466 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM05, study 05/02/2018
+2025-02-26 13:23:03,798 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:03,801 - INFO - Segmentation inspection complete for subject DOSEESC_UM05, study 05/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:03,861 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM05, study 05/30/2018
+2025-02-26 13:23:04,188 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:04,192 - INFO - Segmentation inspection complete for subject DOSEESC_UM05, study 05/30/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:04,262 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH01, study 05/18/2018
+2025-02-26 13:23:04,586 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:04,589 - INFO - Segmentation inspection complete for subject DOSEESC_JH01, study 05/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:04,683 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH02, study 05/22/2018
+2025-02-26 13:23:04,995 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:04,999 - INFO - Segmentation inspection complete for subject DOSEESC_JH02, study 05/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:05,057 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH02, study 06/18/2018
+2025-02-26 13:23:05,366 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:05,370 - INFO - Segmentation inspection complete for subject DOSEESC_JH02, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:05,472 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH03, study 07/06/2018
+2025-02-26 13:23:05,778 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:05,782 - INFO - Segmentation inspection complete for subject DOSEESC_JH03, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:05,839 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH03, study 08/03/2018
+2025-02-26 13:23:06,156 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:06,160 - INFO - Segmentation inspection complete for subject DOSEESC_JH03, study 08/03/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:06,227 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH04, study 07/06/2018
+2025-02-26 13:23:06,527 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:06,531 - INFO - Segmentation inspection complete for subject DOSEESC_JH04, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:06,623 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM06, study 05/23/2018
+2025-02-26 13:23:06,930 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:06,934 - INFO - Segmentation inspection complete for subject DOSEESC_UM06, study 05/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:06,993 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM06, study 06/18/2018
+2025-02-26 13:23:07,312 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:07,316 - INFO - Segmentation inspection complete for subject DOSEESC_UM06, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:07,424 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM07, study 06/11/2018
+2025-02-26 13:23:07,746 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:07,749 - INFO - Segmentation inspection complete for subject DOSEESC_UM07, study 06/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:07,807 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM07, study 07/09/2018
+2025-02-26 13:23:08,127 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:08,130 - INFO - Segmentation inspection complete for subject DOSEESC_UM07, study 07/09/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:08,240 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM08, study 06/13/2018
+2025-02-26 13:23:08,833 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:08,837 - INFO - Segmentation inspection complete for subject DOSEESC_UM08, study 06/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:08,896 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM08, study 07/11/2018
+2025-02-26 13:23:09,227 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:09,231 - INFO - Segmentation inspection complete for subject DOSEESC_UM08, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:09,370 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 06/20/2018
+2025-02-26 13:23:09,679 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:09,683 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:09,738 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 07/16/2018
+2025-02-26 13:23:10,045 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:10,048 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:10,103 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM07, study 06/26/2018
+2025-02-26 13:23:10,407 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:10,410 - INFO - Segmentation inspection complete for subject DOSEESC_EM07, study 06/26/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:10,515 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09, study 06/20/2018
+2025-02-26 13:23:10,839 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:10,843 - INFO - Segmentation inspection complete for subject DOSEESC_UM09, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:10,902 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09, study 07/16/2018
+2025-02-26 13:23:11,226 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:11,230 - INFO - Segmentation inspection complete for subject DOSEESC_UM09, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:11,308 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM09_70, study 06/20/2018
+2025-02-26 13:23:11,637 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:11,641 - INFO - Segmentation inspection complete for subject DOSEESC_UM09_70, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:11,835 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM10, study 07/11/2018
+2025-02-26 13:23:12,152 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:12,156 - INFO - Segmentation inspection complete for subject DOSEESC_UM10, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:12,217 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM10, study 08/20/2018
+2025-02-26 13:23:12,223 - WARNING - No segmentation found for subject DOSEESC_UM10, study 08/20/2018.
+2025-02-26 13:23:12,349 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM13, study 08/22/2018
+2025-02-26 13:23:12,679 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:12,682 - INFO - Segmentation inspection complete for subject DOSEESC_UM13, study 08/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:12,745 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM13, study 09/17/2018
+2025-02-26 13:23:13,073 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:13,076 - INFO - Segmentation inspection complete for subject DOSEESC_UM13, study 09/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:13,188 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH07, study 08/27/2018
+2025-02-26 13:23:13,493 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:13,497 - INFO - Segmentation inspection complete for subject DOSEESC_JH07, study 08/27/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:13,557 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH07, study 09/20/2018
+2025-02-26 13:23:13,862 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:13,866 - INFO - Segmentation inspection complete for subject DOSEESC_JH07, study 09/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:13,989 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM14, study 10/01/2018
+2025-02-26 13:23:14,281 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:14,285 - INFO - Segmentation inspection complete for subject DOSEESC_UM14, study 10/01/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:14,347 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM14, study 10/22/2018
+2025-02-26 13:23:14,669 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:14,673 - INFO - Segmentation inspection complete for subject DOSEESC_UM14, study 10/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:14,799 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM15, study 10/31/2018
+2025-02-26 13:23:15,115 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:15,151 - INFO - Segmentation inspection complete for subject DOSEESC_UM15, study 10/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:15,217 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM15, study 11/28/2018
+2025-02-26 13:23:15,563 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:15,567 - INFO - Segmentation inspection complete for subject DOSEESC_UM15, study 11/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:15,639 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM08, study 11/02/2018
+2025-02-26 13:23:15,927 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:15,930 - INFO - Segmentation inspection complete for subject DOSEESC_EM08, study 11/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:16,061 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM16, study 11/14/2018
+2025-02-26 13:23:16,381 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:16,385 - INFO - Segmentation inspection complete for subject DOSEESC_UM16, study 11/14/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:16,446 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM16, study 12/05/2018
+2025-02-26 13:23:16,764 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:16,768 - INFO - Segmentation inspection complete for subject DOSEESC_UM16, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:16,877 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM09, study 11/20/2018
+2025-02-26 13:23:17,519 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:17,523 - INFO - Segmentation inspection complete for subject DOSEESC_EM09, study 11/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:17,580 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM09, study 12/17/2018
+2025-02-26 13:23:17,874 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:17,878 - INFO - Segmentation inspection complete for subject DOSEESC_EM09, study 12/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:17,992 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH10, study 12/05/2018
+2025-02-26 13:23:18,292 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:18,295 - INFO - Segmentation inspection complete for subject DOSEESC_JH10, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:18,354 - INFO - Loaded segmentation and flair image for subject DOSEESC_JH10, study 12/28/2018
+2025-02-26 13:23:18,652 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:18,655 - INFO - Segmentation inspection complete for subject DOSEESC_JH10, study 12/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:18,756 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM10, study 12/20/2018
+2025-02-26 13:23:19,049 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:19,052 - INFO - Segmentation inspection complete for subject DOSEESC_EM10, study 12/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:19,113 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM10, study 01/16/2019
+2025-02-26 13:23:19,403 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:19,407 - INFO - Segmentation inspection complete for subject DOSEESC_EM10, study 01/16/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:19,495 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM11, study 01/03/2019
+2025-02-26 13:23:19,779 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:19,782 - INFO - Segmentation inspection complete for subject DOSEESC_EM11, study 01/03/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:19,840 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM11, study 01/24/2019
+2025-02-26 13:23:20,126 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:20,279 - INFO - Segmentation inspection complete for subject DOSEESC_EM11, study 01/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:20,354 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM17, study 01/07/2019
+2025-02-26 13:23:20,659 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:20,663 - INFO - Segmentation inspection complete for subject DOSEESC_UM17, study 01/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:20,830 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM18, study 01/23/2019
+2025-02-26 13:23:21,150 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:21,154 - INFO - Segmentation inspection complete for subject DOSEESC_UM18, study 01/23/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:21,213 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM18, study 02/18/2019
+2025-02-26 13:23:21,531 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:21,535 - INFO - Segmentation inspection complete for subject DOSEESC_UM18, study 02/18/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:21,695 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 01/25/2019
+2025-02-26 13:23:21,985 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:21,989 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 01/25/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:22,047 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 03/07/2019
+2025-02-26 13:23:22,332 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:22,336 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 03/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:22,395 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM12, study 02/12/2019
+2025-02-26 13:23:22,677 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:22,681 - INFO - Segmentation inspection complete for subject DOSEESC_EM12, study 02/12/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:22,789 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM13, study 03/01/2019
+2025-02-26 13:23:23,073 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:23,077 - INFO - Segmentation inspection complete for subject DOSEESC_EM13, study 03/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:23,133 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM13, study 03/20/2019
+2025-02-26 13:23:23,423 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:23,427 - INFO - Segmentation inspection complete for subject DOSEESC_EM13, study 03/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:23,583 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM20, study 04/24/2019
+2025-02-26 13:23:23,895 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:23,899 - INFO - Segmentation inspection complete for subject DOSEESC_UM20, study 04/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:23,966 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM20, study 05/20/2019
+2025-02-26 13:23:24,280 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:24,284 - INFO - Segmentation inspection complete for subject DOSEESC_UM20, study 05/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:24,371 - INFO - Loaded segmentation and flair image for subject DOSEESC_UM21, study 05/01/2019
+2025-02-26 13:23:24,688 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:24,692 - INFO - Segmentation inspection complete for subject DOSEESC_UM21, study 05/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:24,826 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM14, study 05/22/2019
+2025-02-26 13:23:25,125 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:25,129 - INFO - Segmentation inspection complete for subject DOSEESC_EM14, study 05/22/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:25,187 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM14, study 06/10/2019
+2025-02-26 13:23:25,482 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:25,485 - INFO - Segmentation inspection complete for subject DOSEESC_EM14, study 06/10/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:25,599 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM15, study 06/11/2019
+2025-02-26 13:23:25,882 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:25,885 - INFO - Segmentation inspection complete for subject DOSEESC_EM15, study 06/11/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:25,943 - INFO - Loaded segmentation and flair image for subject DOSEESC_EM15, study 07/02/2019
+2025-02-26 13:23:26,235 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:26,238 - INFO - Segmentation inspection complete for subject DOSEESC_EM15, study 07/02/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:26,305 - INFO - Loaded segmentation and flair image for subject rGBM_001_02_27_2023, study 02/27/2023
+2025-02-26 13:23:26,601 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:26,605 - INFO - Segmentation inspection complete for subject rGBM_001_02_27_2023, study 02/27/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:26,675 - INFO - Loaded segmentation and flair image for subject rGBM_001_04_21_2023, study 04/21/2023
+2025-02-26 13:23:26,974 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:26,978 - INFO - Segmentation inspection complete for subject rGBM_001_04_21_2023, study 04/21/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:27,050 - INFO - Loaded segmentation and flair image for subject rGBM_001_06_30_2023, study 06/30/2023
+2025-02-26 13:23:27,349 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:27,353 - INFO - Segmentation inspection complete for subject rGBM_001_06_30_2023, study 06/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:27,423 - INFO - Loaded segmentation and flair image for subject rGBM_001_08_30_2023, study 08/30/2023
+2025-02-26 13:23:28,182 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:28,185 - INFO - Segmentation inspection complete for subject rGBM_001_08_30_2023, study 08/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:28,258 - INFO - Loaded segmentation and flair image for subject rGBM_002_04_28_2023, study 04/28/2023
+2025-02-26 13:23:28,560 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:28,563 - INFO - Segmentation inspection complete for subject rGBM_002_04_28_2023, study 04/28/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:28,635 - INFO - Loaded segmentation and flair image for subject rGBM_003_04_24_2023, study 04/24/2023
+2025-02-26 13:23:28,938 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:28,942 - INFO - Segmentation inspection complete for subject rGBM_003_04_24_2023, study 04/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:29,011 - INFO - Loaded segmentation and flair image for subject rGBM_004_09_22_2023, study 09/22/2023
+2025-02-26 13:23:29,314 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:29,318 - INFO - Segmentation inspection complete for subject rGBM_004_09_22_2023, study 09/22/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:29,388 - INFO - Loaded segmentation and flair image for subject rGBM_005_08_18_2023, study 08/18/2023
+2025-02-26 13:23:29,694 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:29,696 - INFO - Segmentation inspection complete for subject rGBM_005_08_18_2023, study 08/18/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:29,767 - INFO - Loaded segmentation and flair image for subject rGBM_006_04_03_2023, study 04/03/2023
+2025-02-26 13:23:30,070 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:30,074 - INFO - Segmentation inspection complete for subject rGBM_006_04_03_2023, study 04/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:30,144 - INFO - Loaded segmentation and flair image for subject rGBM_006_05_24_2023, study 05/24/2023
+2025-02-26 13:23:30,446 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:30,449 - INFO - Segmentation inspection complete for subject rGBM_006_05_24_2023, study 05/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:30,518 - INFO - Loaded segmentation and flair image for subject rGBM_006_08_01_2023, study 08/01/2023
+2025-02-26 13:23:30,820 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:30,823 - INFO - Segmentation inspection complete for subject rGBM_006_08_01_2023, study 08/01/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:30,892 - INFO - Loaded segmentation and flair image for subject rGBM_007_05_30_2023, study 05/30/2023
+2025-02-26 13:23:31,197 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:31,200 - INFO - Segmentation inspection complete for subject rGBM_007_05_30_2023, study 05/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:31,266 - INFO - Loaded segmentation and flair image for subject wholeGBM_001_05_26_2023, study 05/26/2023
+2025-02-26 13:23:31,571 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:31,574 - INFO - Segmentation inspection complete for subject wholeGBM_001_05_26_2023, study 05/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:31,642 - INFO - Loaded segmentation and flair image for subject wholeGBM_001_07_26_2023, study 07/26/2023
+2025-02-26 13:23:31,958 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:31,962 - INFO - Segmentation inspection complete for subject wholeGBM_001_07_26_2023, study 07/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:32,029 - INFO - Loaded segmentation and flair image for subject wholeGBM_002_03_10_2023, study 03/10/2023
+2025-02-26 13:23:32,329 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:32,332 - INFO - Segmentation inspection complete for subject wholeGBM_002_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:32,404 - INFO - Loaded segmentation and flair image for subject wholeGBM_002_04_13_2023, study 04/13/2023
+2025-02-26 13:23:32,703 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:32,707 - INFO - Segmentation inspection complete for subject wholeGBM_002_04_13_2023, study 04/13/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:32,778 - INFO - Loaded segmentation and flair image for subject wholeGBM_003_06_14_2023, study 06/14/2023
+2025-02-26 13:23:33,085 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:33,089 - INFO - Segmentation inspection complete for subject wholeGBM_003_06_14_2023, study 06/14/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:33,158 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_03_10_2023, study 03/10/2023
+2025-02-26 13:23:33,459 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:33,462 - INFO - Segmentation inspection complete for subject wholeGBM_004_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:33,530 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_04_19_2023, study 04/19/2023
+2025-02-26 13:23:33,832 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:33,836 - INFO - Segmentation inspection complete for subject wholeGBM_004_04_19_2023, study 04/19/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:33,907 - INFO - Loaded segmentation and flair image for subject wholeGBM_004_07_03_2023, study 07/03/2023
+2025-02-26 13:23:34,217 - INFO - Saved segmentation inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation\segmentation_inspection.png
+2025-02-26 13:23:34,221 - INFO - Segmentation inspection complete for subject wholeGBM_004_07_03_2023, study 07/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\05_segmentation\segmentation_inspection_complete.txt
+2025-02-26 13:23:35,267 - INFO - Stopped batch segmentation inspection.

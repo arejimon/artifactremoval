@@ -1,0 +1,868 @@
+2025-02-13 14:40:21,160 - INFO - Found 59 subjects to process.
+2025-02-13 14:40:21,161 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01
+2025-02-13 14:40:21,205 - INFO - Processing subject DOSEESC_EM01 study 09/20/2017 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\01_unprocessed)
+2025-02-13 14:40:23,172 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:23,701 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:23,904 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:24,090 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:24,096 - INFO - Conversion completed for study 09/20/2017 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01
+2025-02-13 14:40:24,101 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01 study 09/20/2017
+2025-02-13 14:40:24,106 - INFO - Processing subject DOSEESC_EM01 study 10/16/2017 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\01_unprocessed)
+2025-02-13 14:40:25,176 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:25,178 - WARNING - FLAIR Warning: Series with label 'MRI_FLAIR' does not exist.. Problem with FLAIR.
+2025-02-13 14:40:25,378 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:25,576 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:25,580 - INFO - Conversion completed for study 10/16/2017 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01
+2025-02-13 14:40:25,584 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM01 study 10/16/2017
+2025-02-13 14:40:25,585 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02
+2025-02-13 14:40:25,633 - INFO - Processing subject DOSEESC_EM02 study 10/19/2017 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\01_unprocessed)
+2025-02-13 14:40:27,097 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:27,641 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:27,845 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:28,050 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:28,056 - INFO - Conversion completed for study 10/19/2017 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02
+2025-02-13 14:40:28,061 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02 study 10/19/2017
+2025-02-13 14:40:28,065 - INFO - Processing subject DOSEESC_EM02 study 11/14/2017 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\01_unprocessed)
+2025-02-13 14:40:29,346 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:29,921 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:30,135 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:30,327 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:30,333 - INFO - Conversion completed for study 11/14/2017 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02
+2025-02-13 14:40:30,338 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM02 study 11/14/2017
+2025-02-13 14:40:30,339 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM03
+2025-02-13 14:40:30,353 - INFO - Processing subject DOSEESC_EM03 study 12/12/2017 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\01_unprocessed)
+2025-02-13 14:40:31,760 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:32,265 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:32,369 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:32,456 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:32,462 - INFO - Conversion completed for study 12/12/2017 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM03
+2025-02-13 14:40:32,468 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM03 study 12/12/2017
+2025-02-13 14:40:32,469 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04
+2025-02-13 14:40:32,517 - INFO - Processing subject DOSEESC_EM04 study 01/10/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\01_unprocessed)
+2025-02-13 14:40:33,906 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:34,458 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:34,655 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:34,844 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:34,850 - INFO - Conversion completed for study 01/10/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04
+2025-02-13 14:40:34,855 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04 study 01/10/2018
+2025-02-13 14:40:34,862 - INFO - Processing subject DOSEESC_EM04 study 02/07/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\01_unprocessed)
+2025-02-13 14:40:35,915 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:35,917 - WARNING - FLAIR Warning: Series with label 'MRI_FLAIR' does not exist.. Problem with FLAIR.
+2025-02-13 14:40:36,112 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:36,310 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:36,314 - INFO - Conversion completed for study 02/07/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04
+2025-02-13 14:40:36,318 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM04 study 02/07/2018
+2025-02-13 14:40:36,319 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM02
+2025-02-13 14:40:36,339 - INFO - Processing subject DOSEESC_UM02 study 01/22/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\01_unprocessed)
+2025-02-13 14:40:38,666 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:41,006 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:41,133 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:41,240 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:41,252 - INFO - Conversion completed for study 01/22/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM02
+2025-02-13 14:40:41,260 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM02 study 01/22/2018
+2025-02-13 14:40:41,260 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05
+2025-02-13 14:40:41,308 - INFO - Processing subject DOSEESC_EM05 study 01/31/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\01_unprocessed)
+2025-02-13 14:40:42,828 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:43,425 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:43,632 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:43,825 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:43,831 - INFO - Conversion completed for study 01/31/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05
+2025-02-13 14:40:43,836 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05 study 01/31/2018
+2025-02-13 14:40:43,841 - INFO - Processing subject DOSEESC_EM05 study 02/23/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\01_unprocessed)
+2025-02-13 14:40:44,993 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:45,584 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:45,787 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:45,982 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:45,988 - INFO - Conversion completed for study 02/23/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05
+2025-02-13 14:40:45,993 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM05 study 02/23/2018
+2025-02-13 14:40:45,994 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03
+2025-02-13 14:40:46,054 - INFO - Processing subject DOSEESC_UM03 study 02/05/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\01_unprocessed)
+2025-02-13 14:40:48,500 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:50,739 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:51,009 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:51,274 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:51,286 - INFO - Conversion completed for study 02/05/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03
+2025-02-13 14:40:51,293 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03 study 02/05/2018
+2025-02-13 14:40:51,298 - INFO - Processing subject DOSEESC_UM03 study 02/28/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\01_unprocessed)
+2025-02-13 14:40:53,490 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:55,757 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:56,025 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:56,286 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:56,298 - INFO - Conversion completed for study 02/28/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03
+2025-02-13 14:40:56,305 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM03 study 02/28/2018
+2025-02-13 14:40:56,306 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06
+2025-02-13 14:40:56,345 - INFO - Processing subject DOSEESC_EM06 study 03/19/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\01_unprocessed)
+2025-02-13 14:40:57,770 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:57,771 - WARNING - FLAIR Warning: Series with label 'MRI_FLAIR' does not exist.. Problem with FLAIR.
+2025-02-13 14:40:57,942 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:40:58,097 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:40:58,102 - INFO - Conversion completed for study 03/19/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06
+2025-02-13 14:40:58,105 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06 study 03/19/2018
+2025-02-13 14:40:58,110 - INFO - Processing subject DOSEESC_EM06 study 04/13/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\01_unprocessed)
+2025-02-13 14:40:59,208 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:40:59,740 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:40:59,915 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:00,086 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:00,092 - INFO - Conversion completed for study 04/13/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06
+2025-02-13 14:41:00,097 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM06 study 04/13/2018
+2025-02-13 14:41:00,098 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04
+2025-02-13 14:41:00,158 - INFO - Processing subject DOSEESC_UM04 study 03/28/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\01_unprocessed)
+2025-02-13 14:41:02,678 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:05,254 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:05,524 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:05,776 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:05,789 - INFO - Conversion completed for study 03/28/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04
+2025-02-13 14:41:05,796 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04 study 03/28/2018
+2025-02-13 14:41:05,801 - INFO - Processing subject DOSEESC_UM04 study 04/18/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\01_unprocessed)
+2025-02-13 14:41:08,043 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:10,528 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:10,785 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:11,035 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:11,047 - INFO - Conversion completed for study 04/18/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04
+2025-02-13 14:41:11,055 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM04 study 04/18/2018
+2025-02-13 14:41:11,056 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05
+2025-02-13 14:41:11,115 - INFO - Processing subject DOSEESC_UM05 study 05/02/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\01_unprocessed)
+2025-02-13 14:41:13,361 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:15,773 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:16,055 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:16,338 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:16,350 - INFO - Conversion completed for study 05/02/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05
+2025-02-13 14:41:16,357 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05 study 05/02/2018
+2025-02-13 14:41:16,364 - INFO - Processing subject DOSEESC_UM05 study 05/30/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\01_unprocessed)
+2025-02-13 14:41:18,593 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:21,148 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:21,421 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:21,684 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:21,697 - INFO - Conversion completed for study 05/30/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05
+2025-02-13 14:41:21,704 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM05 study 05/30/2018
+2025-02-13 14:41:21,705 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH01
+2025-02-13 14:41:21,726 - INFO - Processing subject DOSEESC_JH01 study 05/18/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\01_unprocessed)
+2025-02-13 14:41:23,434 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:23,854 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:23,996 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:24,121 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:24,127 - INFO - Conversion completed for study 05/18/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH01
+2025-02-13 14:41:24,131 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH01 study 05/18/2018
+2025-02-13 14:41:24,132 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02
+2025-02-13 14:41:24,180 - INFO - Processing subject DOSEESC_JH02 study 05/22/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\01_unprocessed)
+2025-02-13 14:41:25,824 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:26,306 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:26,537 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:26,737 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:26,743 - INFO - Conversion completed for study 05/22/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02
+2025-02-13 14:41:26,747 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02 study 05/22/2018
+2025-02-13 14:41:26,753 - INFO - Processing subject DOSEESC_JH02 study 06/18/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\01_unprocessed)
+2025-02-13 14:41:28,421 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:28,778 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:28,980 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:29,172 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:29,177 - INFO - Conversion completed for study 06/18/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02
+2025-02-13 14:41:29,207 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH02 study 06/18/2018
+2025-02-13 14:41:29,208 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03
+2025-02-13 14:41:29,262 - INFO - Processing subject DOSEESC_JH03 study 07/06/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\01_unprocessed)
+2025-02-13 14:41:30,966 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:31,437 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:31,671 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:31,894 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:31,901 - INFO - Conversion completed for study 07/06/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03
+2025-02-13 14:41:31,907 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03 study 07/06/2018
+2025-02-13 14:41:31,912 - INFO - Processing subject DOSEESC_JH03 study 08/03/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\01_unprocessed)
+2025-02-13 14:41:33,281 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:33,762 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:33,998 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:34,227 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:34,233 - INFO - Conversion completed for study 08/03/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03
+2025-02-13 14:41:34,238 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH03 study 08/03/2018
+2025-02-13 14:41:34,238 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH04
+2025-02-13 14:41:34,256 - INFO - Processing subject DOSEESC_JH04 study 07/06/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\01_unprocessed)
+2025-02-13 14:41:35,843 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:36,194 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:36,311 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:36,411 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:36,417 - INFO - Conversion completed for study 07/06/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH04
+2025-02-13 14:41:36,421 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH04 study 07/06/2018
+2025-02-13 14:41:36,422 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06
+2025-02-13 14:41:36,462 - INFO - Processing subject DOSEESC_UM06 study 05/23/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\01_unprocessed)
+2025-02-13 14:41:38,854 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:41,014 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:41,187 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:41,344 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:41,356 - INFO - Conversion completed for study 05/23/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06
+2025-02-13 14:41:41,363 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06 study 05/23/2018
+2025-02-13 14:41:41,368 - INFO - Processing subject DOSEESC_UM06 study 06/18/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\01_unprocessed)
+2025-02-13 14:41:43,439 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:45,606 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:45,780 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:45,942 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:45,954 - INFO - Conversion completed for study 06/18/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06
+2025-02-13 14:41:45,961 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM06 study 06/18/2018
+2025-02-13 14:41:45,962 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07
+2025-02-13 14:41:46,019 - INFO - Processing subject DOSEESC_UM07 study 06/11/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\01_unprocessed)
+2025-02-13 14:41:48,472 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:50,882 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:51,130 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:51,372 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:51,384 - INFO - Conversion completed for study 06/11/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07
+2025-02-13 14:41:51,391 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07 study 06/11/2018
+2025-02-13 14:41:51,396 - INFO - Processing subject DOSEESC_UM07 study 07/09/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\01_unprocessed)
+2025-02-13 14:41:53,478 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:41:55,736 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:41:55,987 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:41:56,228 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:41:56,240 - INFO - Conversion completed for study 07/09/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07
+2025-02-13 14:41:56,247 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM07 study 07/09/2018
+2025-02-13 14:41:56,248 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08
+2025-02-13 14:41:56,306 - INFO - Processing subject DOSEESC_UM08 study 06/13/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\01_unprocessed)
+2025-02-13 14:41:58,785 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:01,153 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:01,472 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:01,724 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:01,736 - INFO - Conversion completed for study 06/13/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08
+2025-02-13 14:42:01,743 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08 study 06/13/2018
+2025-02-13 14:42:01,748 - INFO - Processing subject DOSEESC_UM08 study 07/11/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\01_unprocessed)
+2025-02-13 14:42:04,016 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:06,414 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:06,671 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:06,920 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:06,931 - INFO - Conversion completed for study 07/11/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08
+2025-02-13 14:42:06,938 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM08 study 07/11/2018
+2025-02-13 14:42:06,939 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07
+2025-02-13 14:42:07,031 - INFO - Processing subject DOSEESC_EM07 study 06/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\01_unprocessed)
+2025-02-13 14:42:08,654 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:09,332 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:09,624 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:09,907 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:09,913 - INFO - Conversion completed for study 06/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07
+2025-02-13 14:42:09,919 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07 study 06/20/2018
+2025-02-13 14:42:09,925 - INFO - Processing subject DOSEESC_EM07 study 07/16/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\01_unprocessed)
+2025-02-13 14:42:11,186 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:11,841 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:12,131 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:12,412 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:12,417 - INFO - Conversion completed for study 07/16/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07
+2025-02-13 14:42:12,423 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07 study 07/16/2018
+2025-02-13 14:42:12,428 - INFO - Processing subject DOSEESC_EM07 study 06/26/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\01_unprocessed)
+2025-02-13 14:42:13,706 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:14,349 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:14,640 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:14,920 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:14,927 - INFO - Conversion completed for study 06/26/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07
+2025-02-13 14:42:14,932 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM07 study 06/26/2018
+2025-02-13 14:42:14,932 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09
+2025-02-13 14:42:14,984 - INFO - Processing subject DOSEESC_UM09 study 06/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\01_unprocessed)
+2025-02-13 14:42:17,476 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:19,729 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:19,957 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:20,172 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:20,184 - INFO - Conversion completed for study 06/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09
+2025-02-13 14:42:20,191 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09 study 06/20/2018
+2025-02-13 14:42:20,196 - INFO - Processing subject DOSEESC_UM09 study 07/16/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\01_unprocessed)
+2025-02-13 14:42:22,424 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:24,702 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:24,938 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:25,152 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:25,163 - INFO - Conversion completed for study 07/16/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09
+2025-02-13 14:42:25,171 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09 study 07/16/2018
+2025-02-13 14:42:25,172 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09_70
+2025-02-13 14:42:25,195 - INFO - Processing subject DOSEESC_UM09_70 study 06/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\01_unprocessed)
+2025-02-13 14:42:27,613 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:29,958 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:30,115 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:30,261 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:30,272 - INFO - Conversion completed for study 06/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09_70
+2025-02-13 14:42:30,280 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM09_70 study 06/20/2018
+2025-02-13 14:42:30,281 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10
+2025-02-13 14:42:30,420 - INFO - Processing subject DOSEESC_UM10 study 07/11/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\01_unprocessed)
+2025-02-13 14:42:33,401 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:36,215 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:36,823 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:37,448 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:37,461 - INFO - Conversion completed for study 07/11/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10
+2025-02-13 14:42:37,468 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10 study 07/11/2018
+2025-02-13 14:42:37,474 - INFO - Processing subject DOSEESC_UM10 study 08/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\01_unprocessed)
+2025-02-13 14:42:40,164 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:42,872 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:43,480 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:44,109 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:44,121 - INFO - Conversion completed for study 08/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10
+2025-02-13 14:42:44,128 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM10 study 08/20/2018
+2025-02-13 14:42:44,129 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13
+2025-02-13 14:42:44,199 - INFO - Processing subject DOSEESC_UM13 study 08/22/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\01_unprocessed)
+2025-02-13 14:42:46,662 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:49,038 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:49,354 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:49,666 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:49,677 - INFO - Conversion completed for study 08/22/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13
+2025-02-13 14:42:49,684 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13 study 08/22/2018
+2025-02-13 14:42:49,692 - INFO - Processing subject DOSEESC_UM13 study 09/17/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\01_unprocessed)
+2025-02-13 14:42:51,970 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:54,514 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:54,834 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:55,152 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:55,164 - INFO - Conversion completed for study 09/17/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13
+2025-02-13 14:42:55,172 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM13 study 09/17/2018
+2025-02-13 14:42:55,174 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07
+2025-02-13 14:42:55,236 - INFO - Processing subject DOSEESC_JH07 study 08/27/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\01_unprocessed)
+2025-02-13 14:42:57,046 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:42:57,577 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:42:57,847 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:42:58,113 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:42:58,119 - INFO - Conversion completed for study 08/27/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07
+2025-02-13 14:42:58,123 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07 study 08/27/2018
+2025-02-13 14:42:58,128 - INFO - Processing subject DOSEESC_JH07 study 09/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\01_unprocessed)
+2025-02-13 14:42:59,646 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:00,183 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:00,451 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:00,716 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:00,721 - INFO - Conversion completed for study 09/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07
+2025-02-13 14:43:00,726 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH07 study 09/20/2018
+2025-02-13 14:43:00,726 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14
+2025-02-13 14:43:00,795 - INFO - Processing subject DOSEESC_UM14 study 10/01/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\01_unprocessed)
+2025-02-13 14:43:03,372 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:05,935 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:06,238 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:06,534 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:06,546 - INFO - Conversion completed for study 10/01/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14
+2025-02-13 14:43:06,554 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14 study 10/01/2018
+2025-02-13 14:43:06,558 - INFO - Processing subject DOSEESC_UM14 study 10/22/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\01_unprocessed)
+2025-02-13 14:43:08,825 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:11,296 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:11,600 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:11,897 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:11,910 - INFO - Conversion completed for study 10/22/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14
+2025-02-13 14:43:11,917 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM14 study 10/22/2018
+2025-02-13 14:43:11,918 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15
+2025-02-13 14:43:11,987 - INFO - Processing subject DOSEESC_UM15 study 10/31/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\01_unprocessed)
+2025-02-13 14:43:14,496 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:17,016 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:17,337 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:17,656 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:17,668 - INFO - Conversion completed for study 10/31/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15
+2025-02-13 14:43:17,675 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15 study 10/31/2018
+2025-02-13 14:43:17,681 - INFO - Processing subject DOSEESC_UM15 study 11/28/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\01_unprocessed)
+2025-02-13 14:43:19,860 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:22,138 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:22,458 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:22,771 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:22,783 - INFO - Conversion completed for study 11/28/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15
+2025-02-13 14:43:22,791 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM15 study 11/28/2018
+2025-02-13 14:43:22,792 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM08
+2025-02-13 14:43:22,812 - INFO - Processing subject DOSEESC_EM08 study 11/02/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\01_unprocessed)
+2025-02-13 14:43:24,209 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:24,696 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:24,836 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:25,141 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:25,147 - INFO - Conversion completed for study 11/02/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM08
+2025-02-13 14:43:25,152 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM08 study 11/02/2018
+2025-02-13 14:43:25,153 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16
+2025-02-13 14:43:25,226 - INFO - Processing subject DOSEESC_UM16 study 11/14/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\01_unprocessed)
+2025-02-13 14:43:27,871 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:30,443 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:30,772 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:31,096 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:31,108 - INFO - Conversion completed for study 11/14/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16
+2025-02-13 14:43:31,115 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16 study 11/14/2018
+2025-02-13 14:43:31,119 - INFO - Processing subject DOSEESC_UM16 study 12/05/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\01_unprocessed)
+2025-02-13 14:43:33,398 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:35,658 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:35,988 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:36,311 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:36,322 - INFO - Conversion completed for study 12/05/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16
+2025-02-13 14:43:36,329 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM16 study 12/05/2018
+2025-02-13 14:43:36,330 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09
+2025-02-13 14:43:36,389 - INFO - Processing subject DOSEESC_EM09 study 11/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\01_unprocessed)
+2025-02-13 14:43:37,963 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:38,601 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:38,873 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:39,135 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:39,141 - INFO - Conversion completed for study 11/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09
+2025-02-13 14:43:39,146 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09 study 11/20/2018
+2025-02-13 14:43:39,151 - INFO - Processing subject DOSEESC_EM09 study 12/17/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\01_unprocessed)
+2025-02-13 14:43:40,494 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:41,168 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:41,435 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:41,694 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:41,707 - INFO - Conversion completed for study 12/17/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09
+2025-02-13 14:43:41,711 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM09 study 12/17/2018
+2025-02-13 14:43:41,712 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10
+2025-02-13 14:43:41,772 - INFO - Processing subject DOSEESC_JH10 study 12/05/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\01_unprocessed)
+2025-02-13 14:43:43,530 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:44,053 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:44,323 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:44,579 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:44,585 - INFO - Conversion completed for study 12/05/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10
+2025-02-13 14:43:44,590 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10 study 12/05/2018
+2025-02-13 14:43:44,595 - INFO - Processing subject DOSEESC_JH10 study 12/28/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\01_unprocessed)
+2025-02-13 14:43:46,063 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:46,577 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:46,849 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:47,106 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:47,112 - INFO - Conversion completed for study 12/28/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10
+2025-02-13 14:43:47,116 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_JH10 study 12/28/2018
+2025-02-13 14:43:47,117 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10
+2025-02-13 14:43:47,169 - INFO - Processing subject DOSEESC_EM10 study 12/20/2018 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\01_unprocessed)
+2025-02-13 14:43:48,641 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:49,228 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:49,451 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:49,657 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:49,663 - INFO - Conversion completed for study 12/20/2018 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10
+2025-02-13 14:43:49,668 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10 study 12/20/2018
+2025-02-13 14:43:49,673 - INFO - Processing subject DOSEESC_EM10 study 01/16/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\01_unprocessed)
+2025-02-13 14:43:50,845 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:51,443 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:51,668 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:51,888 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:51,894 - INFO - Conversion completed for study 01/16/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10
+2025-02-13 14:43:51,898 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM10 study 01/16/2019
+2025-02-13 14:43:51,899 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11
+2025-02-13 14:43:51,942 - INFO - Processing subject DOSEESC_EM11 study 01/03/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\01_unprocessed)
+2025-02-13 14:43:53,362 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:53,875 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:43:54,052 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:54,216 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:54,222 - INFO - Conversion completed for study 01/03/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11
+2025-02-13 14:43:54,227 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11 study 01/03/2019
+2025-02-13 14:43:54,232 - INFO - Processing subject DOSEESC_EM11 study 01/24/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\01_unprocessed)
+2025-02-13 14:43:55,355 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:43:55,356 - WARNING - FLAIR Warning: Series with label 'MRI_FLAIR' does not exist.. Problem with FLAIR.
+2025-02-13 14:43:55,536 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:43:55,702 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:43:55,707 - INFO - Conversion completed for study 01/24/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11
+2025-02-13 14:43:55,712 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM11 study 01/24/2019
+2025-02-13 14:43:55,713 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM17
+2025-02-13 14:43:55,736 - INFO - Processing subject DOSEESC_UM17 study 01/07/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\01_unprocessed)
+2025-02-13 14:43:58,178 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:00,514 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:00,676 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:00,831 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:00,843 - INFO - Conversion completed for study 01/07/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM17
+2025-02-13 14:44:00,850 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM17 study 01/07/2019
+2025-02-13 14:44:00,851 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18
+2025-02-13 14:44:00,968 - INFO - Processing subject DOSEESC_UM18 study 01/23/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\01_unprocessed)
+2025-02-13 14:44:03,766 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:06,457 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:06,959 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:07,468 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:07,480 - INFO - Conversion completed for study 01/23/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18
+2025-02-13 14:44:07,487 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18 study 01/23/2019
+2025-02-13 14:44:07,492 - INFO - Processing subject DOSEESC_UM18 study 02/18/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\01_unprocessed)
+2025-02-13 14:44:09,879 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:12,304 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:12,796 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:13,298 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:13,310 - INFO - Conversion completed for study 02/18/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18
+2025-02-13 14:44:13,317 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM18 study 02/18/2019
+2025-02-13 14:44:13,318 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12
+2025-02-13 14:44:13,428 - INFO - Processing subject DOSEESC_EM12 study 01/25/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\01_unprocessed)
+2025-02-13 14:44:15,020 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:15,761 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:16,108 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:16,454 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:16,460 - INFO - Conversion completed for study 01/25/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12
+2025-02-13 14:44:16,465 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12 study 01/25/2019
+2025-02-13 14:44:16,470 - INFO - Processing subject DOSEESC_EM12 study 03/07/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\01_unprocessed)
+2025-02-13 14:44:17,800 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:17,802 - WARNING - FLAIR Warning: Series with label 'MRI_FLAIR' does not exist.. Problem with FLAIR.
+2025-02-13 14:44:18,140 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:18,473 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:18,477 - INFO - Conversion completed for study 03/07/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12
+2025-02-13 14:44:18,482 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12 study 03/07/2019
+2025-02-13 14:44:18,486 - INFO - Processing subject DOSEESC_EM12 study 02/12/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\01_unprocessed)
+2025-02-13 14:44:19,844 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:20,556 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:20,899 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:21,237 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:21,243 - INFO - Conversion completed for study 02/12/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12
+2025-02-13 14:44:21,248 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM12 study 02/12/2019
+2025-02-13 14:44:21,249 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13
+2025-02-13 14:44:21,308 - INFO - Processing subject DOSEESC_EM13 study 03/01/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\01_unprocessed)
+2025-02-13 14:44:22,904 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:23,573 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:23,843 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:24,109 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:24,116 - INFO - Conversion completed for study 03/01/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13
+2025-02-13 14:44:24,120 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13 study 03/01/2019
+2025-02-13 14:44:24,126 - INFO - Processing subject DOSEESC_EM13 study 03/20/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\01_unprocessed)
+2025-02-13 14:44:25,457 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:26,121 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:26,398 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:26,658 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:26,664 - INFO - Conversion completed for study 03/20/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13
+2025-02-13 14:44:26,669 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM13 study 03/20/2019
+2025-02-13 14:44:26,670 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20
+2025-02-13 14:44:26,780 - INFO - Processing subject DOSEESC_UM20 study 04/24/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\01_unprocessed)
+2025-02-13 14:44:29,468 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:31,992 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:32,463 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:32,937 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:32,949 - INFO - Conversion completed for study 04/24/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20
+2025-02-13 14:44:32,957 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20 study 04/24/2019
+2025-02-13 14:44:32,962 - INFO - Processing subject DOSEESC_UM20 study 05/20/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\01_unprocessed)
+2025-02-13 14:44:35,385 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:37,839 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:37,841 - ERROR - Error processing subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20 study 05/20/2019: 'NoneType' object has no attribute 'data'
+2025-02-13 14:44:37,861 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM20 study 05/20/2019
+2025-02-13 14:44:37,862 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM21
+2025-02-13 14:44:37,898 - INFO - Processing subject DOSEESC_UM21 study 05/01/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\01_unprocessed)
+2025-02-13 14:44:40,390 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:42,593 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:42,879 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:43,158 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:43,170 - INFO - Conversion completed for study 05/01/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM21
+2025-02-13 14:44:43,177 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_UM21 study 05/01/2019
+2025-02-13 14:44:43,178 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14
+2025-02-13 14:44:43,228 - INFO - Processing subject DOSEESC_EM14 study 05/22/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\01_unprocessed)
+2025-02-13 14:44:44,678 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:45,275 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:45,502 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:45,724 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:45,730 - INFO - Conversion completed for study 05/22/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14
+2025-02-13 14:44:45,735 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14 study 05/22/2019
+2025-02-13 14:44:45,740 - INFO - Processing subject DOSEESC_EM14 study 06/10/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\01_unprocessed)
+2025-02-13 14:44:46,940 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:47,525 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:47,756 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:47,976 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:47,982 - INFO - Conversion completed for study 06/10/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14
+2025-02-13 14:44:47,987 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM14 study 06/10/2019
+2025-02-13 14:44:47,988 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15
+2025-02-13 14:44:48,046 - INFO - Processing subject DOSEESC_EM15 study 06/11/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\01_unprocessed)
+2025-02-13 14:44:49,565 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:50,220 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:50,486 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:50,744 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:50,750 - INFO - Conversion completed for study 06/11/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15
+2025-02-13 14:44:50,755 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15 study 06/11/2019
+2025-02-13 14:44:50,760 - INFO - Processing subject DOSEESC_EM15 study 07/02/2019 (output: x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\01_unprocessed)
+2025-02-13 14:44:51,889 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:52,495 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:52,752 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:53,000 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:53,007 - INFO - Conversion completed for study 07/02/2019 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15
+2025-02-13 14:44:53,012 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\DOSEESC_EM15 study 07/02/2019
+2025-02-13 14:44:53,013 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_02_27_2023
+2025-02-13 14:44:53,032 - INFO - Processing subject rGBM_001_02_27_2023 study 02/27/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\01_unprocessed)
+2025-02-13 14:44:54,717 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:55,996 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:56,113 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:56,217 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:56,225 - INFO - Conversion completed for study 02/27/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_02_27_2023
+2025-02-13 14:44:56,230 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_02_27_2023 study 02/27/2023
+2025-02-13 14:44:56,231 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_04_21_2023
+2025-02-13 14:44:56,252 - INFO - Processing subject rGBM_001_04_21_2023 study 04/21/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\01_unprocessed)
+2025-02-13 14:44:57,750 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:44:59,018 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:44:59,173 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:44:59,310 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:44:59,318 - INFO - Conversion completed for study 04/21/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_04_21_2023
+2025-02-13 14:44:59,323 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_04_21_2023 study 04/21/2023
+2025-02-13 14:44:59,324 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_06_30_2023
+2025-02-13 14:44:59,347 - INFO - Processing subject rGBM_001_06_30_2023 study 06/30/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\01_unprocessed)
+2025-02-13 14:45:01,013 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:02,304 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:02,448 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:02,596 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:02,604 - INFO - Conversion completed for study 06/30/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_06_30_2023
+2025-02-13 14:45:02,610 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_06_30_2023 study 06/30/2023
+2025-02-13 14:45:02,611 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_08_30_2023
+2025-02-13 14:45:02,635 - INFO - Processing subject rGBM_001_08_30_2023 study 08/30/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\01_unprocessed)
+2025-02-13 14:45:04,299 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:05,524 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:05,673 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:05,814 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:05,822 - INFO - Conversion completed for study 08/30/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_08_30_2023
+2025-02-13 14:45:05,827 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_001_08_30_2023 study 08/30/2023
+2025-02-13 14:45:05,828 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_002_04_28_2023
+2025-02-13 14:45:05,854 - INFO - Processing subject rGBM_002_04_28_2023 study 04/28/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\01_unprocessed)
+2025-02-13 14:45:07,417 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:08,667 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:08,822 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:08,965 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:08,973 - INFO - Conversion completed for study 04/28/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_002_04_28_2023
+2025-02-13 14:45:08,979 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_002_04_28_2023 study 04/28/2023
+2025-02-13 14:45:08,979 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_003_04_24_2023
+2025-02-13 14:45:09,003 - INFO - Processing subject rGBM_003_04_24_2023 study 04/24/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\01_unprocessed)
+2025-02-13 14:45:10,705 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:11,952 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:12,187 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:12,321 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:12,329 - INFO - Conversion completed for study 04/24/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_003_04_24_2023
+2025-02-13 14:45:12,334 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_003_04_24_2023 study 04/24/2023
+2025-02-13 14:45:12,335 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_004_09_22_2023
+2025-02-13 14:45:12,357 - INFO - Processing subject rGBM_004_09_22_2023 study 09/22/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\01_unprocessed)
+2025-02-13 14:45:13,989 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:15,260 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:15,403 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:15,533 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:15,540 - INFO - Conversion completed for study 09/22/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_004_09_22_2023
+2025-02-13 14:45:15,546 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_004_09_22_2023 study 09/22/2023
+2025-02-13 14:45:15,547 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_005_08_18_2023
+2025-02-13 14:45:15,570 - INFO - Processing subject rGBM_005_08_18_2023 study 08/18/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\01_unprocessed)
+2025-02-13 14:45:17,245 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:18,543 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:18,699 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:18,838 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:18,846 - INFO - Conversion completed for study 08/18/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_005_08_18_2023
+2025-02-13 14:45:18,852 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_005_08_18_2023 study 08/18/2023
+2025-02-13 14:45:18,853 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_04_03_2023
+2025-02-13 14:45:18,875 - INFO - Processing subject rGBM_006_04_03_2023 study 04/03/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\01_unprocessed)
+2025-02-13 14:45:20,497 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:21,703 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:21,850 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:21,984 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:21,992 - INFO - Conversion completed for study 04/03/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_04_03_2023
+2025-02-13 14:45:21,998 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_04_03_2023 study 04/03/2023
+2025-02-13 14:45:21,999 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_05_24_2023
+2025-02-13 14:45:22,021 - INFO - Processing subject rGBM_006_05_24_2023 study 05/24/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\01_unprocessed)
+2025-02-13 14:45:23,583 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:24,836 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:24,983 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:25,123 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:25,131 - INFO - Conversion completed for study 05/24/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_05_24_2023
+2025-02-13 14:45:25,137 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_05_24_2023 study 05/24/2023
+2025-02-13 14:45:25,138 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_08_01_2023
+2025-02-13 14:45:25,159 - INFO - Processing subject rGBM_006_08_01_2023 study 08/01/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\01_unprocessed)
+2025-02-13 14:45:26,735 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:27,970 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:28,121 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:28,252 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:28,259 - INFO - Conversion completed for study 08/01/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_08_01_2023
+2025-02-13 14:45:28,265 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_006_08_01_2023 study 08/01/2023
+2025-02-13 14:45:28,266 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_007_05_30_2023
+2025-02-13 14:45:28,287 - INFO - Processing subject rGBM_007_05_30_2023 study 05/30/2023 (output: x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\01_unprocessed)
+2025-02-13 14:45:30,002 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:31,328 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:31,475 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:31,610 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:31,617 - INFO - Conversion completed for study 05/30/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_007_05_30_2023
+2025-02-13 14:45:31,623 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\rGBM_007_05_30_2023 study 05/30/2023
+2025-02-13 14:45:31,624 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_05_26_2023
+2025-02-13 14:45:31,645 - INFO - Processing subject wholeGBM_001_05_26_2023 study 05/26/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\01_unprocessed)
+2025-02-13 14:45:33,258 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:34,559 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:34,717 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:34,853 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:34,860 - INFO - Conversion completed for study 05/26/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_05_26_2023
+2025-02-13 14:45:34,866 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_05_26_2023 study 05/26/2023
+2025-02-13 14:45:34,867 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_07_26_2023
+2025-02-13 14:45:34,891 - INFO - Processing subject wholeGBM_001_07_26_2023 study 07/26/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\01_unprocessed)
+2025-02-13 14:45:36,523 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:37,883 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:38,026 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:38,155 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:38,164 - INFO - Conversion completed for study 07/26/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_07_26_2023
+2025-02-13 14:45:38,169 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_001_07_26_2023 study 07/26/2023
+2025-02-13 14:45:38,170 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_03_10_2023
+2025-02-13 14:45:38,190 - INFO - Processing subject wholeGBM_002_03_10_2023 study 03/10/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\01_unprocessed)
+2025-02-13 14:45:39,840 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:41,098 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:41,220 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:41,329 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:41,337 - INFO - Conversion completed for study 03/10/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_03_10_2023
+2025-02-13 14:45:41,343 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_03_10_2023 study 03/10/2023
+2025-02-13 14:45:41,343 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_04_13_2023
+2025-02-13 14:45:41,367 - INFO - Processing subject wholeGBM_002_04_13_2023 study 04/13/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\01_unprocessed)
+2025-02-13 14:45:43,062 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:44,416 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:44,569 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:44,708 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:44,716 - INFO - Conversion completed for study 04/13/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_04_13_2023
+2025-02-13 14:45:44,722 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_002_04_13_2023 study 04/13/2023
+2025-02-13 14:45:44,723 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_003_06_14_2023
+2025-02-13 14:45:44,746 - INFO - Processing subject wholeGBM_003_06_14_2023 study 06/14/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\01_unprocessed)
+2025-02-13 14:45:46,471 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:47,807 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:47,957 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:48,095 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:48,104 - INFO - Conversion completed for study 06/14/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_003_06_14_2023
+2025-02-13 14:45:48,109 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_003_06_14_2023 study 06/14/2023
+2025-02-13 14:45:48,110 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_03_10_2023
+2025-02-13 14:45:48,132 - INFO - Processing subject wholeGBM_004_03_10_2023 study 03/10/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\01_unprocessed)
+2025-02-13 14:45:49,816 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:51,082 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:51,227 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:51,357 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:51,365 - INFO - Conversion completed for study 03/10/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_03_10_2023
+2025-02-13 14:45:51,371 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_03_10_2023 study 03/10/2023
+2025-02-13 14:45:51,372 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_04_19_2023
+2025-02-13 14:45:51,393 - INFO - Processing subject wholeGBM_004_04_19_2023 study 04/19/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\01_unprocessed)
+2025-02-13 14:45:52,992 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:54,306 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:54,452 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:54,584 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:54,592 - INFO - Conversion completed for study 04/19/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_04_19_2023
+2025-02-13 14:45:54,598 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_04_19_2023 study 04/19/2023
+2025-02-13 14:45:54,599 - INFO - Processing subject: x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_07_03_2023
+2025-02-13 14:45:54,620 - INFO - Processing subject wholeGBM_004_07_03_2023 study 07/03/2023 (output: x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\01_unprocessed)
+2025-02-13 14:45:56,184 - INFO - Saved T1 at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\01_unprocessed\unprocessed_t1.nii.gz
+2025-02-13 14:45:57,453 - INFO - Saved FLAIR at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\01_unprocessed\unprocessed_flair.nii.gz
+2025-02-13 14:45:57,599 - INFO - Saved SIREF at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\01_unprocessed\unprocessed_siref.nii.gz
+2025-02-13 14:45:57,736 - INFO - Saved Brain Mask at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\01_unprocessed\unprocessed_brainmask.nii.gz
+2025-02-13 14:45:57,744 - INFO - Conversion completed for study 07/03/2023 in subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_07_03_2023
+2025-02-13 14:45:57,750 - INFO - Completed conversion for subject x:\ArtifactRemovalProject\data\raw\MIDAS_ArtifactRemoval\wholeGBM_004_07_03_2023 study 07/03/2023
+2025-02-13 14:46:04,706 - INFO - Checking missing files for 59 subjects.
+2025-02-13 14:46:04,708 - INFO - Processing subject: DOSEESC_EM01
+2025-02-13 14:46:04,795 - WARNING - File unprocessed_flair.nii.gz is missing in study 10/16/2017 for subject DOSEESC_EM01.
+2025-02-13 14:46:04,858 - INFO - Copied unprocessed_flair.nii.gz from study 09/20/2017 to study 10/16/2017 for subject DOSEESC_EM01.
+2025-02-13 14:46:04,863 - INFO - Missing files checked for subject DOSEESC_EM01 study 09/20/2017
+2025-02-13 14:46:04,918 - INFO - Missing files checked for subject DOSEESC_EM01 study 10/16/2017
+2025-02-13 14:46:04,919 - INFO - Processing subject: DOSEESC_EM02
+2025-02-13 14:46:05,011 - INFO - Missing files checked for subject DOSEESC_EM02 study 10/19/2017
+2025-02-13 14:46:05,065 - INFO - Missing files checked for subject DOSEESC_EM02 study 11/14/2017
+2025-02-13 14:46:05,066 - INFO - Processing subject: DOSEESC_EM03
+2025-02-13 14:46:05,090 - INFO - Missing files checked for subject DOSEESC_EM03 study 12/12/2017
+2025-02-13 14:46:05,091 - INFO - Processing subject: DOSEESC_EM04
+2025-02-13 14:46:05,180 - WARNING - File unprocessed_flair.nii.gz is missing in study 02/07/2018 for subject DOSEESC_EM04.
+2025-02-13 14:46:05,248 - INFO - Copied unprocessed_flair.nii.gz from study 01/10/2018 to study 02/07/2018 for subject DOSEESC_EM04.
+2025-02-13 14:46:05,252 - INFO - Missing files checked for subject DOSEESC_EM04 study 01/10/2018
+2025-02-13 14:46:05,304 - INFO - Missing files checked for subject DOSEESC_EM04 study 02/07/2018
+2025-02-13 14:46:05,305 - INFO - Processing subject: DOSEESC_UM02
+2025-02-13 14:46:05,337 - INFO - Missing files checked for subject DOSEESC_UM02 study 01/22/2018
+2025-02-13 14:46:05,338 - INFO - Processing subject: DOSEESC_EM05
+2025-02-13 14:46:05,429 - INFO - Missing files checked for subject DOSEESC_EM05 study 01/31/2018
+2025-02-13 14:46:05,483 - INFO - Missing files checked for subject DOSEESC_EM05 study 02/23/2018
+2025-02-13 14:46:05,484 - INFO - Processing subject: DOSEESC_UM03
+2025-02-13 14:46:05,608 - INFO - Missing files checked for subject DOSEESC_UM03 study 02/05/2018
+2025-02-13 14:46:05,675 - INFO - Missing files checked for subject DOSEESC_UM03 study 02/28/2018
+2025-02-13 14:46:05,676 - INFO - Processing subject: DOSEESC_EM06
+2025-02-13 14:46:05,747 - WARNING - File unprocessed_flair.nii.gz is missing in study 03/19/2018 for subject DOSEESC_EM06.
+2025-02-13 14:46:05,810 - INFO - Copied unprocessed_flair.nii.gz from study 04/13/2018 to study 03/19/2018 for subject DOSEESC_EM06.
+2025-02-13 14:46:05,819 - INFO - Missing files checked for subject DOSEESC_EM06 study 03/19/2018
+2025-02-13 14:46:05,864 - INFO - Missing files checked for subject DOSEESC_EM06 study 04/13/2018
+2025-02-13 14:46:05,866 - INFO - Processing subject: DOSEESC_UM04
+2025-02-13 14:46:05,980 - INFO - Missing files checked for subject DOSEESC_UM04 study 03/28/2018
+2025-02-13 14:46:06,048 - INFO - Missing files checked for subject DOSEESC_UM04 study 04/18/2018
+2025-02-13 14:46:06,049 - INFO - Processing subject: DOSEESC_UM05
+2025-02-13 14:46:06,172 - INFO - Missing files checked for subject DOSEESC_UM05 study 05/02/2018
+2025-02-13 14:46:06,241 - INFO - Missing files checked for subject DOSEESC_UM05 study 05/30/2018
+2025-02-13 14:46:06,242 - INFO - Processing subject: DOSEESC_JH01
+2025-02-13 14:46:06,277 - INFO - Missing files checked for subject DOSEESC_JH01 study 05/18/2018
+2025-02-13 14:46:06,278 - INFO - Processing subject: DOSEESC_JH02
+2025-02-13 14:46:06,368 - INFO - Missing files checked for subject DOSEESC_JH02 study 05/22/2018
+2025-02-13 14:46:06,423 - INFO - Missing files checked for subject DOSEESC_JH02 study 06/18/2018
+2025-02-13 14:46:06,424 - INFO - Processing subject: DOSEESC_JH03
+2025-02-13 14:46:06,530 - INFO - Missing files checked for subject DOSEESC_JH03 study 07/06/2018
+2025-02-13 14:46:06,591 - INFO - Missing files checked for subject DOSEESC_JH03 study 08/03/2018
+2025-02-13 14:46:06,592 - INFO - Processing subject: DOSEESC_JH04
+2025-02-13 14:46:06,623 - INFO - Missing files checked for subject DOSEESC_JH04 study 07/06/2018
+2025-02-13 14:46:06,624 - INFO - Processing subject: DOSEESC_UM06
+2025-02-13 14:46:06,706 - INFO - Missing files checked for subject DOSEESC_UM06 study 05/23/2018
+2025-02-13 14:46:06,754 - INFO - Missing files checked for subject DOSEESC_UM06 study 06/18/2018
+2025-02-13 14:46:06,755 - INFO - Processing subject: DOSEESC_UM07
+2025-02-13 14:46:06,869 - INFO - Missing files checked for subject DOSEESC_UM07 study 06/11/2018
+2025-02-13 14:46:06,929 - INFO - Missing files checked for subject DOSEESC_UM07 study 07/09/2018
+2025-02-13 14:46:06,930 - INFO - Processing subject: DOSEESC_UM08
+2025-02-13 14:46:07,043 - INFO - Missing files checked for subject DOSEESC_UM08 study 06/13/2018
+2025-02-13 14:46:07,112 - INFO - Missing files checked for subject DOSEESC_UM08 study 07/11/2018
+2025-02-13 14:46:07,113 - INFO - Processing subject: DOSEESC_EM07
+2025-02-13 14:46:07,307 - INFO - Missing files checked for subject DOSEESC_EM07 study 06/20/2018
+2025-02-13 14:46:07,411 - INFO - Missing files checked for subject DOSEESC_EM07 study 07/16/2018
+2025-02-13 14:46:07,516 - INFO - Missing files checked for subject DOSEESC_EM07 study 06/26/2018
+2025-02-13 14:46:07,517 - INFO - Processing subject: DOSEESC_UM09
+2025-02-13 14:46:07,620 - INFO - Missing files checked for subject DOSEESC_UM09 study 06/20/2018
+2025-02-13 14:46:07,678 - INFO - Missing files checked for subject DOSEESC_UM09 study 07/16/2018
+2025-02-13 14:46:07,679 - INFO - Processing subject: DOSEESC_UM09_70
+2025-02-13 14:46:07,721 - INFO - Missing files checked for subject DOSEESC_UM09_70 study 06/20/2018
+2025-02-13 14:46:07,722 - INFO - Processing subject: DOSEESC_UM10
+2025-02-13 14:46:08,004 - INFO - Missing files checked for subject DOSEESC_UM10 study 07/11/2018
+2025-02-13 14:46:08,149 - INFO - Missing files checked for subject DOSEESC_UM10 study 08/20/2018
+2025-02-13 14:46:08,151 - INFO - Processing subject: DOSEESC_UM13
+2025-02-13 14:46:08,292 - INFO - Missing files checked for subject DOSEESC_UM13 study 08/22/2018
+2025-02-13 14:46:08,371 - INFO - Missing files checked for subject DOSEESC_UM13 study 09/17/2018
+2025-02-13 14:46:08,372 - INFO - Processing subject: DOSEESC_JH07
+2025-02-13 14:46:08,492 - INFO - Missing files checked for subject DOSEESC_JH07 study 08/27/2018
+2025-02-13 14:46:08,559 - INFO - Missing files checked for subject DOSEESC_JH07 study 09/20/2018
+2025-02-13 14:46:08,560 - INFO - Processing subject: DOSEESC_UM14
+2025-02-13 14:46:08,695 - INFO - Missing files checked for subject DOSEESC_UM14 study 10/01/2018
+2025-02-13 14:46:08,770 - INFO - Missing files checked for subject DOSEESC_UM14 study 10/22/2018
+2025-02-13 14:46:08,771 - INFO - Processing subject: DOSEESC_UM15
+2025-02-13 14:46:08,912 - INFO - Missing files checked for subject DOSEESC_UM15 study 10/31/2018
+2025-02-13 14:46:08,990 - INFO - Missing files checked for subject DOSEESC_UM15 study 11/28/2018
+2025-02-13 14:46:08,991 - INFO - Processing subject: DOSEESC_EM08
+2025-02-13 14:46:09,029 - INFO - Missing files checked for subject DOSEESC_EM08 study 11/02/2018
+2025-02-13 14:46:09,030 - INFO - Processing subject: DOSEESC_UM16
+2025-02-13 14:46:09,177 - INFO - Missing files checked for subject DOSEESC_UM16 study 11/14/2018
+2025-02-13 14:46:09,259 - INFO - Missing files checked for subject DOSEESC_UM16 study 12/05/2018
+2025-02-13 14:46:09,260 - INFO - Processing subject: DOSEESC_EM09
+2025-02-13 14:46:09,377 - INFO - Missing files checked for subject DOSEESC_EM09 study 11/20/2018
+2025-02-13 14:46:09,443 - INFO - Missing files checked for subject DOSEESC_EM09 study 12/17/2018
+2025-02-13 14:46:09,444 - INFO - Processing subject: DOSEESC_JH10
+2025-02-13 14:46:09,562 - INFO - Missing files checked for subject DOSEESC_JH10 study 12/05/2018
+2025-02-13 14:46:09,629 - INFO - Missing files checked for subject DOSEESC_JH10 study 12/28/2018
+2025-02-13 14:46:09,630 - INFO - Processing subject: DOSEESC_EM10
+2025-02-13 14:46:09,732 - INFO - Missing files checked for subject DOSEESC_EM10 study 12/20/2018
+2025-02-13 14:46:09,792 - INFO - Missing files checked for subject DOSEESC_EM10 study 01/16/2019
+2025-02-13 14:46:09,793 - INFO - Processing subject: DOSEESC_EM11
+2025-02-13 14:46:09,871 - WARNING - File unprocessed_flair.nii.gz is missing in study 01/24/2019 for subject DOSEESC_EM11.
+2025-02-13 14:46:09,933 - INFO - Copied unprocessed_flair.nii.gz from study 01/03/2019 to study 01/24/2019 for subject DOSEESC_EM11.
+2025-02-13 14:46:09,938 - INFO - Missing files checked for subject DOSEESC_EM11 study 01/03/2019
+2025-02-13 14:46:09,986 - INFO - Missing files checked for subject DOSEESC_EM11 study 01/24/2019
+2025-02-13 14:46:09,987 - INFO - Processing subject: DOSEESC_UM17
+2025-02-13 14:46:10,029 - INFO - Missing files checked for subject DOSEESC_UM17 study 01/07/2019
+2025-02-13 14:46:10,030 - INFO - Processing subject: DOSEESC_UM18
+2025-02-13 14:46:10,264 - INFO - Missing files checked for subject DOSEESC_UM18 study 01/23/2019
+2025-02-13 14:46:10,385 - INFO - Missing files checked for subject DOSEESC_UM18 study 02/18/2019
+2025-02-13 14:46:10,386 - INFO - Processing subject: DOSEESC_EM12
+2025-02-13 14:46:10,605 - WARNING - File unprocessed_flair.nii.gz is missing in study 03/07/2019 for subject DOSEESC_EM12.
+2025-02-13 14:46:10,680 - INFO - Copied unprocessed_flair.nii.gz from study 01/25/2019 to study 03/07/2019 for subject DOSEESC_EM12.
+2025-02-13 14:46:10,688 - INFO - Missing files checked for subject DOSEESC_EM12 study 01/25/2019
+2025-02-13 14:46:10,810 - INFO - Missing files checked for subject DOSEESC_EM12 study 03/07/2019
+2025-02-13 14:46:10,944 - INFO - Missing files checked for subject DOSEESC_EM12 study 02/12/2019
+2025-02-13 14:46:10,945 - INFO - Processing subject: DOSEESC_EM13
+2025-02-13 14:46:11,066 - INFO - Missing files checked for subject DOSEESC_EM13 study 03/01/2019
+2025-02-13 14:46:11,131 - INFO - Missing files checked for subject DOSEESC_EM13 study 03/20/2019
+2025-02-13 14:46:11,132 - INFO - Processing subject: DOSEESC_UM20
+2025-02-13 14:46:11,347 - WARNING - File unprocessed_siref.nii.gz is missing in study 05/20/2019 for subject DOSEESC_UM20.
+2025-02-13 14:46:11,378 - INFO - Copied unprocessed_siref.nii.gz from study 04/24/2019 to study 05/20/2019 for subject DOSEESC_UM20.
+2025-02-13 14:46:11,381 - WARNING - File unprocessed_brainmask.nii.gz is missing in study 05/20/2019 for subject DOSEESC_UM20.
+2025-02-13 14:46:11,395 - INFO - Copied unprocessed_brainmask.nii.gz from study 04/24/2019 to study 05/20/2019 for subject DOSEESC_UM20.
+2025-02-13 14:46:11,399 - INFO - Missing files checked for subject DOSEESC_UM20 study 04/24/2019
+2025-02-13 14:46:11,516 - INFO - Missing files checked for subject DOSEESC_UM20 study 05/20/2019
+2025-02-13 14:46:11,517 - INFO - Processing subject: DOSEESC_UM21
+2025-02-13 14:46:11,585 - INFO - Missing files checked for subject DOSEESC_UM21 study 05/01/2019
+2025-02-13 14:46:11,586 - INFO - Processing subject: DOSEESC_EM14
+2025-02-13 14:46:11,687 - INFO - Missing files checked for subject DOSEESC_EM14 study 05/22/2019
+2025-02-13 14:46:11,742 - INFO - Missing files checked for subject DOSEESC_EM14 study 06/10/2019
+2025-02-13 14:46:11,743 - INFO - Processing subject: DOSEESC_EM15
+2025-02-13 14:46:11,860 - INFO - Missing files checked for subject DOSEESC_EM15 study 06/11/2019
+2025-02-13 14:46:11,926 - INFO - Missing files checked for subject DOSEESC_EM15 study 07/02/2019
+2025-02-13 14:46:11,927 - INFO - Processing subject: rGBM_001_02_27_2023
+2025-02-13 14:46:11,958 - INFO - Missing files checked for subject rGBM_001_02_27_2023 study 02/27/2023
+2025-02-13 14:46:11,959 - INFO - Processing subject: rGBM_001_04_21_2023
+2025-02-13 14:46:11,997 - INFO - Missing files checked for subject rGBM_001_04_21_2023 study 04/21/2023
+2025-02-13 14:46:11,998 - INFO - Processing subject: rGBM_001_06_30_2023
+2025-02-13 14:46:12,038 - INFO - Missing files checked for subject rGBM_001_06_30_2023 study 06/30/2023
+2025-02-13 14:46:12,039 - INFO - Processing subject: rGBM_001_08_30_2023
+2025-02-13 14:46:12,080 - INFO - Missing files checked for subject rGBM_001_08_30_2023 study 08/30/2023
+2025-02-13 14:46:12,081 - INFO - Processing subject: rGBM_002_04_28_2023
+2025-02-13 14:46:12,122 - INFO - Missing files checked for subject rGBM_002_04_28_2023 study 04/28/2023
+2025-02-13 14:46:12,123 - INFO - Processing subject: rGBM_003_04_24_2023
+2025-02-13 14:46:12,163 - INFO - Missing files checked for subject rGBM_003_04_24_2023 study 04/24/2023
+2025-02-13 14:46:12,164 - INFO - Processing subject: rGBM_004_09_22_2023
+2025-02-13 14:46:12,200 - INFO - Missing files checked for subject rGBM_004_09_22_2023 study 09/22/2023
+2025-02-13 14:46:12,201 - INFO - Processing subject: rGBM_005_08_18_2023
+2025-02-13 14:46:12,243 - INFO - Missing files checked for subject rGBM_005_08_18_2023 study 08/18/2023
+2025-02-13 14:46:12,244 - INFO - Processing subject: rGBM_006_04_03_2023
+2025-02-13 14:46:12,284 - INFO - Missing files checked for subject rGBM_006_04_03_2023 study 04/03/2023
+2025-02-13 14:46:12,285 - INFO - Processing subject: rGBM_006_05_24_2023
+2025-02-13 14:46:12,325 - INFO - Missing files checked for subject rGBM_006_05_24_2023 study 05/24/2023
+2025-02-13 14:46:12,326 - INFO - Processing subject: rGBM_006_08_01_2023
+2025-02-13 14:46:12,365 - INFO - Missing files checked for subject rGBM_006_08_01_2023 study 08/01/2023
+2025-02-13 14:46:12,366 - INFO - Processing subject: rGBM_007_05_30_2023
+2025-02-13 14:46:12,403 - INFO - Missing files checked for subject rGBM_007_05_30_2023 study 05/30/2023
+2025-02-13 14:46:12,404 - INFO - Processing subject: wholeGBM_001_05_26_2023
+2025-02-13 14:46:12,442 - INFO - Missing files checked for subject wholeGBM_001_05_26_2023 study 05/26/2023
+2025-02-13 14:46:12,443 - INFO - Processing subject: wholeGBM_001_07_26_2023
+2025-02-13 14:46:12,482 - INFO - Missing files checked for subject wholeGBM_001_07_26_2023 study 07/26/2023
+2025-02-13 14:46:12,484 - INFO - Processing subject: wholeGBM_002_03_10_2023
+2025-02-13 14:46:12,517 - INFO - Missing files checked for subject wholeGBM_002_03_10_2023 study 03/10/2023
+2025-02-13 14:46:12,518 - INFO - Processing subject: wholeGBM_002_04_13_2023
+2025-02-13 14:46:12,559 - INFO - Missing files checked for subject wholeGBM_002_04_13_2023 study 04/13/2023
+2025-02-13 14:46:12,560 - INFO - Processing subject: wholeGBM_003_06_14_2023
+2025-02-13 14:46:12,599 - INFO - Missing files checked for subject wholeGBM_003_06_14_2023 study 06/14/2023
+2025-02-13 14:46:12,600 - INFO - Processing subject: wholeGBM_004_03_10_2023
+2025-02-13 14:46:12,636 - INFO - Missing files checked for subject wholeGBM_004_03_10_2023 study 03/10/2023
+2025-02-13 14:46:12,637 - INFO - Processing subject: wholeGBM_004_04_19_2023
+2025-02-13 14:46:12,675 - INFO - Missing files checked for subject wholeGBM_004_04_19_2023 study 04/19/2023
+2025-02-13 14:46:12,677 - INFO - Processing subject: wholeGBM_004_07_03_2023
+2025-02-13 14:46:12,723 - INFO - Missing files checked for subject wholeGBM_004_07_03_2023 study 07/03/2023

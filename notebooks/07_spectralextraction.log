@@ -1,0 +1,1216 @@
+2025-02-26 14:06:27,640 - INFO - Found 59 subjects for spectral extraction.
+2025-02-26 14:06:27,641 - INFO - Processing spectral extraction for subject: DOSEESC_EM01
+2025-02-26 14:06:27,693 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM01, study 09/20/2017.
+2025-02-26 14:06:27,733 - INFO - Created 4266 unique IDs for subject DOSEESC_EM01, study 09/20/2017
+2025-02-26 14:06:47,207 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:06:48,203 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:06:48,230 - INFO - Spectral extraction complete for subject DOSEESC_EM01, study 09/20/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:06:48,375 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM01, study 10/16/2017.
+2025-02-26 14:06:48,450 - INFO - Created 3575 unique IDs for subject DOSEESC_EM01, study 10/16/2017
+2025-02-26 14:07:06,704 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:07:06,951 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:07:06,978 - INFO - Spectral extraction complete for subject DOSEESC_EM01, study 10/16/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:07:07,120 - INFO - Processing spectral extraction for subject: DOSEESC_EM02
+2025-02-26 14:07:07,173 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM02, study 10/19/2017.
+2025-02-26 14:07:07,209 - INFO - Created 1011 unique IDs for subject DOSEESC_EM02, study 10/19/2017
+2025-02-26 14:07:28,238 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:07:28,624 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:07:28,649 - INFO - Spectral extraction complete for subject DOSEESC_EM02, study 10/19/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:07:28,773 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM02, study 11/14/2017.
+2025-02-26 14:07:28,814 - INFO - Created 3163 unique IDs for subject DOSEESC_EM02, study 11/14/2017
+2025-02-26 14:07:50,131 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:07:51,044 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:07:51,069 - INFO - Spectral extraction complete for subject DOSEESC_EM02, study 11/14/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:07:51,197 - INFO - Processing spectral extraction for subject: DOSEESC_EM03
+2025-02-26 14:07:51,218 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM03, study 12/12/2017.
+2025-02-26 14:07:51,255 - INFO - Created 2312 unique IDs for subject DOSEESC_EM03, study 12/12/2017
+2025-02-26 14:08:12,497 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:08:12,711 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:08:12,737 - INFO - Spectral extraction complete for subject DOSEESC_EM03, study 12/12/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:08:12,866 - INFO - Processing spectral extraction for subject: DOSEESC_EM04
+2025-02-26 14:08:12,917 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM04, study 01/10/2018.
+2025-02-26 14:08:12,957 - INFO - Created 1861 unique IDs for subject DOSEESC_EM04, study 01/10/2018
+2025-02-26 14:08:33,714 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:08:33,883 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:08:33,909 - INFO - Spectral extraction complete for subject DOSEESC_EM04, study 01/10/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:08:34,050 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM04, study 02/07/2018.
+2025-02-26 14:08:34,084 - INFO - Created 1785 unique IDs for subject DOSEESC_EM04, study 02/07/2018
+2025-02-26 14:08:55,012 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:08:55,167 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:08:55,187 - INFO - Spectral extraction complete for subject DOSEESC_EM04, study 02/07/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:08:55,299 - INFO - Processing spectral extraction for subject: DOSEESC_UM02
+2025-02-26 14:08:55,321 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM02, study 01/22/2018.
+2025-02-26 14:08:55,347 - INFO - Created 202 unique IDs for subject DOSEESC_UM02, study 01/22/2018
+2025-02-26 14:09:16,203 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:09:16,214 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:09:16,233 - INFO - Spectral extraction complete for subject DOSEESC_UM02, study 01/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:09:16,324 - INFO - Processing spectral extraction for subject: DOSEESC_EM05
+2025-02-26 14:09:16,375 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM05, study 01/31/2018.
+2025-02-26 14:09:16,408 - INFO - Created 1133 unique IDs for subject DOSEESC_EM05, study 01/31/2018
+2025-02-26 14:09:38,180 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:09:38,273 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:09:38,300 - INFO - Spectral extraction complete for subject DOSEESC_EM05, study 01/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:09:38,419 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM05, study 02/23/2018.
+2025-02-26 14:09:38,454 - INFO - Created 1572 unique IDs for subject DOSEESC_EM05, study 02/23/2018
+2025-02-26 14:09:59,421 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:09:59,540 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:09:59,566 - INFO - Spectral extraction complete for subject DOSEESC_EM05, study 02/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:09:59,681 - INFO - Processing spectral extraction for subject: DOSEESC_UM03
+2025-02-26 14:09:59,746 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM03, study 02/05/2018.
+2025-02-26 14:09:59,779 - INFO - Created 1217 unique IDs for subject DOSEESC_UM03, study 02/05/2018
+2025-02-26 14:09:59,818 - ERROR - Error loading NNFitDataset: list index out of range. Falling back to defaults.
+2025-02-26 14:10:05,618 - ERROR - Error loading MIDAS fit: [Errno 2] No such file or directory: 'x:\\ArtifactRemovalProject\\data\\raw\\MIDAS_ArtifactRemoval\\DOSEESC_UM03\\mrsi\\SI_02_05_2018_s0_e50_v1_fitbl.bin'. Using zeros for MIDAS fit.
+2025-02-26 14:10:05,622 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,624 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,625 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,626 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,627 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,627 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,628 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,629 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,630 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_12_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,632 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,633 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,634 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,634 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,635 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,636 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,637 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,638 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,639 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,640 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,641 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_34_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,642 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,643 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,644 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,645 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,646 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,647 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_13_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,648 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,649 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,650 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,651 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,652 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,653 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,654 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,655 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_32_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,656 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,656 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,657 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_33_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,658 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,659 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,660 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_34_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,661 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,662 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,662 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_35_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,664 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,664 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,665 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,666 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_14_38_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,668 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_28_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,669 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,670 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,671 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,672 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,673 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,673 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,674 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,675 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_32_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,676 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,677 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,677 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_33_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,678 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,679 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,680 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_34_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,681 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,682 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,683 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,684 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,684 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,686 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,687 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_38_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,687 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_15_38_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,689 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,690 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,691 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,692 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,692 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,693 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,694 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,695 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,696 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,697 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,697 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,698 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,699 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,700 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,701 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,702 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_38_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,703 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_38_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,704 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_16_38_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,705 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,706 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,707 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,708 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,709 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,710 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,711 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,712 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,713 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,714 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,715 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_17_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,716 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,717 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,718 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,719 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,720 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,721 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,722 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,723 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_18_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,724 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_19_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,725 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_19_32_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,726 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_19_32_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,728 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_19_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:05,729 - ERROR - Error processing unique ID DOSEESC_UM03_02.05.2018_19_33_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:06,141 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:10:06,144 - INFO - Spectral extraction complete for subject DOSEESC_UM03, study 02/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:10:06,186 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM03, study 02/28/2018.
+2025-02-26 14:10:06,217 - INFO - Created 1259 unique IDs for subject DOSEESC_UM03, study 02/28/2018
+2025-02-26 14:10:06,251 - ERROR - Error loading NNFitDataset: list index out of range. Falling back to defaults.
+2025-02-26 14:10:12,066 - ERROR - Error loading MIDAS fit: [Errno 2] No such file or directory: 'x:\\ArtifactRemovalProject\\data\\raw\\MIDAS_ArtifactRemoval\\DOSEESC_UM03\\mrsi\\SI_02_28_2018_s1_e50_v1_fitbl.bin'. Using zeros for MIDAS fit.
+2025-02-26 14:10:12,070 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_12_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,072 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_12_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,073 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_12_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,074 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,075 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,076 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,077 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,078 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,079 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,080 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,081 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,082 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,083 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,084 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,085 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,086 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,087 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_13_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,089 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,090 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,091 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,092 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,092 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,094 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,095 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,096 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,097 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,098 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,098 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,099 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_34_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,100 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,101 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,102 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,103 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,104 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_14_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,106 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_28_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,107 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,108 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,109 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,110 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,111 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,112 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,112 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,113 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,114 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,115 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,116 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,117 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,117 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,118 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,119 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,120 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_15_38_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,122 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_29_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,123 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,124 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,125 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,126 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,126 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,127 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,128 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,129 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,130 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,131 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,132 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_38_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,133 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_16_38_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,134 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,135 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,136 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,137 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,138 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,139 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,139 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,140 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_36_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,141 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_36_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,142 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_37_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,143 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_17_37_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,144 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,145 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,146 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,147 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,148 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,149 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_35_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,149 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_18_35_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,150 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_30_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,151 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,152 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_31_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,153 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_31_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,154 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,154 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_32_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,155 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_32_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,156 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_32_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,157 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_32_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,158 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,159 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_33_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,160 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_33_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,161 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_33_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,161 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_34_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,162 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_34_33: index 33 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,163 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_19_34_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,164 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_20_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,164 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_20_32_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,165 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_20_33_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,166 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_21_30_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,166 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_21_31_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,167 - ERROR - Error processing unique ID DOSEESC_UM03_02.28.2018_21_32_32: index 32 is out of bounds for axis 2 with size 32
+2025-02-26 14:10:12,889 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:10:12,891 - INFO - Spectral extraction complete for subject DOSEESC_UM03, study 02/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:10:12,934 - INFO - Processing spectral extraction for subject: DOSEESC_EM06
+2025-02-26 14:10:12,976 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM06, study 03/19/2018.
+2025-02-26 14:10:13,011 - INFO - Created 2001 unique IDs for subject DOSEESC_EM06, study 03/19/2018
+2025-02-26 14:10:34,602 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:10:34,742 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:10:34,768 - INFO - Spectral extraction complete for subject DOSEESC_EM06, study 03/19/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:10:34,893 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM06, study 04/13/2018.
+2025-02-26 14:10:34,929 - INFO - Created 2473 unique IDs for subject DOSEESC_EM06, study 04/13/2018
+2025-02-26 14:10:56,076 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:10:56,254 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:10:56,280 - INFO - Spectral extraction complete for subject DOSEESC_EM06, study 04/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:10:56,396 - INFO - Processing spectral extraction for subject: DOSEESC_UM04
+2025-02-26 14:10:56,471 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM04, study 03/28/2018.
+2025-02-26 14:10:56,493 - INFO - Created 435 unique IDs for subject DOSEESC_UM04, study 03/28/2018
+2025-02-26 14:11:18,773 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:11:18,821 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:11:18,840 - INFO - Spectral extraction complete for subject DOSEESC_UM04, study 03/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:11:18,944 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM04, study 04/18/2018.
+2025-02-26 14:11:18,967 - INFO - Created 374 unique IDs for subject DOSEESC_UM04, study 04/18/2018
+2025-02-26 14:11:41,025 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:11:41,067 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:11:41,094 - INFO - Spectral extraction complete for subject DOSEESC_UM04, study 04/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:11:41,207 - INFO - Processing spectral extraction for subject: DOSEESC_UM05
+2025-02-26 14:11:41,273 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM05, study 05/02/2018.
+2025-02-26 14:11:41,297 - INFO - Created 733 unique IDs for subject DOSEESC_UM05, study 05/02/2018
+2025-02-26 14:12:03,606 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:12:03,655 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:12:03,679 - INFO - Spectral extraction complete for subject DOSEESC_UM05, study 05/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:12:03,808 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM05, study 05/30/2018.
+2025-02-26 14:12:03,844 - INFO - Created 1559 unique IDs for subject DOSEESC_UM05, study 05/30/2018
+2025-02-26 14:12:26,498 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:12:26,929 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:12:26,955 - INFO - Spectral extraction complete for subject DOSEESC_UM05, study 05/30/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:12:27,067 - INFO - Processing spectral extraction for subject: DOSEESC_JH01
+2025-02-26 14:12:27,093 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH01, study 05/18/2018.
+2025-02-26 14:12:27,126 - INFO - Created 1125 unique IDs for subject DOSEESC_JH01, study 05/18/2018
+2025-02-26 14:12:48,444 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:12:48,530 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:12:48,556 - INFO - Spectral extraction complete for subject DOSEESC_JH01, study 05/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:12:48,677 - INFO - Processing spectral extraction for subject: DOSEESC_JH02
+2025-02-26 14:12:48,742 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH02, study 05/22/2018.
+2025-02-26 14:12:48,765 - INFO - Created 349 unique IDs for subject DOSEESC_JH02, study 05/22/2018
+2025-02-26 14:13:10,501 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:13:10,532 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:13:10,559 - INFO - Spectral extraction complete for subject DOSEESC_JH02, study 05/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:13:10,686 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH02, study 06/18/2018.
+2025-02-26 14:13:10,722 - INFO - Created 1251 unique IDs for subject DOSEESC_JH02, study 06/18/2018
+2025-02-26 14:13:10,751 - ERROR - Error loading NNFitDataset: list index out of range. Falling back to defaults.
+2025-02-26 14:13:18,712 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_10_44_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,713 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_10_45_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,714 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_10_46_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,715 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_10_47_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,716 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_10_48_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,720 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_41_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,721 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_41_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,722 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_42_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,723 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_42_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,724 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_43_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,724 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_43_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,725 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_44_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,726 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_44_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,727 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_44_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,728 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_45_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,729 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_45_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,730 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_45_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,731 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_45_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,732 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_11_46_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,734 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_40_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,735 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_40_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,736 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_41_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,737 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_41_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,738 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_41_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,738 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_42_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,739 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_42_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,740 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_42_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,741 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_43_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,742 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_43_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,743 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_43_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,744 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_44_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,745 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_44_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,746 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_44_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,746 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_45_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,747 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_12_45_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,750 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_40_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,751 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_41_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,752 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_42_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,753 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_43_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,754 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_44_34: index 34 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,754 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_46_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,755 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_13_46_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,758 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_15_44_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,760 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_28_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,760 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_28_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,761 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_28_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,762 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_29_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,763 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_29_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,764 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_29_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,765 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_30_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,765 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_30_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,766 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_30_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,767 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_30_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,768 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_30_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,769 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_31_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,770 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_31_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,770 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_31_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,771 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_31_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,772 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_31_46: index 46 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,773 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_32_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,774 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_32_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,774 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_18_32_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,775 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_24_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,776 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_24_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,777 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_25_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,779 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_25_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,780 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_25_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,781 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_25_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,781 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_26_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,782 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_26_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,783 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_26_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,784 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_26_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,784 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_27_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,785 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_27_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,786 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_27_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,786 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_27_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,787 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_28_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,788 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_28_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,789 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_28_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,790 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_28_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,791 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_29_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,791 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_29_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,792 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_29_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,793 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_29_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,794 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_30_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,795 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_30_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,795 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_30_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,796 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_30_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,797 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_31_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,798 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_31_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,799 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_31_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,799 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_31_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,800 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_32_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,801 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_32_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,802 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_32_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,803 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_32_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,804 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_33_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,804 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_33_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,805 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_33_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,806 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_33_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,807 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_33_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,808 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_34_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,808 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_34_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,809 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_34_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,810 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_34_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,811 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_34_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,812 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_35_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,812 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_35_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,813 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_35_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,814 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_35_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,815 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_35_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,816 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_36_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,816 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_36_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,817 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_36_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,818 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_36_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,819 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_37_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,820 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_37_46: index 46 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,821 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_19_38_46: index 46 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,822 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_23_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,823 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_24_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,824 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_24_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,825 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_24_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,826 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_25_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,827 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_25_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,828 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_25_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,829 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_25_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,830 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_25_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,831 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_26_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,832 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_26_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,833 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_26_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,834 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_26_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,835 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_26_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,836 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,837 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,837 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,838 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,840 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,840 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,841 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_27_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,842 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,843 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,844 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,845 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,846 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,847 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_28_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,848 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,849 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,850 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,851 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,852 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,853 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_29_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,853 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,854 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,855 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,856 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,857 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,858 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_30_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,859 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_31_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,860 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_31_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,861 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_31_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,862 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_31_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,863 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_31_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,864 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_32_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,865 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_32_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,866 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_32_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,867 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_32_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,868 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_32_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,869 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,869 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,870 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,871 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,871 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,872 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,873 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_33_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,874 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,875 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,876 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,877 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,878 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,879 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,880 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_34_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,881 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,881 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,882 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,883 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,884 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,885 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_35_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,886 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,887 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,888 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,889 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,889 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,890 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_36_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,891 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,892 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,893 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,894 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,895 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,896 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_37_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,897 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_38_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,898 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_38_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,898 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_38_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,899 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_38_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,900 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_38_45: index 45 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,901 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_39_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,902 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_39_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,902 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_39_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,903 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_20_39_44: index 44 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,904 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_24_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,905 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_25_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,906 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_26_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,906 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_26_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,907 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_26_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,908 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_26_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,909 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_27_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,910 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_27_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,911 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_27_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,912 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_27_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,912 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_27_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,913 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,914 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,914 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,915 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,916 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,917 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,918 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_28_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,919 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,920 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,921 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,921 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,922 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,923 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,924 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_29_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,924 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,925 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,926 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,927 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,928 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,929 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,930 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_30_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,931 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,932 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,932 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,933 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,934 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,935 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,936 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_31_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,936 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,937 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,938 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,939 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,940 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,941 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,941 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_32_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,942 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,943 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,944 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,945 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,945 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,946 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,947 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,948 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_33_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,949 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,949 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,950 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,951 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,952 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,953 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,954 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_34_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,954 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,955 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,956 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,957 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,958 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,958 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,959 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_35_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,960 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,960 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,961 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,962 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,963 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,964 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,965 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_36_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,965 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,967 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,968 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,969 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,970 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,971 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,971 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_37_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,972 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,973 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,974 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,975 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,976 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,977 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,978 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_38_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,979 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_39_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,980 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_39_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,981 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_39_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,982 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_39_43: index 43 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,983 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_40_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,984 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_21_40_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,984 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_28_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,985 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,986 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,987 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,988 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,989 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,990 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_29_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,991 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,992 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,993 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,994 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,995 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,996 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_30_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,997 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,998 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,999 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:18,999 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,000 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,001 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,002 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_31_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,003 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_35: index 35 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,004 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,005 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,006 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,007 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,007 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,008 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_32_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,009 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,010 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,010 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,011 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,012 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,013 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_33_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,014 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,015 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,016 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,017 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,018 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,018 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_34_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,019 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,020 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,021 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,022 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,022 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,023 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_35_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,024 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,025 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,026 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,027 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,028 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,029 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,030 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_36_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,030 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,031 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,032 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,033 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,034 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,035 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_37_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,036 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,037 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,038 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,039 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,039 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,040 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_38_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,041 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,042 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,043 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,043 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,044 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,045 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_39_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,046 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_40_41: index 41 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,047 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_40_42: index 42 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,048 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_41_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,049 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_41_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,049 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_22_41_40: index 40 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,050 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_31_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,051 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_31_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,052 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_32_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,052 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_32_38: index 38 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,053 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_32_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,054 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_33_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,055 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_34_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,056 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_35_36: index 36 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,056 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_35_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,057 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_37_39: index 39 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,058 - ERROR - Error processing unique ID DOSEESC_JH02_06.18.2018_23_41_37: index 37 is out of bounds for axis 2 with size 32
+2025-02-26 14:13:19,442 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:13:19,445 - INFO - Spectral extraction complete for subject DOSEESC_JH02, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:13:19,538 - INFO - Processing spectral extraction for subject: DOSEESC_JH03
+2025-02-26 14:13:19,596 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH03, study 07/06/2018.
+2025-02-26 14:13:19,628 - INFO - Created 1230 unique IDs for subject DOSEESC_JH03, study 07/06/2018
+2025-02-26 14:13:41,251 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:13:41,369 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:13:41,397 - INFO - Spectral extraction complete for subject DOSEESC_JH03, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:13:41,526 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH03, study 08/03/2018.
+2025-02-26 14:13:41,561 - INFO - Created 1757 unique IDs for subject DOSEESC_JH03, study 08/03/2018
+2025-02-26 14:14:02,824 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:14:02,963 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:14:02,989 - INFO - Spectral extraction complete for subject DOSEESC_JH03, study 08/03/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:14:03,123 - INFO - Processing spectral extraction for subject: DOSEESC_JH04
+2025-02-26 14:14:03,144 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH04, study 07/06/2018.
+2025-02-26 14:14:03,168 - INFO - Created 508 unique IDs for subject DOSEESC_JH04, study 07/06/2018
+2025-02-26 14:14:24,292 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:14:24,641 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:14:24,667 - INFO - Spectral extraction complete for subject DOSEESC_JH04, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:14:24,799 - INFO - Processing spectral extraction for subject: DOSEESC_UM06
+2025-02-26 14:14:24,846 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM06, study 05/23/2018.
+2025-02-26 14:14:24,875 - INFO - Created 530 unique IDs for subject DOSEESC_UM06, study 05/23/2018
+2025-02-26 14:14:46,231 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:14:46,278 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:14:46,304 - INFO - Spectral extraction complete for subject DOSEESC_UM06, study 05/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:14:46,447 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM06, study 06/18/2018.
+2025-02-26 14:14:46,485 - INFO - Created 1543 unique IDs for subject DOSEESC_UM06, study 06/18/2018
+2025-02-26 14:15:07,165 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:15:07,293 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:15:07,320 - INFO - Spectral extraction complete for subject DOSEESC_UM06, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:15:07,432 - INFO - Processing spectral extraction for subject: DOSEESC_UM07
+2025-02-26 14:15:07,491 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM07, study 06/11/2018.
+2025-02-26 14:15:07,511 - INFO - Created 24 unique IDs for subject DOSEESC_UM07, study 06/11/2018
+2025-02-26 14:15:28,810 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:15:28,816 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:15:28,835 - INFO - Spectral extraction complete for subject DOSEESC_UM07, study 06/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:15:28,945 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM07, study 07/09/2018.
+2025-02-26 14:15:28,967 - INFO - Created 69 unique IDs for subject DOSEESC_UM07, study 07/09/2018
+2025-02-26 14:15:49,961 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:15:49,968 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:15:49,988 - INFO - Spectral extraction complete for subject DOSEESC_UM07, study 07/09/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:15:50,091 - INFO - Processing spectral extraction for subject: DOSEESC_UM08
+2025-02-26 14:15:50,156 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM08, study 06/13/2018.
+2025-02-26 14:15:50,182 - INFO - Created 522 unique IDs for subject DOSEESC_UM08, study 06/13/2018
+2025-02-26 14:16:13,357 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:16:13,400 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:16:13,423 - INFO - Spectral extraction complete for subject DOSEESC_UM08, study 06/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:16:13,550 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM08, study 07/11/2018.
+2025-02-26 14:16:13,575 - INFO - Created 792 unique IDs for subject DOSEESC_UM08, study 07/11/2018
+2025-02-26 14:16:35,696 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:16:35,773 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:16:35,801 - INFO - Spectral extraction complete for subject DOSEESC_UM08, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:16:35,919 - INFO - Processing spectral extraction for subject: DOSEESC_EM07
+2025-02-26 14:16:36,015 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM07, study 06/20/2018.
+2025-02-26 14:16:36,049 - INFO - Created 961 unique IDs for subject DOSEESC_EM07, study 06/20/2018
+2025-02-26 14:16:57,670 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:16:57,757 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:16:57,783 - INFO - Spectral extraction complete for subject DOSEESC_EM07, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:16:57,931 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM07, study 07/16/2018.
+2025-02-26 14:16:57,965 - INFO - Created 944 unique IDs for subject DOSEESC_EM07, study 07/16/2018
+2025-02-26 14:17:19,359 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:17:19,428 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:17:19,456 - INFO - Spectral extraction complete for subject DOSEESC_EM07, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:17:19,610 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM07, study 06/26/2018.
+2025-02-26 14:17:19,645 - INFO - Created 868 unique IDs for subject DOSEESC_EM07, study 06/26/2018
+2025-02-26 14:17:40,932 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:17:41,005 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:17:41,032 - INFO - Spectral extraction complete for subject DOSEESC_EM07, study 06/26/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:17:41,177 - INFO - Processing spectral extraction for subject: DOSEESC_UM09
+2025-02-26 14:17:41,234 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM09, study 06/20/2018.
+2025-02-26 14:17:41,256 - INFO - Created 601 unique IDs for subject DOSEESC_UM09, study 06/20/2018
+2025-02-26 14:18:02,774 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:18:02,798 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:18:02,825 - INFO - Spectral extraction complete for subject DOSEESC_UM09, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:18:02,972 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM09, study 07/16/2018.
+2025-02-26 14:18:02,994 - INFO - Created 513 unique IDs for subject DOSEESC_UM09, study 07/16/2018
+2025-02-26 14:18:24,008 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:18:24,021 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:18:24,048 - INFO - Spectral extraction complete for subject DOSEESC_UM09, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:18:24,167 - INFO - Processing spectral extraction for subject: DOSEESC_UM09_70
+2025-02-26 14:18:24,195 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM09_70, study 06/20/2018.
+2025-02-26 14:18:24,218 - INFO - Created 582 unique IDs for subject DOSEESC_UM09_70, study 06/20/2018
+2025-02-26 14:18:24,959 - ERROR - Error loading NNFitDataset: [Errno 2] No such file or directory: 'x:\\ArtifactRemovalProject\\data\\raw\\MIDAS_ArtifactRemoval\\DOSEESC_UM09_70\\nnfit\\NOT_FOUND'. Falling back to defaults.
+2025-02-26 14:18:32,775 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:18:32,778 - INFO - Spectral extraction complete for subject DOSEESC_UM09_70, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:18:32,867 - INFO - Processing spectral extraction for subject: DOSEESC_UM10
+2025-02-26 14:18:33,011 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM10, study 07/11/2018.
+2025-02-26 14:18:33,031 - INFO - Created 38 unique IDs for subject DOSEESC_UM10, study 07/11/2018
+2025-02-26 14:18:56,787 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:18:56,792 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:18:56,909 - INFO - Spectral extraction complete for subject DOSEESC_UM10, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:18:56,921 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM10, study 08/20/2018.
+2025-02-26 14:18:56,944 - INFO - Created 0 unique IDs for subject DOSEESC_UM10, study 08/20/2018
+2025-02-26 14:18:56,945 - WARNING - No unique IDs generated for subject DOSEESC_UM10, study 08/20/2018.
+2025-02-26 14:18:56,946 - INFO - Processing spectral extraction for subject: DOSEESC_UM13
+2025-02-26 14:18:57,020 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM13, study 08/22/2018.
+2025-02-26 14:18:57,042 - INFO - Created 1154 unique IDs for subject DOSEESC_UM13, study 08/22/2018
+2025-02-26 14:19:18,515 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:19:18,593 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:19:18,619 - INFO - Spectral extraction complete for subject DOSEESC_UM13, study 08/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:19:18,766 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM13, study 09/17/2018.
+2025-02-26 14:19:18,790 - INFO - Created 683 unique IDs for subject DOSEESC_UM13, study 09/17/2018
+2025-02-26 14:19:40,877 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:19:41,228 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:19:41,253 - INFO - Spectral extraction complete for subject DOSEESC_UM13, study 09/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:19:41,400 - INFO - Processing spectral extraction for subject: DOSEESC_JH07
+2025-02-26 14:19:41,467 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH07, study 08/27/2018.
+2025-02-26 14:19:41,493 - INFO - Created 0 unique IDs for subject DOSEESC_JH07, study 08/27/2018
+2025-02-26 14:19:41,494 - WARNING - No unique IDs generated for subject DOSEESC_JH07, study 08/27/2018.
+2025-02-26 14:19:41,507 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH07, study 09/20/2018.
+2025-02-26 14:19:41,547 - INFO - Created 273 unique IDs for subject DOSEESC_JH07, study 09/20/2018
+2025-02-26 14:20:04,030 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:20:04,057 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:20:04,085 - INFO - Spectral extraction complete for subject DOSEESC_JH07, study 09/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:20:04,205 - INFO - Processing spectral extraction for subject: DOSEESC_UM14
+2025-02-26 14:20:04,278 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM14, study 10/01/2018.
+2025-02-26 14:20:04,326 - INFO - Created 120 unique IDs for subject DOSEESC_UM14, study 10/01/2018
+2025-02-26 14:20:26,162 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:20:26,175 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:20:26,208 - INFO - Spectral extraction complete for subject DOSEESC_UM14, study 10/01/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:20:26,354 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM14, study 10/22/2018.
+2025-02-26 14:20:26,400 - INFO - Created 79 unique IDs for subject DOSEESC_UM14, study 10/22/2018
+2025-02-26 14:20:47,864 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:20:47,871 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:20:47,891 - INFO - Spectral extraction complete for subject DOSEESC_UM14, study 10/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:20:48,030 - INFO - Processing spectral extraction for subject: DOSEESC_UM15
+2025-02-26 14:20:48,108 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM15, study 10/31/2018.
+2025-02-26 14:20:48,163 - INFO - Created 1324 unique IDs for subject DOSEESC_UM15, study 10/31/2018
+2025-02-26 14:21:10,699 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:21:10,834 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:21:10,860 - INFO - Spectral extraction complete for subject DOSEESC_UM15, study 10/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:21:10,990 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM15, study 11/28/2018.
+2025-02-26 14:21:11,014 - INFO - Created 937 unique IDs for subject DOSEESC_UM15, study 11/28/2018
+2025-02-26 14:21:32,247 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:21:32,347 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:21:32,373 - INFO - Spectral extraction complete for subject DOSEESC_UM15, study 11/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:21:32,521 - INFO - Processing spectral extraction for subject: DOSEESC_EM08
+2025-02-26 14:21:32,548 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM08, study 11/02/2018.
+2025-02-26 14:21:32,570 - INFO - Created 827 unique IDs for subject DOSEESC_EM08, study 11/02/2018
+2025-02-26 14:21:54,010 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:21:54,060 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:21:54,086 - INFO - Spectral extraction complete for subject DOSEESC_EM08, study 11/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:21:54,207 - INFO - Processing spectral extraction for subject: DOSEESC_UM16
+2025-02-26 14:21:54,287 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM16, study 11/14/2018.
+2025-02-26 14:21:54,320 - INFO - Created 1367 unique IDs for subject DOSEESC_UM16, study 11/14/2018
+2025-02-26 14:22:16,265 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:22:16,749 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:22:16,777 - INFO - Spectral extraction complete for subject DOSEESC_UM16, study 11/14/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:22:16,901 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM16, study 12/05/2018.
+2025-02-26 14:22:16,939 - INFO - Created 1641 unique IDs for subject DOSEESC_UM16, study 12/05/2018
+2025-02-26 14:22:39,650 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:22:39,814 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:22:39,835 - INFO - Spectral extraction complete for subject DOSEESC_UM16, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:22:39,932 - INFO - Processing spectral extraction for subject: DOSEESC_EM09
+2025-02-26 14:22:39,996 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM09, study 11/20/2018.
+2025-02-26 14:22:40,018 - INFO - Created 397 unique IDs for subject DOSEESC_EM09, study 11/20/2018
+2025-02-26 14:23:02,356 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:23:02,693 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:23:02,721 - INFO - Spectral extraction complete for subject DOSEESC_EM09, study 11/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:23:02,855 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM09, study 12/17/2018.
+2025-02-26 14:23:02,878 - INFO - Created 561 unique IDs for subject DOSEESC_EM09, study 12/17/2018
+2025-02-26 14:23:23,881 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:23:23,919 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:23:23,957 - INFO - Spectral extraction complete for subject DOSEESC_EM09, study 12/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:23:24,078 - INFO - Processing spectral extraction for subject: DOSEESC_JH10
+2025-02-26 14:23:24,144 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH10, study 12/05/2018.
+2025-02-26 14:23:24,191 - INFO - Created 4625 unique IDs for subject DOSEESC_JH10, study 12/05/2018
+2025-02-26 14:23:46,123 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:23:46,752 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:23:46,779 - INFO - Spectral extraction complete for subject DOSEESC_JH10, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:23:46,911 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_JH10, study 12/28/2018.
+2025-02-26 14:23:47,015 - INFO - Created 5424 unique IDs for subject DOSEESC_JH10, study 12/28/2018
+2025-02-26 14:24:08,906 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:24:09,684 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:24:09,710 - INFO - Spectral extraction complete for subject DOSEESC_JH10, study 12/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:24:09,836 - INFO - Processing spectral extraction for subject: DOSEESC_EM10
+2025-02-26 14:24:09,893 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM10, study 12/20/2018.
+2025-02-26 14:24:09,937 - INFO - Created 176 unique IDs for subject DOSEESC_EM10, study 12/20/2018
+2025-02-26 14:24:31,829 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:24:31,850 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:24:31,878 - INFO - Spectral extraction complete for subject DOSEESC_EM10, study 12/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:24:32,009 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM10, study 01/16/2019.
+2025-02-26 14:24:32,066 - INFO - Created 1427 unique IDs for subject DOSEESC_EM10, study 01/16/2019
+2025-02-26 14:24:53,009 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:24:53,429 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:24:53,455 - INFO - Spectral extraction complete for subject DOSEESC_EM10, study 01/16/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:24:53,575 - INFO - Processing spectral extraction for subject: DOSEESC_EM11
+2025-02-26 14:24:53,624 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM11, study 01/03/2019.
+2025-02-26 14:24:53,681 - INFO - Created 1339 unique IDs for subject DOSEESC_EM11, study 01/03/2019
+2025-02-26 14:25:14,790 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:25:14,915 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:25:14,941 - INFO - Spectral extraction complete for subject DOSEESC_EM11, study 01/03/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:25:15,074 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM11, study 01/24/2019.
+2025-02-26 14:25:15,152 - INFO - Created 1157 unique IDs for subject DOSEESC_EM11, study 01/24/2019
+2025-02-26 14:25:36,264 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:25:36,373 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:25:36,400 - INFO - Spectral extraction complete for subject DOSEESC_EM11, study 01/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:25:36,522 - INFO - Processing spectral extraction for subject: DOSEESC_UM17
+2025-02-26 14:25:36,551 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM17, study 01/07/2019.
+2025-02-26 14:25:36,600 - INFO - Created 35 unique IDs for subject DOSEESC_UM17, study 01/07/2019
+2025-02-26 14:25:58,442 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:25:58,449 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:25:58,468 - INFO - Spectral extraction complete for subject DOSEESC_UM17, study 01/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:25:58,569 - INFO - Processing spectral extraction for subject: DOSEESC_UM18
+2025-02-26 14:25:58,696 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM18, study 01/23/2019.
+2025-02-26 14:25:58,739 - INFO - Created 385 unique IDs for subject DOSEESC_UM18, study 01/23/2019
+2025-02-26 14:26:21,345 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:26:21,388 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:26:21,414 - INFO - Spectral extraction complete for subject DOSEESC_UM18, study 01/23/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:26:21,550 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM18, study 02/18/2019.
+2025-02-26 14:26:21,611 - INFO - Created 2166 unique IDs for subject DOSEESC_UM18, study 02/18/2019
+2025-02-26 14:26:44,718 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:26:44,897 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:26:44,924 - INFO - Spectral extraction complete for subject DOSEESC_UM18, study 02/18/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:26:45,046 - INFO - Processing spectral extraction for subject: DOSEESC_EM12
+2025-02-26 14:26:45,169 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM12, study 01/25/2019.
+2025-02-26 14:26:45,232 - INFO - Created 1170 unique IDs for subject DOSEESC_EM12, study 01/25/2019
+2025-02-26 14:27:07,418 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:27:07,497 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:27:07,524 - INFO - Spectral extraction complete for subject DOSEESC_EM12, study 01/25/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:27:07,657 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM12, study 03/07/2019.
+2025-02-26 14:27:07,720 - INFO - Created 1032 unique IDs for subject DOSEESC_EM12, study 03/07/2019
+2025-02-26 14:27:29,931 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:27:30,007 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:27:30,033 - INFO - Spectral extraction complete for subject DOSEESC_EM12, study 03/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:27:30,165 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM12, study 02/12/2019.
+2025-02-26 14:27:30,205 - INFO - Created 808 unique IDs for subject DOSEESC_EM12, study 02/12/2019
+2025-02-26 14:27:51,606 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:27:51,682 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:27:51,709 - INFO - Spectral extraction complete for subject DOSEESC_EM12, study 02/12/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:27:51,832 - INFO - Processing spectral extraction for subject: DOSEESC_EM13
+2025-02-26 14:27:51,898 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM13, study 03/01/2019.
+2025-02-26 14:27:51,963 - INFO - Created 2470 unique IDs for subject DOSEESC_EM13, study 03/01/2019
+2025-02-26 14:28:14,069 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:28:14,240 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:28:14,266 - INFO - Spectral extraction complete for subject DOSEESC_EM13, study 03/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:28:14,401 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM13, study 03/20/2019.
+2025-02-26 14:28:14,501 - INFO - Created 3355 unique IDs for subject DOSEESC_EM13, study 03/20/2019
+2025-02-26 14:28:36,173 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:28:36,395 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:28:36,423 - INFO - Spectral extraction complete for subject DOSEESC_EM13, study 03/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:28:36,558 - INFO - Processing spectral extraction for subject: DOSEESC_UM20
+2025-02-26 14:28:36,672 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM20, study 04/24/2019.
+2025-02-26 14:28:36,720 - INFO - Created 86 unique IDs for subject DOSEESC_UM20, study 04/24/2019
+2025-02-26 14:28:59,916 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:28:59,924 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:28:59,944 - INFO - Spectral extraction complete for subject DOSEESC_UM20, study 04/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:29:00,063 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM20, study 05/20/2019.
+2025-02-26 14:29:00,088 - INFO - Created 243 unique IDs for subject DOSEESC_UM20, study 05/20/2019
+2025-02-26 14:29:00,093 - ERROR - Error loading NNFitDataset: 'NoneType' object has no attribute 'data'. Falling back to defaults.
+2025-02-26 14:29:08,282 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:29:08,285 - INFO - Spectral extraction complete for subject DOSEESC_UM20, study 05/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:29:08,364 - INFO - Processing spectral extraction for subject: DOSEESC_UM21
+2025-02-26 14:29:08,405 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_UM21, study 05/01/2019.
+2025-02-26 14:29:08,463 - INFO - Created 1368 unique IDs for subject DOSEESC_UM21, study 05/01/2019
+2025-02-26 14:29:30,489 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:29:30,610 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:29:30,637 - INFO - Spectral extraction complete for subject DOSEESC_UM21, study 05/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:29:30,781 - INFO - Processing spectral extraction for subject: DOSEESC_EM14
+2025-02-26 14:29:30,837 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM14, study 05/22/2019.
+2025-02-26 14:29:30,904 - INFO - Created 4591 unique IDs for subject DOSEESC_EM14, study 05/22/2019
+2025-02-26 14:29:52,940 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:29:54,004 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:29:54,030 - INFO - Spectral extraction complete for subject DOSEESC_EM14, study 05/22/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:29:54,162 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM14, study 06/10/2019.
+2025-02-26 14:29:54,237 - INFO - Created 4669 unique IDs for subject DOSEESC_EM14, study 06/10/2019
+2025-02-26 14:30:16,177 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:30:17,808 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:30:17,834 - INFO - Spectral extraction complete for subject DOSEESC_EM14, study 06/10/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:30:17,953 - INFO - Processing spectral extraction for subject: DOSEESC_EM15
+2025-02-26 14:30:18,014 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM15, study 06/11/2019.
+2025-02-26 14:30:18,115 - INFO - Created 3775 unique IDs for subject DOSEESC_EM15, study 06/11/2019
+2025-02-26 14:30:39,751 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:30:40,009 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:30:40,035 - INFO - Spectral extraction complete for subject DOSEESC_EM15, study 06/11/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:30:40,170 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject DOSEESC_EM15, study 07/02/2019.
+2025-02-26 14:30:40,225 - INFO - Created 2348 unique IDs for subject DOSEESC_EM15, study 07/02/2019
+2025-02-26 14:31:01,204 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:31:01,349 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:31:01,376 - INFO - Spectral extraction complete for subject DOSEESC_EM15, study 07/02/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:31:01,498 - INFO - Processing spectral extraction for subject: rGBM_001_02_27_2023
+2025-02-26 14:31:01,523 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_001_02_27_2023, study 02/27/2023.
+2025-02-26 14:31:01,580 - INFO - Created 1787 unique IDs for subject rGBM_001_02_27_2023, study 02/27/2023
+2025-02-26 14:31:22,346 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:31:22,518 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:31:22,543 - INFO - Spectral extraction complete for subject rGBM_001_02_27_2023, study 02/27/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:31:22,664 - INFO - Processing spectral extraction for subject: rGBM_001_04_21_2023
+2025-02-26 14:31:22,691 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_001_04_21_2023, study 04/21/2023.
+2025-02-26 14:31:22,750 - INFO - Created 1190 unique IDs for subject rGBM_001_04_21_2023, study 04/21/2023
+2025-02-26 14:31:44,902 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:31:45,037 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:31:45,063 - INFO - Spectral extraction complete for subject rGBM_001_04_21_2023, study 04/21/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:31:45,185 - INFO - Processing spectral extraction for subject: rGBM_001_06_30_2023
+2025-02-26 14:31:45,213 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_001_06_30_2023, study 06/30/2023.
+2025-02-26 14:31:45,265 - INFO - Created 2493 unique IDs for subject rGBM_001_06_30_2023, study 06/30/2023
+2025-02-26 14:32:06,079 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:32:06,320 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:32:06,347 - INFO - Spectral extraction complete for subject rGBM_001_06_30_2023, study 06/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:32:06,468 - INFO - Processing spectral extraction for subject: rGBM_001_08_30_2023
+2025-02-26 14:32:06,496 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_001_08_30_2023, study 08/30/2023.
+2025-02-26 14:32:06,535 - INFO - Created 3086 unique IDs for subject rGBM_001_08_30_2023, study 08/30/2023
+2025-02-26 14:32:27,548 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:32:28,169 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:32:28,196 - INFO - Spectral extraction complete for subject rGBM_001_08_30_2023, study 08/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:32:28,320 - INFO - Processing spectral extraction for subject: rGBM_002_04_28_2023
+2025-02-26 14:32:28,370 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_002_04_28_2023, study 04/28/2023.
+2025-02-26 14:32:28,413 - INFO - Created 753 unique IDs for subject rGBM_002_04_28_2023, study 04/28/2023
+2025-02-26 14:32:49,208 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:32:49,280 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:32:49,307 - INFO - Spectral extraction complete for subject rGBM_002_04_28_2023, study 04/28/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:32:49,430 - INFO - Processing spectral extraction for subject: rGBM_003_04_24_2023
+2025-02-26 14:32:49,456 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_003_04_24_2023, study 04/24/2023.
+2025-02-26 14:32:49,497 - INFO - Created 3266 unique IDs for subject rGBM_003_04_24_2023, study 04/24/2023
+2025-02-26 14:33:10,210 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:33:10,774 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:33:10,801 - INFO - Spectral extraction complete for subject rGBM_003_04_24_2023, study 04/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:33:10,924 - INFO - Processing spectral extraction for subject: rGBM_004_09_22_2023
+2025-02-26 14:33:10,950 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_004_09_22_2023, study 09/22/2023.
+2025-02-26 14:33:11,007 - INFO - Created 1404 unique IDs for subject rGBM_004_09_22_2023, study 09/22/2023
+2025-02-26 14:33:32,039 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:33:32,171 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:33:32,197 - INFO - Spectral extraction complete for subject rGBM_004_09_22_2023, study 09/22/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:33:32,321 - INFO - Processing spectral extraction for subject: rGBM_005_08_18_2023
+2025-02-26 14:33:32,350 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_005_08_18_2023, study 08/18/2023.
+2025-02-26 14:33:32,414 - INFO - Created 2206 unique IDs for subject rGBM_005_08_18_2023, study 08/18/2023
+2025-02-26 14:33:53,636 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:33:53,809 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:33:53,837 - INFO - Spectral extraction complete for subject rGBM_005_08_18_2023, study 08/18/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:33:53,958 - INFO - Processing spectral extraction for subject: rGBM_006_04_03_2023
+2025-02-26 14:33:53,987 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_006_04_03_2023, study 04/03/2023.
+2025-02-26 14:33:54,048 - INFO - Created 1858 unique IDs for subject rGBM_006_04_03_2023, study 04/03/2023
+2025-02-26 14:34:15,454 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:34:15,638 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:34:15,664 - INFO - Spectral extraction complete for subject rGBM_006_04_03_2023, study 04/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:34:15,797 - INFO - Processing spectral extraction for subject: rGBM_006_05_24_2023
+2025-02-26 14:34:15,825 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_006_05_24_2023, study 05/24/2023.
+2025-02-26 14:34:15,883 - INFO - Created 1158 unique IDs for subject rGBM_006_05_24_2023, study 05/24/2023
+2025-02-26 14:34:38,283 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:34:38,716 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:34:38,742 - INFO - Spectral extraction complete for subject rGBM_006_05_24_2023, study 05/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:34:38,871 - INFO - Processing spectral extraction for subject: rGBM_006_08_01_2023
+2025-02-26 14:34:38,899 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_006_08_01_2023, study 08/01/2023.
+2025-02-26 14:34:38,959 - INFO - Created 1284 unique IDs for subject rGBM_006_08_01_2023, study 08/01/2023
+2025-02-26 14:34:59,770 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:35:00,200 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:35:00,226 - INFO - Spectral extraction complete for subject rGBM_006_08_01_2023, study 08/01/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:35:00,366 - INFO - Processing spectral extraction for subject: rGBM_007_05_30_2023
+2025-02-26 14:35:00,392 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject rGBM_007_05_30_2023, study 05/30/2023.
+2025-02-26 14:35:00,461 - INFO - Created 3344 unique IDs for subject rGBM_007_05_30_2023, study 05/30/2023
+2025-02-26 14:35:22,006 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:35:22,297 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:35:22,323 - INFO - Spectral extraction complete for subject rGBM_007_05_30_2023, study 05/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:35:22,469 - INFO - Processing spectral extraction for subject: wholeGBM_001_05_26_2023
+2025-02-26 14:35:22,496 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_001_05_26_2023, study 05/26/2023.
+2025-02-26 14:35:22,533 - INFO - Created 117 unique IDs for subject wholeGBM_001_05_26_2023, study 05/26/2023
+2025-02-26 14:35:44,201 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:35:44,212 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:35:44,238 - INFO - Spectral extraction complete for subject wholeGBM_001_05_26_2023, study 05/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:35:44,380 - INFO - Processing spectral extraction for subject: wholeGBM_001_07_26_2023
+2025-02-26 14:35:44,408 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_001_07_26_2023, study 07/26/2023.
+2025-02-26 14:35:44,469 - INFO - Created 47 unique IDs for subject wholeGBM_001_07_26_2023, study 07/26/2023
+2025-02-26 14:36:06,933 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:36:06,940 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:36:06,970 - INFO - Spectral extraction complete for subject wholeGBM_001_07_26_2023, study 07/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:36:07,093 - INFO - Processing spectral extraction for subject: wholeGBM_002_03_10_2023
+2025-02-26 14:36:07,117 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_002_03_10_2023, study 03/10/2023.
+2025-02-26 14:36:07,189 - INFO - Created 1306 unique IDs for subject wholeGBM_002_03_10_2023, study 03/10/2023
+2025-02-26 14:36:28,227 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:36:28,354 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:36:28,382 - INFO - Spectral extraction complete for subject wholeGBM_002_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:36:28,526 - INFO - Processing spectral extraction for subject: wholeGBM_002_04_13_2023
+2025-02-26 14:36:28,555 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_002_04_13_2023, study 04/13/2023.
+2025-02-26 14:36:28,610 - INFO - Created 1272 unique IDs for subject wholeGBM_002_04_13_2023, study 04/13/2023
+2025-02-26 14:36:50,172 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:36:50,308 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:36:50,335 - INFO - Spectral extraction complete for subject wholeGBM_002_04_13_2023, study 04/13/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:36:50,481 - INFO - Processing spectral extraction for subject: wholeGBM_003_06_14_2023
+2025-02-26 14:36:50,510 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_003_06_14_2023, study 06/14/2023.
+2025-02-26 14:36:50,558 - INFO - Created 854 unique IDs for subject wholeGBM_003_06_14_2023, study 06/14/2023
+2025-02-26 14:37:11,782 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:37:11,870 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:37:11,897 - INFO - Spectral extraction complete for subject wholeGBM_003_06_14_2023, study 06/14/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:37:12,022 - INFO - Processing spectral extraction for subject: wholeGBM_004_03_10_2023
+2025-02-26 14:37:12,050 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_004_03_10_2023, study 03/10/2023.
+2025-02-26 14:37:12,096 - INFO - Created 664 unique IDs for subject wholeGBM_004_03_10_2023, study 03/10/2023
+2025-02-26 14:37:34,179 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:37:34,251 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:37:34,277 - INFO - Spectral extraction complete for subject wholeGBM_004_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:37:34,402 - INFO - Processing spectral extraction for subject: wholeGBM_004_04_19_2023
+2025-02-26 14:37:34,429 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_004_04_19_2023, study 04/19/2023.
+2025-02-26 14:37:34,475 - INFO - Created 493 unique IDs for subject wholeGBM_004_04_19_2023, study 04/19/2023
+2025-02-26 14:37:56,085 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:37:56,141 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:37:56,169 - INFO - Spectral extraction complete for subject wholeGBM_004_04_19_2023, study 04/19/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:37:56,296 - INFO - Processing spectral extraction for subject: wholeGBM_004_07_03_2023
+2025-02-26 14:37:56,323 - INFO - Overwrite True: Removed previous '07_uniqueid' folder for subject wholeGBM_004_07_03_2023, study 07/03/2023.
+2025-02-26 14:37:56,386 - INFO - Created 541 unique IDs for subject wholeGBM_004_07_03_2023, study 07/03/2023
+2025-02-26 14:38:18,377 - INFO - Loaded spectral data from NNFitDataset.
+2025-02-26 14:38:18,435 - INFO - Saved spectral data to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\07_uniqueid\unique_spectral_data.pkl
+2025-02-26 14:38:18,461 - INFO - Spectral extraction complete for subject wholeGBM_004_07_03_2023, study 07/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\07_uniqueid\spectral_extraction_complete.txt
+2025-02-26 14:38:33,102 - INFO - Found 59 subjects for spectral verification.
+2025-02-26 14:38:33,981 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\07_uniqueid\spectral_verification_20250226_143833.png
+2025-02-26 14:38:34,671 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\07_uniqueid\spectral_verification_20250226_143834.png
+2025-02-26 14:38:35,139 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\07_uniqueid\spectral_verification_20250226_143834.png
+2025-02-26 14:38:35,625 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\07_uniqueid\spectral_verification_20250226_143835.png
+2025-02-26 14:38:36,318 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\07_uniqueid\spectral_verification_20250226_143836.png
+2025-02-26 14:38:36,807 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\07_uniqueid\spectral_verification_20250226_143836.png
+2025-02-26 14:38:37,261 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\07_uniqueid\spectral_verification_20250226_143837.png
+2025-02-26 14:38:37,661 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\07_uniqueid\spectral_verification_20250226_143837.png
+2025-02-26 14:38:38,151 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\07_uniqueid\spectral_verification_20250226_143837.png
+2025-02-26 14:38:38,613 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\07_uniqueid\spectral_verification_20250226_143838.png
+2025-02-26 14:38:39,109 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\07_uniqueid\spectral_verification_20250226_143838.png
+2025-02-26 14:38:39,566 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\07_uniqueid\spectral_verification_20250226_143839.png
+2025-02-26 14:38:40,046 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\07_uniqueid\spectral_verification_20250226_143839.png
+2025-02-26 14:38:40,697 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\07_uniqueid\spectral_verification_20250226_143840.png
+2025-02-26 14:38:41,165 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\07_uniqueid\spectral_verification_20250226_143840.png
+2025-02-26 14:38:41,603 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\07_uniqueid\spectral_verification_20250226_143841.png
+2025-02-26 14:38:42,075 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\07_uniqueid\spectral_verification_20250226_143841.png
+2025-02-26 14:38:42,510 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\07_uniqueid\spectral_verification_20250226_143842.png
+2025-02-26 14:38:42,949 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\07_uniqueid\spectral_verification_20250226_143842.png
+2025-02-26 14:38:43,583 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\07_uniqueid\spectral_verification_20250226_143843.png
+2025-02-26 14:38:44,049 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\07_uniqueid\spectral_verification_20250226_143843.png
+2025-02-26 14:38:44,532 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\07_uniqueid\spectral_verification_20250226_143844.png
+2025-02-26 14:38:44,986 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\07_uniqueid\spectral_verification_20250226_143844.png
+2025-02-26 14:38:45,390 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\07_uniqueid\spectral_verification_20250226_143845.png
+2025-02-26 14:38:45,869 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\07_uniqueid\spectral_verification_20250226_143845.png
+2025-02-26 14:38:46,551 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\07_uniqueid\spectral_verification_20250226_143846.png
+2025-02-26 14:38:46,989 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\07_uniqueid\spectral_verification_20250226_143846.png
+2025-02-26 14:38:47,375 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\07_uniqueid\spectral_verification_20250226_143847.png
+2025-02-26 14:38:47,875 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\07_uniqueid\spectral_verification_20250226_143847.png
+2025-02-26 14:38:48,305 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\07_uniqueid\spectral_verification_20250226_143848.png
+2025-02-26 14:38:48,810 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\07_uniqueid\spectral_verification_20250226_143848.png
+2025-02-26 14:38:49,199 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\07_uniqueid\spectral_verification_20250226_143849.png
+2025-02-26 14:38:49,629 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\07_uniqueid\spectral_verification_20250226_143849.png
+2025-02-26 14:38:50,055 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\07_uniqueid\spectral_verification_20250226_143849.png
+2025-02-26 14:38:50,440 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\07_uniqueid\spectral_verification_20250226_143850.png
+2025-02-26 14:38:50,867 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\07_uniqueid\spectral_verification_20250226_143850.png
+2025-02-26 14:38:51,012 - WARNING - No spectral data available for subject DOSEESC_UM10, study 07/11/2018
+2025-02-26 14:38:51,014 - ERROR - Spectral data file does not exist for subject DOSEESC_UM10, study 08/20/2018
+2025-02-26 14:38:51,511 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\07_uniqueid\spectral_verification_20250226_143851.png
+2025-02-26 14:38:51,922 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\07_uniqueid\spectral_verification_20250226_143851.png
+2025-02-26 14:38:51,975 - ERROR - Spectral data file does not exist for subject DOSEESC_JH07, study 08/27/2018
+2025-02-26 14:38:52,382 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\07_uniqueid\spectral_verification_20250226_143852.png
+2025-02-26 14:38:53,134 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\07_uniqueid\spectral_verification_20250226_143852.png
+2025-02-26 14:38:53,512 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\07_uniqueid\spectral_verification_20250226_143853.png
+2025-02-26 14:38:54,006 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\07_uniqueid\spectral_verification_20250226_143853.png
+2025-02-26 14:38:54,454 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\07_uniqueid\spectral_verification_20250226_143854.png
+2025-02-26 14:38:54,857 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\07_uniqueid\spectral_verification_20250226_143854.png
+2025-02-26 14:38:55,370 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\07_uniqueid\spectral_verification_20250226_143855.png
+2025-02-26 14:38:55,822 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\07_uniqueid\spectral_verification_20250226_143855.png
+2025-02-26 14:38:56,249 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\07_uniqueid\spectral_verification_20250226_143856.png
+2025-02-26 14:38:56,634 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\07_uniqueid\spectral_verification_20250226_143856.png
+2025-02-26 14:38:57,256 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\07_uniqueid\spectral_verification_20250226_143857.png
+2025-02-26 14:38:57,888 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\07_uniqueid\spectral_verification_20250226_143857.png
+2025-02-26 14:38:58,317 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\07_uniqueid\spectral_verification_20250226_143858.png
+2025-02-26 14:38:58,757 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\07_uniqueid\spectral_verification_20250226_143858.png
+2025-02-26 14:38:59,242 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\07_uniqueid\spectral_verification_20250226_143859.png
+2025-02-26 14:38:59,661 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\07_uniqueid\spectral_verification_20250226_143859.png
+2025-02-26 14:39:00,073 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\07_uniqueid\spectral_verification_20250226_143859.png
+2025-02-26 14:39:00,578 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\07_uniqueid\spectral_verification_20250226_143900.png
+2025-02-26 14:39:01,432 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\07_uniqueid\spectral_verification_20250226_143901.png
+2025-02-26 14:39:01,957 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\07_uniqueid\spectral_verification_20250226_143901.png
+2025-02-26 14:39:02,388 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\07_uniqueid\spectral_verification_20250226_143902.png
+2025-02-26 14:39:02,819 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\07_uniqueid\spectral_verification_20250226_143902.png
+2025-02-26 14:39:03,329 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\07_uniqueid\spectral_verification_20250226_143903.png
+2025-02-26 14:39:03,806 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\07_uniqueid\spectral_verification_20250226_143903.png
+2025-02-26 14:39:04,292 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\07_uniqueid\spectral_verification_20250226_143904.png
+2025-02-26 14:39:04,685 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\07_uniqueid\spectral_verification_20250226_143904.png
+2025-02-26 14:39:05,157 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\07_uniqueid\spectral_verification_20250226_143904.png
+2025-02-26 14:39:05,757 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\07_uniqueid\spectral_verification_20250226_143905.png
+2025-02-26 14:39:06,326 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\07_uniqueid\spectral_verification_20250226_143906.png
+2025-02-26 14:39:06,879 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\07_uniqueid\spectral_verification_20250226_143906.png
+2025-02-26 14:39:07,321 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\07_uniqueid\spectral_verification_20250226_143907.png
+2025-02-26 14:39:07,814 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\07_uniqueid\spectral_verification_20250226_143907.png
+2025-02-26 14:39:08,272 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\07_uniqueid\spectral_verification_20250226_143908.png
+2025-02-26 14:39:08,799 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\07_uniqueid\spectral_verification_20250226_143908.png
+2025-02-26 14:39:09,351 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\07_uniqueid\spectral_verification_20250226_143909.png
+2025-02-26 14:39:09,773 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\07_uniqueid\spectral_verification_20250226_143909.png
+2025-02-26 14:39:10,295 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\07_uniqueid\spectral_verification_20250226_143910.png
+2025-02-26 14:39:10,871 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\07_uniqueid\spectral_verification_20250226_143910.png
+2025-02-26 14:39:11,367 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\07_uniqueid\spectral_verification_20250226_143911.png
+2025-02-26 14:39:12,372 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\07_uniqueid\spectral_verification_20250226_143912.png
+2025-02-26 14:39:12,844 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\07_uniqueid\spectral_verification_20250226_143912.png
+2025-02-26 14:39:13,288 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\07_uniqueid\spectral_verification_20250226_143913.png
+2025-02-26 14:39:13,846 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\07_uniqueid\spectral_verification_20250226_143913.png
+2025-02-26 14:39:14,248 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\07_uniqueid\spectral_verification_20250226_143914.png
+2025-02-26 14:39:14,651 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\07_uniqueid\spectral_verification_20250226_143914.png
+2025-02-26 14:39:15,118 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\07_uniqueid\spectral_verification_20250226_143914.png
+2025-02-26 14:39:15,584 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\07_uniqueid\spectral_verification_20250226_143915.png
+2025-02-26 14:39:16,015 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\07_uniqueid\spectral_verification_20250226_143915.png
+2025-02-26 14:39:16,466 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\07_uniqueid\spectral_verification_20250226_143916.png
+2025-02-26 14:39:16,887 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\07_uniqueid\spectral_verification_20250226_143916.png
+2025-02-26 14:39:17,314 - INFO - Saved spectral verification figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\07_uniqueid\spectral_verification_20250226_143917.png

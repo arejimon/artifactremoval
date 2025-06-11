@@ -1,0 +1,308 @@
+2025-04-23 01:56:30,551 - INFO - CSV files found: ['x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Maudsley.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Mellon.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Poptani.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Sheriff.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Shim.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Shu.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Soher.csv', 'x:\\ArtifactRemovalProject\\data\\ratings\\individual_csv\\unique_ids_group_25_20250411_202222_raters_completed_Weinberg.csv']
+2025-04-23 01:56:30,552 - INFO - Cleaning 'Poor Quality' labels in individual CSVs…
+2025-04-23 01:56:30,578 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Maudsley.csv
+2025-04-23 01:56:30,597 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Mellon.csv
+2025-04-23 01:56:30,615 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Poptani.csv
+2025-04-23 01:56:30,633 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Sheriff.csv
+2025-04-23 01:56:30,651 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Shim.csv
+2025-04-23 01:56:30,669 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Shu.csv
+2025-04-23 01:56:30,688 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Soher.csv
+2025-04-23 01:56:30,706 - INFO - No 'Poor Quality' labels in x:\ArtifactRemovalProject\data\ratings\individual_csv\unique_ids_group_25_20250411_202222_raters_completed_Weinberg.csv
+2025-04-23 01:56:30,738 - INFO - Combined CSV file preview:
+2025-04-23 01:56:30,742 - INFO - 
+              name                         unique_id        rating              time completed  time taken
+0  Andrew Maudsley   DOSEESC_EM01_10.16.2017_9_24_27  Unacceptable  2025-04-19T22:29:31.437760   29.766863
+1  Andrew Maudsley  DOSEESC_EM12_01.25.2019_11_45_35    Acceptable  2025-04-19T22:29:41.097481    8.616255
+2  Andrew Maudsley  DOSEESC_JH10_12.28.2018_22_33_37    Acceptable  2025-04-19T22:29:48.189469    6.050606
+3  Andrew Maudsley   DOSEESC_EM08_11.02.2018_8_51_37  Unacceptable  2025-04-19T22:30:02.484220   13.182644
+4  Andrew Maudsley  DOSEESC_UM18_01.23.2019_17_41_42    Acceptable  2025-04-19T22:30:10.451956    6.844780
+2025-04-23 01:56:31,716 - INFO - Aggregated Ratings (first few rows):
+2025-04-23 01:56:31,718 - INFO - 
+                          unique_id      rating_1      rating_2      rating_3     consensus                                            raters
+0  DOSEESC_EM01_09.20.2017_10_18_34    Acceptable    Acceptable    Acceptable    Acceptable        [Harish Poptani, Hui-Kuo Shu, Brian Soher]
+1  DOSEESC_EM01_09.20.2017_10_21_33    Acceptable  Unacceptable    Acceptable    Acceptable        [Harish Poptani, Hui-Kuo Shu, Brian Soher]
+2  DOSEESC_EM01_09.20.2017_10_23_23    Acceptable    Acceptable          None    Acceptable                    [Andrew Maudsley, Eric Mellon]
+3  DOSEESC_EM01_09.20.2017_10_26_26  Unacceptable    Acceptable  Unacceptable  Unacceptable  [Sulaiman Sheriff, Hyunsuk Shim, Brent Weinberg]
+4  DOSEESC_EM01_09.20.2017_10_31_23    Acceptable    Acceptable          None    Acceptable                    [Andrew Maudsley, Eric Mellon]
+2025-04-23 01:56:31,720 - INFO - No 'Poor Quality' consensus labels found.
+2025-04-23 01:56:31,779 - INFO - Aggregated spectral ratings saved to 'x:\ArtifactRemovalProject\data\ratings\aggregate_data\aggregated_spectral_ratings.csv'
+2025-04-23 01:56:31,780 - INFO - Starting verification of aggregated ratings.
+2025-04-23 01:56:36,742 - INFO - Verification succeeded: All aggregated ratings match the original CSV data.
+2025-04-23 01:56:36,744 - INFO - Verification succeeded: All aggregated ratings match the individual CSV data.
+2025-04-23 01:56:36,765 - INFO - Loading spectral data from pickle file: x:\ArtifactRemovalProject\data\processed\20250411_202222\unique_ids_group_25_20250411_202222_raters.pkl
+2025-04-23 01:56:37,282 - INFO - Spectral data loaded successfully.
+2025-04-23 01:56:37,283 - INFO - Loading aggregated CSV data from: x:\ArtifactRemovalProject\data\ratings\aggregate_data\aggregated_spectral_ratings.csv
+2025-04-23 01:56:37,312 - INFO - Aggregated CSV loaded with 5257 rows.
+2025-04-23 01:56:37,317 - INFO - Consensus mapping created successfully.
+2025-04-23 01:56:37,318 - INFO - Updating spectral data with consensus ratings.
+2025-04-23 01:56:37,319 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_21_32_28; set to None.
+2025-04-23 01:56:37,320 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_33_28; set to None.
+2025-04-23 01:56:37,321 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_18_33_19; set to None.
+2025-04-23 01:56:37,322 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_30_29; set to None.
+2025-04-23 01:56:37,323 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_31_29; set to None.
+2025-04-23 01:56:37,323 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_22_34_26; set to None.
+2025-04-23 01:56:37,324 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_36_26; set to None.
+2025-04-23 01:56:37,325 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_34_25; set to None.
+2025-04-23 01:56:37,326 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_33_26; set to None.
+2025-04-23 01:56:37,327 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_10_36_16; set to None.
+2025-04-23 01:56:37,328 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_29_28; set to None.
+2025-04-23 01:56:37,329 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_20_32_27; set to None.
+2025-04-23 01:56:37,329 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_37_31; set to None.
+2025-04-23 01:56:37,330 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_9_31_19; set to None.
+2025-04-23 01:56:37,331 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_35_22; set to None.
+2025-04-23 01:56:37,332 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_10_34_21; set to None.
+2025-04-23 01:56:37,333 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_34_29; set to None.
+2025-04-23 01:56:37,334 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_10_37_18; set to None.
+2025-04-23 01:56:37,335 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_30_26; set to None.
+2025-04-23 01:56:37,336 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_39_24; set to None.
+2025-04-23 01:56:37,337 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_34_26; set to None.
+2025-04-23 01:56:37,338 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_42_22; set to None.
+2025-04-23 01:56:37,339 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_38_29; set to None.
+2025-04-23 01:56:37,340 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_33_25; set to None.
+2025-04-23 01:56:37,341 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_31_23; set to None.
+2025-04-23 01:56:37,342 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_34_30; set to None.
+2025-04-23 01:56:37,343 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_39_24; set to None.
+2025-04-23 01:56:37,344 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_44_19; set to None.
+2025-04-23 01:56:37,344 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_29_26; set to None.
+2025-04-23 01:56:37,345 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_10_29_26; set to None.
+2025-04-23 01:56:37,346 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_31_21; set to None.
+2025-04-23 01:56:37,347 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_16_30_31; set to None.
+2025-04-23 01:56:37,348 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_22_32_28; set to None.
+2025-04-23 01:56:37,349 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_33_24; set to None.
+2025-04-23 01:56:37,350 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_31_30; set to None.
+2025-04-23 01:56:37,351 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_11_38_21; set to None.
+2025-04-23 01:56:37,352 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_37_28; set to None.
+2025-04-23 01:56:37,353 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_36_29; set to None.
+2025-04-23 01:56:37,354 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_17_24_25; set to None.
+2025-04-23 01:56:37,355 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_29_29; set to None.
+2025-04-23 01:56:37,356 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_16_30_19; set to None.
+2025-04-23 01:56:37,357 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_39_31; set to None.
+2025-04-23 01:56:37,358 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_29_21; set to None.
+2025-04-23 01:56:37,359 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_12_34_20; set to None.
+2025-04-23 01:56:37,360 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_30_18; set to None.
+2025-04-23 01:56:37,361 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_31_26; set to None.
+2025-04-23 01:56:37,362 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_41_21; set to None.
+2025-04-23 01:56:37,362 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_35_19; set to None.
+2025-04-23 01:56:37,363 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_31_29; set to None.
+2025-04-23 01:56:37,364 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_32_31; set to None.
+2025-04-23 01:56:37,365 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_8_32_22; set to None.
+2025-04-23 01:56:37,366 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_38_20; set to None.
+2025-04-23 01:56:37,367 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_29_22; set to None.
+2025-04-23 01:56:37,368 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_37_19; set to None.
+2025-04-23 01:56:37,369 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_40_27; set to None.
+2025-04-23 01:56:37,370 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_10_29_22; set to None.
+2025-04-23 01:56:37,371 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_36_23; set to None.
+2025-04-23 01:56:37,372 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_33_18; set to None.
+2025-04-23 01:56:37,373 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_11_28_26; set to None.
+2025-04-23 01:56:37,374 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_40_23; set to None.
+2025-04-23 01:56:37,375 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_35_28; set to None.
+2025-04-23 01:56:37,376 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_37_19; set to None.
+2025-04-23 01:56:37,377 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_17_35_26; set to None.
+2025-04-23 01:56:37,378 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_34_28; set to None.
+2025-04-23 01:56:37,379 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_36_17; set to None.
+2025-04-23 01:56:37,380 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_30_21; set to None.
+2025-04-23 01:56:37,381 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_27_21; set to None.
+2025-04-23 01:56:37,381 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_36_25; set to None.
+2025-04-23 01:56:37,382 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_37_31; set to None.
+2025-04-23 01:56:37,384 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_36_25; set to None.
+2025-04-23 01:56:37,385 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_40_23; set to None.
+2025-04-23 01:56:37,385 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_38_26; set to None.
+2025-04-23 01:56:37,386 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_32_21; set to None.
+2025-04-23 01:56:37,387 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_35_29; set to None.
+2025-04-23 01:56:37,388 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_43_18; set to None.
+2025-04-23 01:56:37,389 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_18_35_27; set to None.
+2025-04-23 01:56:37,390 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_35_18; set to None.
+2025-04-23 01:56:37,390 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_36_25; set to None.
+2025-04-23 01:56:37,391 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_17_34_18; set to None.
+2025-04-23 01:56:37,392 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_19_33_26; set to None.
+2025-04-23 01:56:37,392 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_39_28; set to None.
+2025-04-23 01:56:37,393 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_32_29; set to None.
+2025-04-23 01:56:37,395 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_38_18; set to None.
+2025-04-23 01:56:37,396 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_16_35_30; set to None.
+2025-04-23 01:56:37,397 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_17_32_25; set to None.
+2025-04-23 01:56:37,397 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_39_30; set to None.
+2025-04-23 01:56:37,398 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_35_23; set to None.
+2025-04-23 01:56:37,399 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_27_25; set to None.
+2025-04-23 01:56:37,400 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_38_26; set to None.
+2025-04-23 01:56:37,401 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_16_35_20; set to None.
+2025-04-23 01:56:37,402 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_14_38_18; set to None.
+2025-04-23 01:56:37,403 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_8_31_19; set to None.
+2025-04-23 01:56:37,404 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_21_30_25; set to None.
+2025-04-23 01:56:37,405 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_34_30; set to None.
+2025-04-23 01:56:37,405 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_36_17; set to None.
+2025-04-23 01:56:37,406 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_29_29; set to None.
+2025-04-23 01:56:37,407 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_32_24; set to None.
+2025-04-23 01:56:37,408 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_33_24; set to None.
+2025-04-23 01:56:37,409 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_36_27; set to None.
+2025-04-23 01:56:37,410 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_32_24; set to None.
+2025-04-23 01:56:37,410 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_35_29; set to None.
+2025-04-23 01:56:37,411 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_21_34_31; set to None.
+2025-04-23 01:56:37,412 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_9_32_18; set to None.
+2025-04-23 01:56:37,413 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_28_28; set to None.
+2025-04-23 01:56:37,414 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_40_17; set to None.
+2025-04-23 01:56:37,415 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_15_33_20; set to None.
+2025-04-23 01:56:37,416 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_16_38_29; set to None.
+2025-04-23 01:56:37,417 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_40_23; set to None.
+2025-04-23 01:56:37,418 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_23_25; set to None.
+2025-04-23 01:56:37,419 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_39_26; set to None.
+2025-04-23 01:56:37,420 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_18_35_31; set to None.
+2025-04-23 01:56:37,421 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_40_18; set to None.
+2025-04-23 01:56:37,421 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_19_38_20; set to None.
+2025-04-23 01:56:37,422 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_10_38_20; set to None.
+2025-04-23 01:56:37,423 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_36_30; set to None.
+2025-04-23 01:56:37,424 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_9_33_21; set to None.
+2025-04-23 01:56:37,425 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_9_32_22; set to None.
+2025-04-23 01:56:37,426 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_10_35_18; set to None.
+2025-04-23 01:56:37,427 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_33_26; set to None.
+2025-04-23 01:56:37,428 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_19_31_28; set to None.
+2025-04-23 01:56:37,429 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_32_28; set to None.
+2025-04-23 01:56:37,430 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_11_31_24; set to None.
+2025-04-23 01:56:37,430 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_32_28; set to None.
+2025-04-23 01:56:37,431 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_29_24; set to None.
+2025-04-23 01:56:37,432 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_14_34_18; set to None.
+2025-04-23 01:56:37,433 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_35_27; set to None.
+2025-04-23 01:56:37,433 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_35_30; set to None.
+2025-04-23 01:56:37,434 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_31_28; set to None.
+2025-04-23 01:56:37,435 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_35_19; set to None.
+2025-04-23 01:56:37,436 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_10_31_21; set to None.
+2025-04-23 01:56:37,437 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_41_26; set to None.
+2025-04-23 01:56:37,438 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_15_38_30; set to None.
+2025-04-23 01:56:37,439 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_37_30; set to None.
+2025-04-23 01:56:37,440 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_32_27; set to None.
+2025-04-23 01:56:37,441 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_35_29; set to None.
+2025-04-23 01:56:37,441 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_22_30_28; set to None.
+2025-04-23 01:56:37,442 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_38_21; set to None.
+2025-04-23 01:56:37,443 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_9_27_22; set to None.
+2025-04-23 01:56:37,444 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_37_27; set to None.
+2025-04-23 01:56:37,445 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_28_25; set to None.
+2025-04-23 01:56:37,445 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_18_30_27; set to None.
+2025-04-23 01:56:37,446 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_43_18; set to None.
+2025-04-23 01:56:37,447 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_17_32_18; set to None.
+2025-04-23 01:56:37,448 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_20_35_25; set to None.
+2025-04-23 01:56:37,449 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_11_28_23; set to None.
+2025-04-23 01:56:37,450 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_35_25; set to None.
+2025-04-23 01:56:37,450 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_9_33_24; set to None.
+2025-04-23 01:56:37,451 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_32_23; set to None.
+2025-04-23 01:56:37,452 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_34_18; set to None.
+2025-04-23 01:56:37,453 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_8_30_22; set to None.
+2025-04-23 01:56:37,454 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_8_32_22; set to None.
+2025-04-23 01:56:37,455 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_37_24; set to None.
+2025-04-23 01:56:37,456 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_19_32_28; set to None.
+2025-04-23 01:56:37,456 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_22_35_27; set to None.
+2025-04-23 01:56:37,457 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_30_19; set to None.
+2025-04-23 01:56:37,458 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_12_36_21; set to None.
+2025-04-23 01:56:37,459 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_21_30_29; set to None.
+2025-04-23 01:56:37,460 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_11_33_20; set to None.
+2025-04-23 01:56:37,461 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_10_28_22; set to None.
+2025-04-23 01:56:37,462 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_37_24; set to None.
+2025-04-23 01:56:37,463 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_19_34_27; set to None.
+2025-04-23 01:56:37,463 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_8_28_25; set to None.
+2025-04-23 01:56:37,465 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_14_35_17; set to None.
+2025-04-23 01:56:37,466 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_11_34_21; set to None.
+2025-04-23 01:56:37,466 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_11_36_18; set to None.
+2025-04-23 01:56:37,467 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_11_35_22; set to None.
+2025-04-23 01:56:37,468 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_36_24; set to None.
+2025-04-23 01:56:37,470 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_16_35_26; set to None.
+2025-04-23 01:56:37,470 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_38_24; set to None.
+2025-04-23 01:56:37,471 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_28_28; set to None.
+2025-04-23 01:56:37,472 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_27_28; set to None.
+2025-04-23 01:56:37,473 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_38_30; set to None.
+2025-04-23 01:56:37,474 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_31_22; set to None.
+2025-04-23 01:56:37,475 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_32_24; set to None.
+2025-04-23 01:56:37,476 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_35_31; set to None.
+2025-04-23 01:56:37,477 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_30_21; set to None.
+2025-04-23 01:56:37,478 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_38_22; set to None.
+2025-04-23 01:56:37,478 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_40_18; set to None.
+2025-04-23 01:56:37,479 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_10_32_22; set to None.
+2025-04-23 01:56:37,480 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_11_30_23; set to None.
+2025-04-23 01:56:37,481 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_32_28; set to None.
+2025-04-23 01:56:37,482 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_12_34_17; set to None.
+2025-04-23 01:56:37,483 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_38_28; set to None.
+2025-04-23 01:56:37,483 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_36_21; set to None.
+2025-04-23 01:56:37,484 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_15_40_27; set to None.
+2025-04-23 01:56:37,485 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_16_31_28; set to None.
+2025-04-23 01:56:37,486 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_33_22; set to None.
+2025-04-23 01:56:37,487 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_44_19; set to None.
+2025-04-23 01:56:37,488 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_06.18.2018_13_39_20; set to None.
+2025-04-23 01:56:37,489 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_27_29; set to None.
+2025-04-23 01:56:37,490 - WARNING - No consensus rating found for Unique ID DOSEESC_JH02_05.22.2018_10_34_19; set to None.
+2025-04-23 01:56:37,491 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_17_31_29; set to None.
+2025-04-23 01:56:37,492 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_20_31_27; set to None.
+2025-04-23 01:56:37,492 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_33_23; set to None.
+2025-04-23 01:56:37,493 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_9_30_21; set to None.
+2025-04-23 01:56:37,494 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_31_18; set to None.
+2025-04-23 01:56:37,495 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_13_31_31; set to None.
+2025-04-23 01:56:37,496 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_10_31_25; set to None.
+2025-04-23 01:56:37,497 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_14_28_31; set to None.
+2025-04-23 01:56:37,498 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_31_22; set to None.
+2025-04-23 01:56:37,498 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_10_28_21; set to None.
+2025-04-23 01:56:37,500 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_13_37_23; set to None.
+2025-04-23 01:56:37,500 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_12_30_20; set to None.
+2025-04-23 01:56:37,501 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_14_30_25; set to None.
+2025-04-23 01:56:37,502 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.05.2018_17_31_29; set to None.
+2025-04-23 01:56:37,503 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_11_33_23; set to None.
+2025-04-23 01:56:37,504 - WARNING - No consensus rating found for Unique ID DOSEESC_UM03_02.28.2018_21_34_26; set to None.
+2025-04-23 01:56:37,505 - INFO - Spectral data updated with consensus ratings.
+2025-04-23 01:56:37,508 - INFO - Displaying 10 random spectral entries for verification.
+2025-04-23 01:56:37,510 - INFO - Unique ID: DOSEESC_EM15_06.11.2019_21_30_40
+2025-04-23 01:56:37,511 - INFO - Spectral Data Consensus Rating: Unacceptable
+2025-04-23 01:56:37,512 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,514 - INFO -                        unique_id     rating_1     rating_2     rating_3    consensus                                                 raters
+DOSEESC_EM15_06.11.2019_21_30_40 Unacceptable Unacceptable Unacceptable Unacceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,515 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,517 - INFO - Unique ID: DOSEESC_EM14_06.10.2019_17_42_41
+2025-04-23 01:56:37,518 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,519 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,521 - INFO -                        unique_id   rating_1   rating_2   rating_3  consensus                                                 raters
+DOSEESC_EM14_06.10.2019_17_42_41 Acceptable Acceptable Acceptable Acceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,522 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,524 - INFO - Unique ID: DOSEESC_EM14_06.10.2019_9_39_36
+2025-04-23 01:56:37,525 - INFO - Spectral Data Consensus Rating: Unacceptable
+2025-04-23 01:56:37,526 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,527 - INFO -                       unique_id     rating_1     rating_2   rating_3    consensus                                           raters
+DOSEESC_EM14_06.10.2019_9_39_36 Unacceptable Unacceptable Acceptable Unacceptable ['Harish Poptani', 'Hui-Kuo Shu', 'Brian Soher']
+2025-04-23 01:56:37,528 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,530 - INFO - Unique ID: rGBM_006_08_01_2023_08.01.2023_17_40_22
+2025-04-23 01:56:37,531 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,532 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,534 - INFO -                               unique_id   rating_1   rating_2   rating_3  consensus                                                 raters
+rGBM_006_08_01_2023_08.01.2023_17_40_22 Acceptable Acceptable Acceptable Acceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,534 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,535 - INFO - Unique ID: rGBM_006_05_24_2023_05.24.2023_22_28_24
+2025-04-23 01:56:37,536 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,537 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,540 - INFO -                               unique_id   rating_1   rating_2 rating_3  consensus                             raters
+rGBM_006_05_24_2023_05.24.2023_22_28_24 Acceptable Acceptable      NaN Acceptable ['Andrew Maudsley', 'Eric Mellon']
+2025-04-23 01:56:37,541 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,543 - INFO - Unique ID: wholeGBM_004_07_03_2023_07.03.2023_26_37_33
+2025-04-23 01:56:37,544 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,545 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,547 - INFO -                                   unique_id   rating_1   rating_2   rating_3  consensus                                                 raters
+wholeGBM_004_07_03_2023_07.03.2023_26_37_33 Acceptable Acceptable Acceptable Acceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,548 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,550 - INFO - Unique ID: DOSEESC_EM01_09.20.2017_13_16_26
+2025-04-23 01:56:37,550 - INFO - Spectral Data Consensus Rating: Unacceptable
+2025-04-23 01:56:37,551 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,553 - INFO -                        unique_id     rating_1     rating_2 rating_3    consensus                             raters
+DOSEESC_EM01_09.20.2017_13_16_26 Unacceptable Unacceptable      NaN Unacceptable ['Andrew Maudsley', 'Eric Mellon']
+2025-04-23 01:56:37,554 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,556 - INFO - Unique ID: DOSEESC_JH10_12.28.2018_18_20_41
+2025-04-23 01:56:37,557 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,557 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,559 - INFO -                        unique_id   rating_1   rating_2 rating_3  consensus                             raters
+DOSEESC_JH10_12.28.2018_18_20_41 Acceptable Acceptable      NaN Acceptable ['Andrew Maudsley', 'Eric Mellon']
+2025-04-23 01:56:37,560 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,562 - INFO - Unique ID: rGBM_001_06_30_2023_06.30.2023_19_36_42
+2025-04-23 01:56:37,563 - INFO - Spectral Data Consensus Rating: Acceptable
+2025-04-23 01:56:37,564 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,566 - INFO -                               unique_id   rating_1   rating_2   rating_3  consensus                                                 raters
+rGBM_001_06_30_2023_06.30.2023_19_36_42 Acceptable Acceptable Acceptable Acceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,567 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,569 - INFO - Unique ID: DOSEESC_JH10_12.05.2018_15_25_35
+2025-04-23 01:56:37,570 - INFO - Spectral Data Consensus Rating: Unacceptable
+2025-04-23 01:56:37,571 - INFO - Aggregated CSV Row:
+2025-04-23 01:56:37,573 - INFO -                        unique_id     rating_1     rating_2     rating_3    consensus                                                 raters
+DOSEESC_JH10_12.05.2018_15_25_35 Unacceptable Unacceptable Unacceptable Unacceptable ['Sulaiman Sheriff', 'Hyunsuk Shim', 'Brent Weinberg']
+2025-04-23 01:56:37,574 - INFO - --------------------------------------------------
+2025-04-23 01:56:37,587 - INFO - Reserved 942 / 5464 entries (17.2%) for the test set.
+2025-04-23 01:56:39,192 - INFO - Train/test pickles written successfully

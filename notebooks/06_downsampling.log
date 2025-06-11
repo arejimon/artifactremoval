@@ -1,0 +1,1077 @@
+2025-02-26 13:45:20,270 - INFO - Starting downsample batch process...
+2025-02-26 13:45:26,094 - INFO - Found 59 subjects for downsampling.
+2025-02-26 13:45:26,095 - INFO - Processing subject: DOSEESC_EM01
+2025-02-26 13:45:26,134 - INFO - Processing downsampling for subject DOSEESC_EM01, study 09/20/2017 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017
+2025-02-26 13:45:26,164 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\06_downsample.
+2025-02-26 13:45:26,837 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017
+2025-02-26 13:45:27,551 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:27,568 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:27,603 - INFO - Saved downsampled files.
+2025-02-26 13:45:27,610 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:27,613 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:27,622 - INFO - Processing downsampling for subject DOSEESC_EM01, study 10/16/2017 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017
+2025-02-26 13:45:27,651 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\06_downsample.
+2025-02-26 13:45:28,319 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017
+2025-02-26 13:45:28,743 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:28,759 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:28,925 - INFO - Saved downsampled files.
+2025-02-26 13:45:28,932 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:28,934 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:28,942 - INFO - Processing subject: DOSEESC_EM02
+2025-02-26 13:45:28,982 - INFO - Processing downsampling for subject DOSEESC_EM02, study 10/19/2017 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017
+2025-02-26 13:45:29,011 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\06_downsample.
+2025-02-26 13:45:30,084 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017
+2025-02-26 13:45:30,549 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:30,565 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:30,907 - INFO - Saved downsampled files.
+2025-02-26 13:45:30,914 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:30,916 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:30,922 - INFO - Processing downsampling for subject DOSEESC_EM02, study 11/14/2017 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017
+2025-02-26 13:45:30,952 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\06_downsample.
+2025-02-26 13:45:32,155 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017
+2025-02-26 13:45:32,576 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:32,591 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:32,624 - INFO - Saved downsampled files.
+2025-02-26 13:45:32,631 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:32,633 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:32,641 - INFO - Processing subject: DOSEESC_EM03
+2025-02-26 13:45:32,652 - INFO - Processing downsampling for subject DOSEESC_EM03, study 12/12/2017 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017
+2025-02-26 13:45:32,679 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\06_downsample.
+2025-02-26 13:45:33,677 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017
+2025-02-26 13:45:34,399 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:34,415 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:34,452 - INFO - Saved downsampled files.
+2025-02-26 13:45:34,460 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:34,462 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:34,472 - INFO - Processing subject: DOSEESC_EM04
+2025-02-26 13:45:34,514 - INFO - Processing downsampling for subject DOSEESC_EM04, study 01/10/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018
+2025-02-26 13:45:34,542 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\06_downsample.
+2025-02-26 13:45:35,687 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018
+2025-02-26 13:45:36,110 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:36,126 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:36,162 - INFO - Saved downsampled files.
+2025-02-26 13:45:36,168 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:36,170 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:36,178 - INFO - Processing downsampling for subject DOSEESC_EM04, study 02/07/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018
+2025-02-26 13:45:36,208 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\06_downsample.
+2025-02-26 13:45:37,317 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018
+2025-02-26 13:45:37,711 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:37,729 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:37,762 - INFO - Saved downsampled files.
+2025-02-26 13:45:37,768 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:37,771 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:37,779 - INFO - Processing subject: DOSEESC_UM02
+2025-02-26 13:45:37,791 - INFO - Processing downsampling for subject DOSEESC_UM02, study 01/22/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018
+2025-02-26 13:45:37,821 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\06_downsample.
+2025-02-26 13:45:39,264 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018
+2025-02-26 13:45:40,011 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:40,026 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:40,064 - INFO - Saved downsampled files.
+2025-02-26 13:45:40,072 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:40,074 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:40,091 - INFO - Processing subject: DOSEESC_EM05
+2025-02-26 13:45:40,136 - INFO - Processing downsampling for subject DOSEESC_EM05, study 01/31/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018
+2025-02-26 13:45:40,165 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\06_downsample.
+2025-02-26 13:45:41,314 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018
+2025-02-26 13:45:41,724 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:41,740 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:41,776 - INFO - Saved downsampled files.
+2025-02-26 13:45:41,782 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:41,783 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:41,792 - INFO - Processing downsampling for subject DOSEESC_EM05, study 02/23/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018
+2025-02-26 13:45:41,823 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\06_downsample.
+2025-02-26 13:45:42,898 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018
+2025-02-26 13:45:43,316 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:43,332 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:43,366 - INFO - Saved downsampled files.
+2025-02-26 13:45:43,372 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:43,375 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:43,383 - INFO - Processing subject: DOSEESC_UM03
+2025-02-26 13:45:43,436 - INFO - Processing downsampling for subject DOSEESC_UM03, study 02/05/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018
+2025-02-26 13:45:43,465 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\06_downsample.
+2025-02-26 13:45:44,836 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018
+2025-02-26 13:45:45,529 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:45,545 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:45,581 - INFO - Saved downsampled files.
+2025-02-26 13:45:45,586 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:45,589 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:45,601 - INFO - Processing downsampling for subject DOSEESC_UM03, study 02/28/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018
+2025-02-26 13:45:45,630 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\06_downsample.
+2025-02-26 13:45:47,125 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018
+2025-02-26 13:45:47,832 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:47,849 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:47,883 - INFO - Saved downsampled files.
+2025-02-26 13:45:47,889 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:47,892 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:47,904 - INFO - Processing subject: DOSEESC_EM06
+2025-02-26 13:45:47,938 - INFO - Processing downsampling for subject DOSEESC_EM06, study 03/19/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018
+2025-02-26 13:45:47,967 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\06_downsample.
+2025-02-26 13:45:49,038 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018
+2025-02-26 13:45:49,441 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:49,457 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:49,803 - INFO - Saved downsampled files.
+2025-02-26 13:45:49,809 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:49,812 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:49,820 - INFO - Processing downsampling for subject DOSEESC_EM06, study 04/13/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018
+2025-02-26 13:45:49,850 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\06_downsample.
+2025-02-26 13:45:51,122 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018
+2025-02-26 13:45:51,878 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:51,894 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:51,928 - INFO - Saved downsampled files.
+2025-02-26 13:45:51,934 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:51,937 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:51,946 - INFO - Processing subject: DOSEESC_UM04
+2025-02-26 13:45:51,995 - INFO - Processing downsampling for subject DOSEESC_UM04, study 03/28/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018
+2025-02-26 13:45:52,022 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\06_downsample.
+2025-02-26 13:45:53,376 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018
+2025-02-26 13:45:54,052 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:54,068 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:54,104 - INFO - Saved downsampled files.
+2025-02-26 13:45:54,109 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:54,112 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:54,123 - INFO - Processing downsampling for subject DOSEESC_UM04, study 04/18/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018
+2025-02-26 13:45:54,152 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\06_downsample.
+2025-02-26 13:45:55,636 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018
+2025-02-26 13:45:56,727 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:56,743 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:56,778 - INFO - Saved downsampled files.
+2025-02-26 13:45:56,785 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:56,787 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:56,799 - INFO - Processing subject: DOSEESC_UM05
+2025-02-26 13:45:56,853 - INFO - Processing downsampling for subject DOSEESC_UM05, study 05/02/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018
+2025-02-26 13:45:56,882 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\06_downsample.
+2025-02-26 13:45:58,236 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018
+2025-02-26 13:45:58,930 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:45:58,946 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:45:58,983 - INFO - Saved downsampled files.
+2025-02-26 13:45:58,989 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:45:58,991 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:45:59,003 - INFO - Processing downsampling for subject DOSEESC_UM05, study 05/30/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018
+2025-02-26 13:45:59,032 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\06_downsample.
+2025-02-26 13:46:00,462 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018
+2025-02-26 13:46:01,180 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:01,196 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:01,232 - INFO - Saved downsampled files.
+2025-02-26 13:46:01,238 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:01,241 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:01,253 - INFO - Processing subject: DOSEESC_JH01
+2025-02-26 13:46:01,268 - INFO - Processing downsampling for subject DOSEESC_JH01, study 05/18/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018
+2025-02-26 13:46:01,296 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\06_downsample.
+2025-02-26 13:46:02,572 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018
+2025-02-26 13:46:02,993 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:03,010 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:03,043 - INFO - Saved downsampled files.
+2025-02-26 13:46:03,049 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:03,051 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:03,061 - INFO - Processing subject: DOSEESC_JH02
+2025-02-26 13:46:03,105 - INFO - Processing downsampling for subject DOSEESC_JH02, study 05/22/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018
+2025-02-26 13:46:03,133 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\06_downsample.
+2025-02-26 13:46:04,299 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018
+2025-02-26 13:46:04,721 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:04,736 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:04,767 - INFO - Saved downsampled files.
+2025-02-26 13:46:04,772 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:04,775 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:04,785 - INFO - Processing downsampling for subject DOSEESC_JH02, study 06/18/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018
+2025-02-26 13:46:04,813 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\06_downsample.
+2025-02-26 13:46:05,964 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018
+2025-02-26 13:46:06,396 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:06,412 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:06,444 - INFO - Saved downsampled files.
+2025-02-26 13:46:06,449 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:06,452 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:06,463 - INFO - Processing subject: DOSEESC_JH03
+2025-02-26 13:46:06,508 - INFO - Processing downsampling for subject DOSEESC_JH03, study 07/06/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018
+2025-02-26 13:46:06,536 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\06_downsample.
+2025-02-26 13:46:07,862 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018
+2025-02-26 13:46:08,260 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:08,275 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:08,307 - INFO - Saved downsampled files.
+2025-02-26 13:46:08,313 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:08,315 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:08,324 - INFO - Processing downsampling for subject DOSEESC_JH03, study 08/03/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018
+2025-02-26 13:46:08,354 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\06_downsample.
+2025-02-26 13:46:09,600 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018
+2025-02-26 13:46:10,004 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:10,020 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:10,051 - INFO - Saved downsampled files.
+2025-02-26 13:46:10,057 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:10,059 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:10,069 - INFO - Processing subject: DOSEESC_JH04
+2025-02-26 13:46:10,082 - INFO - Processing downsampling for subject DOSEESC_JH04, study 07/06/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018
+2025-02-26 13:46:10,111 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\06_downsample.
+2025-02-26 13:46:11,272 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018
+2025-02-26 13:46:11,979 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:11,996 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:12,025 - INFO - Saved downsampled files.
+2025-02-26 13:46:12,031 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:12,033 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:12,041 - INFO - Processing subject: DOSEESC_UM06
+2025-02-26 13:46:12,075 - INFO - Processing downsampling for subject DOSEESC_UM06, study 05/23/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018
+2025-02-26 13:46:12,103 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\06_downsample.
+2025-02-26 13:46:13,701 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018
+2025-02-26 13:46:14,412 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:14,428 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:14,462 - INFO - Saved downsampled files.
+2025-02-26 13:46:14,468 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:14,470 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:14,481 - INFO - Processing downsampling for subject DOSEESC_UM06, study 06/18/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018
+2025-02-26 13:46:14,507 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\06_downsample.
+2025-02-26 13:46:15,985 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018
+2025-02-26 13:46:17,014 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:17,031 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:17,065 - INFO - Saved downsampled files.
+2025-02-26 13:46:17,071 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:17,074 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:17,087 - INFO - Processing subject: DOSEESC_UM07
+2025-02-26 13:46:17,137 - INFO - Processing downsampling for subject DOSEESC_UM07, study 06/11/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018
+2025-02-26 13:46:17,166 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\06_downsample.
+2025-02-26 13:46:18,589 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018
+2025-02-26 13:46:19,572 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:19,588 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:19,623 - INFO - Saved downsampled files.
+2025-02-26 13:46:19,628 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:19,631 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:19,642 - INFO - Processing downsampling for subject DOSEESC_UM07, study 07/09/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018
+2025-02-26 13:46:19,672 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\06_downsample.
+2025-02-26 13:46:21,168 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018
+2025-02-26 13:46:21,818 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:21,834 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:21,868 - INFO - Saved downsampled files.
+2025-02-26 13:46:21,874 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:21,876 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:21,889 - INFO - Processing subject: DOSEESC_UM08
+2025-02-26 13:46:21,940 - INFO - Processing downsampling for subject DOSEESC_UM08, study 06/13/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018
+2025-02-26 13:46:21,969 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\06_downsample.
+2025-02-26 13:46:23,436 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018
+2025-02-26 13:46:24,522 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:24,538 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:24,573 - INFO - Saved downsampled files.
+2025-02-26 13:46:24,579 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:24,582 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:24,593 - INFO - Processing downsampling for subject DOSEESC_UM08, study 07/11/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018
+2025-02-26 13:46:24,622 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\06_downsample.
+2025-02-26 13:46:26,087 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018
+2025-02-26 13:46:26,770 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:26,785 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:26,820 - INFO - Saved downsampled files.
+2025-02-26 13:46:26,826 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:26,828 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:26,839 - INFO - Processing subject: DOSEESC_EM07
+2025-02-26 13:46:26,925 - INFO - Processing downsampling for subject DOSEESC_EM07, study 06/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018
+2025-02-26 13:46:26,951 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\06_downsample.
+2025-02-26 13:46:28,108 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018
+2025-02-26 13:46:28,857 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:28,872 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:28,908 - INFO - Saved downsampled files.
+2025-02-26 13:46:28,914 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:28,917 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:28,925 - INFO - Processing downsampling for subject DOSEESC_EM07, study 07/16/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018
+2025-02-26 13:46:28,951 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\06_downsample.
+2025-02-26 13:46:30,352 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018
+2025-02-26 13:46:30,761 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:30,776 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:30,810 - INFO - Saved downsampled files.
+2025-02-26 13:46:30,815 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:30,817 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:30,825 - INFO - Processing downsampling for subject DOSEESC_EM07, study 06/26/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018
+2025-02-26 13:46:30,853 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\06_downsample.
+2025-02-26 13:46:31,939 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018
+2025-02-26 13:46:32,397 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:32,413 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:32,447 - INFO - Saved downsampled files.
+2025-02-26 13:46:32,452 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:32,455 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:32,461 - INFO - Processing subject: DOSEESC_UM09
+2025-02-26 13:46:32,506 - INFO - Processing downsampling for subject DOSEESC_UM09, study 06/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018
+2025-02-26 13:46:32,532 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\06_downsample.
+2025-02-26 13:46:34,008 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018
+2025-02-26 13:46:34,660 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:34,676 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:34,710 - INFO - Saved downsampled files.
+2025-02-26 13:46:34,716 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:34,719 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:34,731 - INFO - Processing downsampling for subject DOSEESC_UM09, study 07/16/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018
+2025-02-26 13:46:34,758 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\06_downsample.
+2025-02-26 13:46:36,441 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018
+2025-02-26 13:46:37,117 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:37,133 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:37,169 - INFO - Saved downsampled files.
+2025-02-26 13:46:37,175 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:37,177 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:37,190 - INFO - Processing subject: DOSEESC_UM09_70
+2025-02-26 13:46:37,207 - INFO - Processing downsampling for subject DOSEESC_UM09_70, study 06/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018
+2025-02-26 13:46:37,236 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\06_downsample.
+2025-02-26 13:46:38,669 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018
+2025-02-26 13:46:39,646 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:39,661 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:39,696 - INFO - Saved downsampled files.
+2025-02-26 13:46:39,702 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:39,705 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:39,716 - INFO - Processing subject: DOSEESC_UM10
+2025-02-26 13:46:39,848 - INFO - Processing downsampling for subject DOSEESC_UM10, study 07/11/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018
+2025-02-26 13:46:39,877 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\06_downsample.
+2025-02-26 13:46:41,584 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018
+2025-02-26 13:46:42,229 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:42,245 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:42,280 - INFO - Saved downsampled files.
+2025-02-26 13:46:42,285 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:42,288 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:42,299 - INFO - Processing downsampling for subject DOSEESC_UM10, study 08/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018
+2025-02-26 13:46:42,327 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\06_downsample.
+2025-02-26 13:46:43,745 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018
+2025-02-26 13:46:44,387 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:44,403 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:44,438 - INFO - Saved downsampled files.
+2025-02-26 13:46:44,443 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:44,446 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:44,457 - INFO - Processing subject: DOSEESC_UM13
+2025-02-26 13:46:44,522 - INFO - Processing downsampling for subject DOSEESC_UM13, study 08/22/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018
+2025-02-26 13:46:44,551 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\06_downsample.
+2025-02-26 13:46:46,125 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018
+2025-02-26 13:46:46,779 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:46,795 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:46,830 - INFO - Saved downsampled files.
+2025-02-26 13:46:46,835 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:46,837 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:46,848 - INFO - Processing downsampling for subject DOSEESC_UM13, study 09/17/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018
+2025-02-26 13:46:46,878 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\06_downsample.
+2025-02-26 13:46:48,385 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018
+2025-02-26 13:46:49,379 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:49,395 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:49,430 - INFO - Saved downsampled files.
+2025-02-26 13:46:49,435 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:49,438 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:49,449 - INFO - Processing subject: DOSEESC_JH07
+2025-02-26 13:46:49,507 - INFO - Processing downsampling for subject DOSEESC_JH07, study 08/27/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018
+2025-02-26 13:46:49,535 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\06_downsample.
+2025-02-26 13:46:50,765 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018
+2025-02-26 13:46:51,172 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:51,189 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:51,220 - INFO - Saved downsampled files.
+2025-02-26 13:46:51,226 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:51,229 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:51,238 - INFO - Processing downsampling for subject DOSEESC_JH07, study 09/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018
+2025-02-26 13:46:51,269 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\06_downsample.
+2025-02-26 13:46:52,396 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018
+2025-02-26 13:46:53,129 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:53,146 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:53,175 - INFO - Saved downsampled files.
+2025-02-26 13:46:53,181 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:53,184 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:53,192 - INFO - Processing subject: DOSEESC_UM14
+2025-02-26 13:46:53,253 - INFO - Processing downsampling for subject DOSEESC_UM14, study 10/01/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018
+2025-02-26 13:46:53,281 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\06_downsample.
+2025-02-26 13:46:54,593 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018
+2025-02-26 13:46:55,236 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:55,252 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:55,288 - INFO - Saved downsampled files.
+2025-02-26 13:46:55,293 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:55,295 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:55,308 - INFO - Processing downsampling for subject DOSEESC_UM14, study 10/22/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018
+2025-02-26 13:46:55,337 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\06_downsample.
+2025-02-26 13:46:56,882 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018
+2025-02-26 13:46:57,864 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:46:57,881 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:46:57,948 - INFO - Saved downsampled files.
+2025-02-26 13:46:57,953 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:46:57,955 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:46:57,968 - INFO - Processing subject: DOSEESC_UM15
+2025-02-26 13:46:58,032 - INFO - Processing downsampling for subject DOSEESC_UM15, study 10/31/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018
+2025-02-26 13:46:58,060 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\06_downsample.
+2025-02-26 13:46:59,391 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018
+2025-02-26 13:47:00,071 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:00,087 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:00,124 - INFO - Saved downsampled files.
+2025-02-26 13:47:00,130 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:00,133 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:00,144 - INFO - Processing downsampling for subject DOSEESC_UM15, study 11/28/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018
+2025-02-26 13:47:00,172 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\06_downsample.
+2025-02-26 13:47:01,833 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018
+2025-02-26 13:47:02,826 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:02,842 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:02,876 - INFO - Saved downsampled files.
+2025-02-26 13:47:02,882 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:02,884 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:02,897 - INFO - Processing subject: DOSEESC_EM08
+2025-02-26 13:47:02,912 - INFO - Processing downsampling for subject DOSEESC_EM08, study 11/02/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018
+2025-02-26 13:47:02,941 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\06_downsample.
+2025-02-26 13:47:04,063 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018
+2025-02-26 13:47:04,794 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:04,810 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:04,845 - INFO - Saved downsampled files.
+2025-02-26 13:47:04,851 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:04,854 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:04,861 - INFO - Processing subject: DOSEESC_UM16
+2025-02-26 13:47:04,927 - INFO - Processing downsampling for subject DOSEESC_UM16, study 11/14/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018
+2025-02-26 13:47:04,956 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\06_downsample.
+2025-02-26 13:47:06,444 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018
+2025-02-26 13:47:07,108 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:07,125 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:07,161 - INFO - Saved downsampled files.
+2025-02-26 13:47:07,167 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:07,169 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:07,182 - INFO - Processing downsampling for subject DOSEESC_UM16, study 12/05/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018
+2025-02-26 13:47:07,213 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\06_downsample.
+2025-02-26 13:47:08,749 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018
+2025-02-26 13:47:09,388 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:09,404 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:09,438 - INFO - Saved downsampled files.
+2025-02-26 13:47:09,444 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:09,446 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:09,458 - INFO - Processing subject: DOSEESC_EM09
+2025-02-26 13:47:09,511 - INFO - Processing downsampling for subject DOSEESC_EM09, study 11/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018
+2025-02-26 13:47:09,540 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\06_downsample.
+2025-02-26 13:47:10,771 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018
+2025-02-26 13:47:11,196 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:11,213 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:11,248 - INFO - Saved downsampled files.
+2025-02-26 13:47:11,253 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:11,255 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:11,266 - INFO - Processing downsampling for subject DOSEESC_EM09, study 12/17/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018
+2025-02-26 13:47:11,294 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\06_downsample.
+2025-02-26 13:47:12,468 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018
+2025-02-26 13:47:12,890 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:12,905 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:12,955 - INFO - Saved downsampled files.
+2025-02-26 13:47:12,960 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:12,963 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:12,971 - INFO - Processing subject: DOSEESC_JH10
+2025-02-26 13:47:13,022 - INFO - Processing downsampling for subject DOSEESC_JH10, study 12/05/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018
+2025-02-26 13:47:13,049 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\06_downsample.
+2025-02-26 13:47:14,212 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018
+2025-02-26 13:47:14,649 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:14,664 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:14,697 - INFO - Saved downsampled files.
+2025-02-26 13:47:14,703 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:14,706 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:14,715 - INFO - Processing downsampling for subject DOSEESC_JH10, study 12/28/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018
+2025-02-26 13:47:14,745 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\06_downsample.
+2025-02-26 13:47:15,876 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018
+2025-02-26 13:47:16,635 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:16,651 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:16,683 - INFO - Saved downsampled files.
+2025-02-26 13:47:16,690 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:16,692 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:16,701 - INFO - Processing subject: DOSEESC_EM10
+2025-02-26 13:47:16,747 - INFO - Processing downsampling for subject DOSEESC_EM10, study 12/20/2018 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018
+2025-02-26 13:47:16,775 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\06_downsample.
+2025-02-26 13:47:18,242 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018
+2025-02-26 13:47:18,667 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:18,682 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:18,717 - INFO - Saved downsampled files.
+2025-02-26 13:47:18,723 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:18,726 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:18,734 - INFO - Processing downsampling for subject DOSEESC_EM10, study 01/16/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019
+2025-02-26 13:47:18,763 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\06_downsample.
+2025-02-26 13:47:19,887 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019
+2025-02-26 13:47:20,621 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:20,637 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:20,672 - INFO - Saved downsampled files.
+2025-02-26 13:47:20,679 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:20,680 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:20,690 - INFO - Processing subject: DOSEESC_EM11
+2025-02-26 13:47:20,723 - INFO - Processing downsampling for subject DOSEESC_EM11, study 01/03/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019
+2025-02-26 13:47:20,752 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\06_downsample.
+2025-02-26 13:47:21,824 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019
+2025-02-26 13:47:22,268 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:22,283 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:22,318 - INFO - Saved downsampled files.
+2025-02-26 13:47:22,324 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:22,327 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:22,335 - INFO - Processing downsampling for subject DOSEESC_EM11, study 01/24/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019
+2025-02-26 13:47:22,363 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\06_downsample.
+2025-02-26 13:47:23,878 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019
+2025-02-26 13:47:24,298 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:24,315 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:24,350 - INFO - Saved downsampled files.
+2025-02-26 13:47:24,356 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:24,358 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:24,367 - INFO - Processing subject: DOSEESC_UM17
+2025-02-26 13:47:24,383 - INFO - Processing downsampling for subject DOSEESC_UM17, study 01/07/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019
+2025-02-26 13:47:24,412 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\06_downsample.
+2025-02-26 13:47:25,870 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019
+2025-02-26 13:47:26,606 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:26,622 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:26,658 - INFO - Saved downsampled files.
+2025-02-26 13:47:26,663 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:26,666 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:26,676 - INFO - Processing subject: DOSEESC_UM18
+2025-02-26 13:47:26,785 - INFO - Processing downsampling for subject DOSEESC_UM18, study 01/23/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019
+2025-02-26 13:47:26,814 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\06_downsample.
+2025-02-26 13:47:28,273 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019
+2025-02-26 13:47:29,234 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:29,250 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:29,286 - INFO - Saved downsampled files.
+2025-02-26 13:47:29,292 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:29,295 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:29,307 - INFO - Processing downsampling for subject DOSEESC_UM18, study 02/18/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019
+2025-02-26 13:47:29,336 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\06_downsample.
+2025-02-26 13:47:30,792 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019
+2025-02-26 13:47:31,469 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:31,486 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:31,521 - INFO - Saved downsampled files.
+2025-02-26 13:47:31,527 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:31,529 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:31,539 - INFO - Processing subject: DOSEESC_EM12
+2025-02-26 13:47:31,643 - INFO - Processing downsampling for subject DOSEESC_EM12, study 01/25/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019
+2025-02-26 13:47:31,673 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\06_downsample.
+2025-02-26 13:47:32,771 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019
+2025-02-26 13:47:33,490 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:33,506 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:33,541 - INFO - Saved downsampled files.
+2025-02-26 13:47:33,547 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:33,549 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:33,558 - INFO - Processing downsampling for subject DOSEESC_EM12, study 03/07/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019
+2025-02-26 13:47:33,586 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\06_downsample.
+2025-02-26 13:47:34,962 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019
+2025-02-26 13:47:35,392 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:35,408 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:35,443 - INFO - Saved downsampled files.
+2025-02-26 13:47:35,449 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:35,452 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:35,458 - INFO - Processing downsampling for subject DOSEESC_EM12, study 02/12/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019
+2025-02-26 13:47:35,487 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\06_downsample.
+2025-02-26 13:47:36,559 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019
+2025-02-26 13:47:36,977 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:36,993 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:37,028 - INFO - Saved downsampled files.
+2025-02-26 13:47:37,034 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:37,036 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:37,045 - INFO - Processing subject: DOSEESC_EM13
+2025-02-26 13:47:37,098 - INFO - Processing downsampling for subject DOSEESC_EM13, study 03/01/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019
+2025-02-26 13:47:37,127 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\06_downsample.
+2025-02-26 13:47:38,268 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019
+2025-02-26 13:47:39,029 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:39,045 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:39,079 - INFO - Saved downsampled files.
+2025-02-26 13:47:39,086 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:39,088 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:39,094 - INFO - Processing downsampling for subject DOSEESC_EM13, study 03/20/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019
+2025-02-26 13:47:39,121 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\06_downsample.
+2025-02-26 13:47:40,338 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019
+2025-02-26 13:47:40,735 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:40,751 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:40,786 - INFO - Saved downsampled files.
+2025-02-26 13:47:40,793 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:40,795 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:40,804 - INFO - Processing subject: DOSEESC_UM20
+2025-02-26 13:47:40,905 - INFO - Processing downsampling for subject DOSEESC_UM20, study 04/24/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019
+2025-02-26 13:47:40,934 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\06_downsample.
+2025-02-26 13:47:42,398 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019
+2025-02-26 13:47:43,066 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:43,082 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:43,118 - INFO - Saved downsampled files.
+2025-02-26 13:47:43,124 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:43,127 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:43,138 - INFO - Processing downsampling for subject DOSEESC_UM20, study 05/20/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019
+2025-02-26 13:47:43,168 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\06_downsample.
+2025-02-26 13:47:44,932 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019
+2025-02-26 13:47:45,644 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:45,660 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:45,695 - INFO - Saved downsampled files.
+2025-02-26 13:47:45,701 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:45,703 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:45,715 - INFO - Processing subject: DOSEESC_UM21
+2025-02-26 13:47:45,745 - INFO - Processing downsampling for subject DOSEESC_UM21, study 05/01/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019
+2025-02-26 13:47:45,775 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\06_downsample.
+2025-02-26 13:47:47,247 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019
+2025-02-26 13:47:48,241 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:48,257 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:48,292 - INFO - Saved downsampled files.
+2025-02-26 13:47:48,298 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:48,300 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:48,312 - INFO - Processing subject: DOSEESC_EM14
+2025-02-26 13:47:48,357 - INFO - Processing downsampling for subject DOSEESC_EM14, study 05/22/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019
+2025-02-26 13:47:48,386 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\06_downsample.
+2025-02-26 13:47:49,737 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019
+2025-02-26 13:47:50,159 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:50,174 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:50,210 - INFO - Saved downsampled files.
+2025-02-26 13:47:50,216 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:50,219 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:50,228 - INFO - Processing downsampling for subject DOSEESC_EM14, study 06/10/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019
+2025-02-26 13:47:50,258 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\06_downsample.
+2025-02-26 13:47:51,359 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019
+2025-02-26 13:47:51,792 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:51,808 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:51,843 - INFO - Saved downsampled files.
+2025-02-26 13:47:51,849 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:51,852 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:51,860 - INFO - Processing subject: DOSEESC_EM15
+2025-02-26 13:47:51,910 - INFO - Processing downsampling for subject DOSEESC_EM15, study 06/11/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019
+2025-02-26 13:47:51,939 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\06_downsample.
+2025-02-26 13:47:53,215 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019
+2025-02-26 13:47:53,963 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:53,979 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:54,014 - INFO - Saved downsampled files.
+2025-02-26 13:47:54,021 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:54,023 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:54,031 - INFO - Processing downsampling for subject DOSEESC_EM15, study 07/02/2019 in x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019
+2025-02-26 13:47:54,059 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\06_downsample.
+2025-02-26 13:47:55,312 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019
+2025-02-26 13:47:55,762 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:55,778 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:55,813 - INFO - Saved downsampled files.
+2025-02-26 13:47:55,820 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:55,822 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:55,830 - INFO - Processing subject: rGBM_001_02_27_2023
+2025-02-26 13:47:55,843 - INFO - Processing downsampling for subject rGBM_001_02_27_2023, study 02/27/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023
+2025-02-26 13:47:55,873 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\06_downsample.
+2025-02-26 13:47:56,910 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023
+2025-02-26 13:47:57,334 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:57,350 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:57,382 - INFO - Saved downsampled files.
+2025-02-26 13:47:57,388 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:57,390 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:57,399 - INFO - Processing subject: rGBM_001_04_21_2023
+2025-02-26 13:47:57,415 - INFO - Processing downsampling for subject rGBM_001_04_21_2023, study 04/21/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023
+2025-02-26 13:47:57,445 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\06_downsample.
+2025-02-26 13:47:58,491 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023
+2025-02-26 13:47:58,907 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:47:58,924 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:47:58,958 - INFO - Saved downsampled files.
+2025-02-26 13:47:58,963 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:47:58,965 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:47:58,973 - INFO - Processing subject: rGBM_001_06_30_2023
+2025-02-26 13:47:58,990 - INFO - Processing downsampling for subject rGBM_001_06_30_2023, study 06/30/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023
+2025-02-26 13:47:59,019 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\06_downsample.
+2025-02-26 13:48:00,064 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023
+2025-02-26 13:48:00,475 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:00,491 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:00,524 - INFO - Saved downsampled files.
+2025-02-26 13:48:00,530 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:00,532 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:00,545 - INFO - Processing subject: rGBM_001_08_30_2023
+2025-02-26 13:48:00,562 - INFO - Processing downsampling for subject rGBM_001_08_30_2023, study 08/30/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023
+2025-02-26 13:48:00,595 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\06_downsample.
+2025-02-26 13:48:01,650 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023
+2025-02-26 13:48:02,056 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:02,072 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:02,106 - INFO - Saved downsampled files.
+2025-02-26 13:48:02,113 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:02,115 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:02,124 - INFO - Processing subject: rGBM_002_04_28_2023
+2025-02-26 13:48:02,140 - INFO - Processing downsampling for subject rGBM_002_04_28_2023, study 04/28/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023
+2025-02-26 13:48:02,169 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\06_downsample.
+2025-02-26 13:48:03,247 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023
+2025-02-26 13:48:03,672 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:03,688 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:03,720 - INFO - Saved downsampled files.
+2025-02-26 13:48:03,726 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:03,728 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:03,737 - INFO - Processing subject: rGBM_003_04_24_2023
+2025-02-26 13:48:03,753 - INFO - Processing downsampling for subject rGBM_003_04_24_2023, study 04/24/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023
+2025-02-26 13:48:03,782 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\06_downsample.
+2025-02-26 13:48:04,770 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023
+2025-02-26 13:48:05,129 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:05,145 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:05,176 - INFO - Saved downsampled files.
+2025-02-26 13:48:05,182 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:05,184 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:05,194 - INFO - Processing subject: rGBM_004_09_22_2023
+2025-02-26 13:48:05,210 - INFO - Processing downsampling for subject rGBM_004_09_22_2023, study 09/22/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023
+2025-02-26 13:48:05,241 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\06_downsample.
+2025-02-26 13:48:06,615 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023
+2025-02-26 13:48:07,067 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:07,083 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:07,118 - INFO - Saved downsampled files.
+2025-02-26 13:48:07,123 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:07,126 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:07,135 - INFO - Processing subject: rGBM_005_08_18_2023
+2025-02-26 13:48:07,152 - INFO - Processing downsampling for subject rGBM_005_08_18_2023, study 08/18/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023
+2025-02-26 13:48:07,182 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\06_downsample.
+2025-02-26 13:48:08,395 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023
+2025-02-26 13:48:09,151 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:09,167 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:09,201 - INFO - Saved downsampled files.
+2025-02-26 13:48:09,207 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:09,209 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:09,218 - INFO - Processing subject: rGBM_006_04_03_2023
+2025-02-26 13:48:09,234 - INFO - Processing downsampling for subject rGBM_006_04_03_2023, study 04/03/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023
+2025-02-26 13:48:09,263 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\06_downsample.
+2025-02-26 13:48:10,277 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023
+2025-02-26 13:48:10,718 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:10,733 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:10,768 - INFO - Saved downsampled files.
+2025-02-26 13:48:10,774 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:10,777 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:10,785 - INFO - Processing subject: rGBM_006_05_24_2023
+2025-02-26 13:48:10,802 - INFO - Processing downsampling for subject rGBM_006_05_24_2023, study 05/24/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023
+2025-02-26 13:48:10,832 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\06_downsample.
+2025-02-26 13:48:12,056 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023
+2025-02-26 13:48:12,467 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:12,483 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:12,516 - INFO - Saved downsampled files.
+2025-02-26 13:48:12,522 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:12,524 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:12,533 - INFO - Processing subject: rGBM_006_08_01_2023
+2025-02-26 13:48:12,549 - INFO - Processing downsampling for subject rGBM_006_08_01_2023, study 08/01/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023
+2025-02-26 13:48:12,581 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\06_downsample.
+2025-02-26 13:48:13,675 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023
+2025-02-26 13:48:14,440 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:14,456 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:14,489 - INFO - Saved downsampled files.
+2025-02-26 13:48:14,496 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:14,498 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:14,507 - INFO - Processing subject: rGBM_007_05_30_2023
+2025-02-26 13:48:14,525 - INFO - Processing downsampling for subject rGBM_007_05_30_2023, study 05/30/2023 in x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023
+2025-02-26 13:48:14,554 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\06_downsample.
+2025-02-26 13:48:15,827 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023
+2025-02-26 13:48:16,293 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:16,308 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:16,343 - INFO - Saved downsampled files.
+2025-02-26 13:48:16,349 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:16,351 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:16,358 - INFO - Processing subject: wholeGBM_001_05_26_2023
+2025-02-26 13:48:16,373 - INFO - Processing downsampling for subject wholeGBM_001_05_26_2023, study 05/26/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023
+2025-02-26 13:48:16,404 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\06_downsample.
+2025-02-26 13:48:17,554 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023
+2025-02-26 13:48:18,016 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:18,032 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:18,066 - INFO - Saved downsampled files.
+2025-02-26 13:48:18,072 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:18,074 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:18,082 - INFO - Processing subject: wholeGBM_001_07_26_2023
+2025-02-26 13:48:18,098 - INFO - Processing downsampling for subject wholeGBM_001_07_26_2023, study 07/26/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023
+2025-02-26 13:48:18,127 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\06_downsample.
+2025-02-26 13:48:19,197 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023
+2025-02-26 13:48:19,666 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:19,682 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:19,715 - INFO - Saved downsampled files.
+2025-02-26 13:48:19,720 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:19,722 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:19,730 - INFO - Processing subject: wholeGBM_002_03_10_2023
+2025-02-26 13:48:19,744 - INFO - Processing downsampling for subject wholeGBM_002_03_10_2023, study 03/10/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023
+2025-02-26 13:48:19,773 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\06_downsample.
+2025-02-26 13:48:20,959 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023
+2025-02-26 13:48:21,423 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:21,439 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:21,475 - INFO - Saved downsampled files.
+2025-02-26 13:48:21,480 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:21,482 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:21,491 - INFO - Processing subject: wholeGBM_002_04_13_2023
+2025-02-26 13:48:21,508 - INFO - Processing downsampling for subject wholeGBM_002_04_13_2023, study 04/13/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023
+2025-02-26 13:48:21,537 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\06_downsample.
+2025-02-26 13:48:22,851 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023
+2025-02-26 13:48:23,259 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:23,275 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:23,309 - INFO - Saved downsampled files.
+2025-02-26 13:48:23,314 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:23,317 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:23,325 - INFO - Processing subject: wholeGBM_003_06_14_2023
+2025-02-26 13:48:23,341 - INFO - Processing downsampling for subject wholeGBM_003_06_14_2023, study 06/14/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023
+2025-02-26 13:48:23,372 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\06_downsample.
+2025-02-26 13:48:24,507 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023
+2025-02-26 13:48:24,941 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:24,956 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:24,990 - INFO - Saved downsampled files.
+2025-02-26 13:48:24,996 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:24,998 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:25,006 - INFO - Processing subject: wholeGBM_004_03_10_2023
+2025-02-26 13:48:25,022 - INFO - Processing downsampling for subject wholeGBM_004_03_10_2023, study 03/10/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023
+2025-02-26 13:48:25,051 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\06_downsample.
+2025-02-26 13:48:26,238 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023
+2025-02-26 13:48:26,690 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:26,706 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:26,741 - INFO - Saved downsampled files.
+2025-02-26 13:48:26,747 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:26,749 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:26,757 - INFO - Processing subject: wholeGBM_004_04_19_2023
+2025-02-26 13:48:26,773 - INFO - Processing downsampling for subject wholeGBM_004_04_19_2023, study 04/19/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023
+2025-02-26 13:48:26,804 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\06_downsample.
+2025-02-26 13:48:28,001 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023
+2025-02-26 13:48:28,472 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:28,488 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:28,521 - INFO - Saved downsampled files.
+2025-02-26 13:48:28,527 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:28,529 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:28,537 - INFO - Processing subject: wholeGBM_004_07_03_2023
+2025-02-26 13:48:28,553 - INFO - Processing downsampling for subject wholeGBM_004_07_03_2023, study 07/03/2023 in x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023
+2025-02-26 13:48:28,584 - INFO - Overwrite True: Removed previous output folder x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\06_downsample.
+2025-02-26 13:48:29,849 - INFO - Loaded input images from x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023
+2025-02-26 13:48:30,307 - INFO - Copied original files as upsampled versions.
+2025-02-26 13:48:30,323 - INFO - Downsampled images to (64, 64, 32).
+2025-02-26 13:48:30,360 - INFO - Saved downsampled files.
+2025-02-26 13:48:30,365 - INFO - Computed and saved final mask from multiplied downsampled images.
+2025-02-26 13:48:30,368 - INFO - Downsampling complete for x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\06_downsample\downsampling_complete.txt
+2025-02-26 13:48:31,276 - INFO - Ending downsample batch process.
+2025-02-26 13:48:31,294 - INFO - Starting downsample inspection process. Saving all figures.
+2025-02-26 13:48:37,203 - INFO - Found 59 subjects for downsampling inspection.
+2025-02-26 13:48:37,349 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM01, study 09/20/2017
+2025-02-26 13:48:37,606 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:37,609 - INFO - Downsampling inspection complete for subject DOSEESC_EM01, study 09/20/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\09.20.2017\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:37,717 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM01, study 10/16/2017
+2025-02-26 13:48:37,944 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:37,947 - INFO - Downsampling inspection complete for subject DOSEESC_EM01, study 10/16/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM01\10.16.2017\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:38,103 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM02, study 10/19/2017
+2025-02-26 13:48:38,329 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:38,332 - INFO - Downsampling inspection complete for subject DOSEESC_EM02, study 10/19/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\10.19.2017\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:38,450 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM02, study 11/14/2017
+2025-02-26 13:48:38,677 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:38,681 - INFO - Downsampling inspection complete for subject DOSEESC_EM02, study 11/14/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM02\11.14.2017\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:38,806 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM03, study 12/12/2017
+2025-02-26 13:48:39,153 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:39,156 - INFO - Downsampling inspection complete for subject DOSEESC_EM03, study 12/12/2017. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM03\12.12.2017\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:39,316 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM04, study 01/10/2018
+2025-02-26 13:48:39,544 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:39,547 - INFO - Downsampling inspection complete for subject DOSEESC_EM04, study 01/10/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\01.10.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:39,662 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM04, study 02/07/2018
+2025-02-26 13:48:39,889 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:39,892 - INFO - Downsampling inspection complete for subject DOSEESC_EM04, study 02/07/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM04\02.07.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:40,021 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM02, study 01/22/2018
+2025-02-26 13:48:40,247 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:40,250 - INFO - Downsampling inspection complete for subject DOSEESC_UM02, study 01/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM02\01.22.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:40,402 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM05, study 01/31/2018
+2025-02-26 13:48:40,628 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:40,631 - INFO - Downsampling inspection complete for subject DOSEESC_EM05, study 01/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\01.31.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:40,747 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM05, study 02/23/2018
+2025-02-26 13:48:40,972 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:40,976 - INFO - Downsampling inspection complete for subject DOSEESC_EM05, study 02/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM05\02.23.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:41,146 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM03, study 02/05/2018
+2025-02-26 13:48:41,373 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:41,376 - INFO - Downsampling inspection complete for subject DOSEESC_UM03, study 02/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.05.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:41,495 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM03, study 02/28/2018
+2025-02-26 13:48:41,720 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:41,723 - INFO - Downsampling inspection complete for subject DOSEESC_UM03, study 02/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM03\02.28.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:41,868 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM06, study 03/19/2018
+2025-02-26 13:48:42,093 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:42,096 - INFO - Downsampling inspection complete for subject DOSEESC_EM06, study 03/19/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\03.19.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:42,211 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM06, study 04/13/2018
+2025-02-26 13:48:42,435 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:42,439 - INFO - Downsampling inspection complete for subject DOSEESC_EM06, study 04/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM06\04.13.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:42,606 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM04, study 03/28/2018
+2025-02-26 13:48:42,831 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:42,834 - INFO - Downsampling inspection complete for subject DOSEESC_UM04, study 03/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\03.28.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:42,951 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM04, study 04/18/2018
+2025-02-26 13:48:43,182 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:43,185 - INFO - Downsampling inspection complete for subject DOSEESC_UM04, study 04/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM04\04.18.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:43,357 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM05, study 05/02/2018
+2025-02-26 13:48:43,585 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:43,588 - INFO - Downsampling inspection complete for subject DOSEESC_UM05, study 05/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.02.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:43,703 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM05, study 05/30/2018
+2025-02-26 13:48:43,927 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:43,930 - INFO - Downsampling inspection complete for subject DOSEESC_UM05, study 05/30/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM05\05.30.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:44,058 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH01, study 05/18/2018
+2025-02-26 13:48:44,282 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:44,285 - INFO - Downsampling inspection complete for subject DOSEESC_JH01, study 05/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH01\05.18.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:44,436 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH02, study 05/22/2018
+2025-02-26 13:48:44,657 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:44,661 - INFO - Downsampling inspection complete for subject DOSEESC_JH02, study 05/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\05.22.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:44,772 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH02, study 06/18/2018
+2025-02-26 13:48:45,159 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:45,162 - INFO - Downsampling inspection complete for subject DOSEESC_JH02, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH02\06.18.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:45,319 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH03, study 07/06/2018
+2025-02-26 13:48:45,542 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:45,544 - INFO - Downsampling inspection complete for subject DOSEESC_JH03, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\07.06.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:45,654 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH03, study 08/03/2018
+2025-02-26 13:48:45,877 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:45,881 - INFO - Downsampling inspection complete for subject DOSEESC_JH03, study 08/03/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH03\08.03.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:46,003 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH04, study 07/06/2018
+2025-02-26 13:48:46,226 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:46,230 - INFO - Downsampling inspection complete for subject DOSEESC_JH04, study 07/06/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH04\07.06.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:46,375 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM06, study 05/23/2018
+2025-02-26 13:48:46,598 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:46,601 - INFO - Downsampling inspection complete for subject DOSEESC_UM06, study 05/23/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\05.23.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:46,717 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM06, study 06/18/2018
+2025-02-26 13:48:46,940 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:46,943 - INFO - Downsampling inspection complete for subject DOSEESC_UM06, study 06/18/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM06\06.18.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:47,107 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM07, study 06/11/2018
+2025-02-26 13:48:47,331 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:47,334 - INFO - Downsampling inspection complete for subject DOSEESC_UM07, study 06/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\06.11.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:47,451 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM07, study 07/09/2018
+2025-02-26 13:48:47,673 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:47,676 - INFO - Downsampling inspection complete for subject DOSEESC_UM07, study 07/09/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM07\07.09.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:47,843 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM08, study 06/13/2018
+2025-02-26 13:48:48,067 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:48,070 - INFO - Downsampling inspection complete for subject DOSEESC_UM08, study 06/13/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\06.13.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:48,186 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM08, study 07/11/2018
+2025-02-26 13:48:48,410 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:48,413 - INFO - Downsampling inspection complete for subject DOSEESC_UM08, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM08\07.11.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:48,613 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM07, study 06/20/2018
+2025-02-26 13:48:48,835 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:48,838 - INFO - Downsampling inspection complete for subject DOSEESC_EM07, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:48,951 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM07, study 07/16/2018
+2025-02-26 13:48:49,172 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:49,175 - INFO - Downsampling inspection complete for subject DOSEESC_EM07, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\07.16.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:49,287 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM07, study 06/26/2018
+2025-02-26 13:48:49,508 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:49,511 - INFO - Downsampling inspection complete for subject DOSEESC_EM07, study 06/26/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM07\06.26.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:49,668 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM09, study 06/20/2018
+2025-02-26 13:48:49,892 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:49,895 - INFO - Downsampling inspection complete for subject DOSEESC_UM09, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\06.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:50,009 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM09, study 07/16/2018
+2025-02-26 13:48:50,231 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:50,235 - INFO - Downsampling inspection complete for subject DOSEESC_UM09, study 07/16/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09\07.16.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:50,366 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM09_70, study 06/20/2018
+2025-02-26 13:48:50,589 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:50,592 - INFO - Downsampling inspection complete for subject DOSEESC_UM09_70, study 06/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM09_70\06.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:50,840 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM10, study 07/11/2018
+2025-02-26 13:48:51,063 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:51,066 - INFO - Downsampling inspection complete for subject DOSEESC_UM10, study 07/11/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\07.11.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:51,181 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM10, study 08/20/2018
+2025-02-26 13:48:51,402 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:51,406 - INFO - Downsampling inspection complete for subject DOSEESC_UM10, study 08/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM10\08.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:51,587 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM13, study 08/22/2018
+2025-02-26 13:48:52,010 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:52,013 - INFO - Downsampling inspection complete for subject DOSEESC_UM13, study 08/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\08.22.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:52,131 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM13, study 09/17/2018
+2025-02-26 13:48:52,353 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:52,356 - INFO - Downsampling inspection complete for subject DOSEESC_UM13, study 09/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM13\09.17.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:52,517 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH07, study 08/27/2018
+2025-02-26 13:48:52,738 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:52,741 - INFO - Downsampling inspection complete for subject DOSEESC_JH07, study 08/27/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\08.27.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:52,851 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH07, study 09/20/2018
+2025-02-26 13:48:53,072 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:53,075 - INFO - Downsampling inspection complete for subject DOSEESC_JH07, study 09/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH07\09.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:53,248 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM14, study 10/01/2018
+2025-02-26 13:48:53,469 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:53,472 - INFO - Downsampling inspection complete for subject DOSEESC_UM14, study 10/01/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.01.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:53,586 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM14, study 10/22/2018
+2025-02-26 13:48:53,806 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:53,810 - INFO - Downsampling inspection complete for subject DOSEESC_UM14, study 10/22/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM14\10.22.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:53,987 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM15, study 10/31/2018
+2025-02-26 13:48:54,208 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:54,211 - INFO - Downsampling inspection complete for subject DOSEESC_UM15, study 10/31/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\10.31.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:54,335 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM15, study 11/28/2018
+2025-02-26 13:48:54,554 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:54,558 - INFO - Downsampling inspection complete for subject DOSEESC_UM15, study 11/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM15\11.28.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:54,687 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM08, study 11/02/2018
+2025-02-26 13:48:54,907 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:54,910 - INFO - Downsampling inspection complete for subject DOSEESC_EM08, study 11/02/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM08\11.02.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:55,183 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM16, study 11/14/2018
+2025-02-26 13:48:55,405 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:55,409 - INFO - Downsampling inspection complete for subject DOSEESC_UM16, study 11/14/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\11.14.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:55,521 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM16, study 12/05/2018
+2025-02-26 13:48:55,741 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:55,744 - INFO - Downsampling inspection complete for subject DOSEESC_UM16, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM16\12.05.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:55,905 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM09, study 11/20/2018
+2025-02-26 13:48:56,123 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:56,127 - INFO - Downsampling inspection complete for subject DOSEESC_EM09, study 11/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\11.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:56,240 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM09, study 12/17/2018
+2025-02-26 13:48:56,458 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:56,460 - INFO - Downsampling inspection complete for subject DOSEESC_EM09, study 12/17/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM09\12.17.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:56,622 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH10, study 12/05/2018
+2025-02-26 13:48:56,843 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:56,846 - INFO - Downsampling inspection complete for subject DOSEESC_JH10, study 12/05/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.05.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:56,957 - INFO - Loaded downsampled images for inspection for subject DOSEESC_JH10, study 12/28/2018
+2025-02-26 13:48:57,178 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:57,181 - INFO - Downsampling inspection complete for subject DOSEESC_JH10, study 12/28/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_JH10\12.28.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:57,334 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM10, study 12/20/2018
+2025-02-26 13:48:57,552 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:57,556 - INFO - Downsampling inspection complete for subject DOSEESC_EM10, study 12/20/2018. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\12.20.2018\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:57,672 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM10, study 01/16/2019
+2025-02-26 13:48:57,890 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:57,893 - INFO - Downsampling inspection complete for subject DOSEESC_EM10, study 01/16/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM10\01.16.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:58,037 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM11, study 01/03/2019
+2025-02-26 13:48:58,255 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:58,257 - INFO - Downsampling inspection complete for subject DOSEESC_EM11, study 01/03/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.03.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:58,365 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM11, study 01/24/2019
+2025-02-26 13:48:58,901 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:58,903 - INFO - Downsampling inspection complete for subject DOSEESC_EM11, study 01/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM11\01.24.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:59,029 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM17, study 01/07/2019
+2025-02-26 13:48:59,249 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:59,251 - INFO - Downsampling inspection complete for subject DOSEESC_UM17, study 01/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM17\01.07.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:59,471 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM18, study 01/23/2019
+2025-02-26 13:48:59,692 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:48:59,695 - INFO - Downsampling inspection complete for subject DOSEESC_UM18, study 01/23/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\01.23.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:48:59,805 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM18, study 02/18/2019
+2025-02-26 13:49:00,029 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:00,032 - INFO - Downsampling inspection complete for subject DOSEESC_UM18, study 02/18/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM18\02.18.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:00,246 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM12, study 01/25/2019
+2025-02-26 13:49:00,466 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:00,469 - INFO - Downsampling inspection complete for subject DOSEESC_EM12, study 01/25/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\01.25.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:00,580 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM12, study 03/07/2019
+2025-02-26 13:49:00,813 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:00,815 - INFO - Downsampling inspection complete for subject DOSEESC_EM12, study 03/07/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\03.07.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:00,926 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM12, study 02/12/2019
+2025-02-26 13:49:01,406 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:01,409 - INFO - Downsampling inspection complete for subject DOSEESC_EM12, study 02/12/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM12\02.12.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:01,573 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM13, study 03/01/2019
+2025-02-26 13:49:01,798 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:01,801 - INFO - Downsampling inspection complete for subject DOSEESC_EM13, study 03/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.01.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:01,915 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM13, study 03/20/2019
+2025-02-26 13:49:02,141 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:02,144 - INFO - Downsampling inspection complete for subject DOSEESC_EM13, study 03/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM13\03.20.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:02,360 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM20, study 04/24/2019
+2025-02-26 13:49:02,581 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:02,584 - INFO - Downsampling inspection complete for subject DOSEESC_UM20, study 04/24/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\04.24.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:02,696 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM20, study 05/20/2019
+2025-02-26 13:49:02,919 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:02,922 - INFO - Downsampling inspection complete for subject DOSEESC_UM20, study 05/20/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM20\05.20.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:03,065 - INFO - Loaded downsampled images for inspection for subject DOSEESC_UM21, study 05/01/2019
+2025-02-26 13:49:03,287 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:03,290 - INFO - Downsampling inspection complete for subject DOSEESC_UM21, study 05/01/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_UM21\05.01.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:03,446 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM14, study 05/22/2019
+2025-02-26 13:49:03,668 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:03,672 - INFO - Downsampling inspection complete for subject DOSEESC_EM14, study 05/22/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\05.22.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:03,786 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM14, study 06/10/2019
+2025-02-26 13:49:04,009 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:04,012 - INFO - Downsampling inspection complete for subject DOSEESC_EM14, study 06/10/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM14\06.10.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:04,186 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM15, study 06/11/2019
+2025-02-26 13:49:04,407 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:04,410 - INFO - Downsampling inspection complete for subject DOSEESC_EM15, study 06/11/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\06.11.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:04,525 - INFO - Loaded downsampled images for inspection for subject DOSEESC_EM15, study 07/02/2019
+2025-02-26 13:49:04,747 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:04,750 - INFO - Downsampling inspection complete for subject DOSEESC_EM15, study 07/02/2019. Marker created at x:\ArtifactRemovalProject\data\interim\DOSEESC_EM15\07.02.2019\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:04,875 - INFO - Loaded downsampled images for inspection for subject rGBM_001_02_27_2023, study 02/27/2023
+2025-02-26 13:49:05,097 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:05,100 - INFO - Downsampling inspection complete for subject rGBM_001_02_27_2023, study 02/27/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_02_27_2023\02.27.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:05,229 - INFO - Loaded downsampled images for inspection for subject rGBM_001_04_21_2023, study 04/21/2023
+2025-02-26 13:49:05,451 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:05,454 - INFO - Downsampling inspection complete for subject rGBM_001_04_21_2023, study 04/21/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_04_21_2023\04.21.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:05,582 - INFO - Loaded downsampled images for inspection for subject rGBM_001_06_30_2023, study 06/30/2023
+2025-02-26 13:49:05,803 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:05,806 - INFO - Downsampling inspection complete for subject rGBM_001_06_30_2023, study 06/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_06_30_2023\06.30.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:05,934 - INFO - Loaded downsampled images for inspection for subject rGBM_001_08_30_2023, study 08/30/2023
+2025-02-26 13:49:06,156 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:06,159 - INFO - Downsampling inspection complete for subject rGBM_001_08_30_2023, study 08/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_001_08_30_2023\08.30.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:06,288 - INFO - Loaded downsampled images for inspection for subject rGBM_002_04_28_2023, study 04/28/2023
+2025-02-26 13:49:06,512 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:06,515 - INFO - Downsampling inspection complete for subject rGBM_002_04_28_2023, study 04/28/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_002_04_28_2023\04.28.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:06,642 - INFO - Loaded downsampled images for inspection for subject rGBM_003_04_24_2023, study 04/24/2023
+2025-02-26 13:49:06,868 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:06,871 - INFO - Downsampling inspection complete for subject rGBM_003_04_24_2023, study 04/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_003_04_24_2023\04.24.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:07,000 - INFO - Loaded downsampled images for inspection for subject rGBM_004_09_22_2023, study 09/22/2023
+2025-02-26 13:49:07,220 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:07,224 - INFO - Downsampling inspection complete for subject rGBM_004_09_22_2023, study 09/22/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_004_09_22_2023\09.22.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:07,353 - INFO - Loaded downsampled images for inspection for subject rGBM_005_08_18_2023, study 08/18/2023
+2025-02-26 13:49:07,576 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:07,579 - INFO - Downsampling inspection complete for subject rGBM_005_08_18_2023, study 08/18/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_005_08_18_2023\08.18.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:07,712 - INFO - Loaded downsampled images for inspection for subject rGBM_006_04_03_2023, study 04/03/2023
+2025-02-26 13:49:07,938 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:07,942 - INFO - Downsampling inspection complete for subject rGBM_006_04_03_2023, study 04/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_04_03_2023\04.03.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:08,069 - INFO - Loaded downsampled images for inspection for subject rGBM_006_05_24_2023, study 05/24/2023
+2025-02-26 13:49:08,290 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:08,294 - INFO - Downsampling inspection complete for subject rGBM_006_05_24_2023, study 05/24/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_05_24_2023\05.24.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:08,423 - INFO - Loaded downsampled images for inspection for subject rGBM_006_08_01_2023, study 08/01/2023
+2025-02-26 13:49:08,645 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:08,647 - INFO - Downsampling inspection complete for subject rGBM_006_08_01_2023, study 08/01/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_006_08_01_2023\08.01.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:08,774 - INFO - Loaded downsampled images for inspection for subject rGBM_007_05_30_2023, study 05/30/2023
+2025-02-26 13:49:08,999 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:09,002 - INFO - Downsampling inspection complete for subject rGBM_007_05_30_2023, study 05/30/2023. Marker created at x:\ArtifactRemovalProject\data\interim\rGBM_007_05_30_2023\05.30.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:09,130 - INFO - Loaded downsampled images for inspection for subject wholeGBM_001_05_26_2023, study 05/26/2023
+2025-02-26 13:49:09,351 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:09,354 - INFO - Downsampling inspection complete for subject wholeGBM_001_05_26_2023, study 05/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_05_26_2023\05.26.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:09,483 - INFO - Loaded downsampled images for inspection for subject wholeGBM_001_07_26_2023, study 07/26/2023
+2025-02-26 13:49:09,703 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:09,706 - INFO - Downsampling inspection complete for subject wholeGBM_001_07_26_2023, study 07/26/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_001_07_26_2023\07.26.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:09,834 - INFO - Loaded downsampled images for inspection for subject wholeGBM_002_03_10_2023, study 03/10/2023
+2025-02-26 13:49:10,055 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:10,058 - INFO - Downsampling inspection complete for subject wholeGBM_002_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_03_10_2023\03.10.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:10,192 - INFO - Loaded downsampled images for inspection for subject wholeGBM_002_04_13_2023, study 04/13/2023
+2025-02-26 13:49:10,417 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:10,420 - INFO - Downsampling inspection complete for subject wholeGBM_002_04_13_2023, study 04/13/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_002_04_13_2023\04.13.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:10,549 - INFO - Loaded downsampled images for inspection for subject wholeGBM_003_06_14_2023, study 06/14/2023
+2025-02-26 13:49:10,771 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:10,775 - INFO - Downsampling inspection complete for subject wholeGBM_003_06_14_2023, study 06/14/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_003_06_14_2023\06.14.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:10,905 - INFO - Loaded downsampled images for inspection for subject wholeGBM_004_03_10_2023, study 03/10/2023
+2025-02-26 13:49:11,126 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:11,129 - INFO - Downsampling inspection complete for subject wholeGBM_004_03_10_2023, study 03/10/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_03_10_2023\03.10.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:11,260 - INFO - Loaded downsampled images for inspection for subject wholeGBM_004_04_19_2023, study 04/19/2023
+2025-02-26 13:49:11,479 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:11,482 - INFO - Downsampling inspection complete for subject wholeGBM_004_04_19_2023, study 04/19/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_04_19_2023\04.19.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:11,611 - INFO - Loaded downsampled images for inspection for subject wholeGBM_004_07_03_2023, study 07/03/2023
+2025-02-26 13:49:11,832 - INFO - Saved downsampling inspection figure to x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\06_downsample\downsampling_inspection.png
+2025-02-26 13:49:11,836 - INFO - Downsampling inspection complete for subject wholeGBM_004_07_03_2023, study 07/03/2023. Marker created at x:\ArtifactRemovalProject\data\interim\wholeGBM_004_07_03_2023\07.03.2023\06_downsample\downsampling_inspection_complete.txt
+2025-02-26 13:49:12,761 - INFO - Ending downsample inspection process.
